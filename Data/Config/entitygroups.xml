@@ -10,7 +10,38 @@
     <entity name="zombieDarlene"/>
     <entity name="zombieMarlene"/>
     <entity name="zombieNurse"/>
-    <entity name="zombieSteveCrawler"/>
+    <entity name="zombieSteveCrawler" prob="0.5"/>
+    <entity name="ZombieAiden"/>
+    <entity name="ZombieBob"/>
+    <entity name="ZombieCaitlin"/>
+    <entity name="ZombieCallie"/>
+    <entity name="ZombieChang"/>
+    <entity name="ZombieCharlotte"/>
+    <entity name="ZombieClint"/>
+    <entity name="ZombieEmma"/>
+    <entity name="ZombieGabrielle"/>
+    <entity name="ZombieGrace"/>
+    <entity name="ZombieHank"/>
+    <entity name="ZombieHelen"/>
+    <entity name="ZombieHugh"/>
+    <entity name="ZombieJack"/>
+    <entity name="ZombieJeff"/>
+    <entity name="ZombieJethro"/>
+    <entity name="ZombieJimmy"/>
+    <entity name="ZombieJoel"/>
+    <entity name="ZombieMaria"/>
+    <entity name="ZombieMercura"/>
+    <entity name="ZombieMiguel"/>
+    <entity name="ZombieRayah"/>
+    <entity name="ZombieRekt"/>
+    <entity name="ZombieSeryph"/>
+    <entity name="ZombieVince"/>
+    <entity name="ZombieWillie"/>
+    <entity name="ZombieSWATMale"/>
+    <entity name="ZombieSWATFemale"/>
+    <entity name="ZombieCur" prob="0.5"/>
+    <entity name="ZombieStripperMole" prob="0.25"/>
+    <entity name="ZombieTallman" prob="0.025"/>
   </entitygroup>
   <entitygroup name="ZombiesNight">
     <entity name="spiderzombie"/>
@@ -25,7 +56,38 @@
     <entity name="zombieNurse"/>
     <entity name="hornet" prob="0.05"/>
     <entity name="zombiedog" prob="0.05"/>
-    <entity name="zombieSteveCrawler"/>
+    <entity name="zombieSteveCrawler" prob="0.5"/>
+    <entity name="ZombieAiden"/>
+    <entity name="ZombieBob"/>
+    <entity name="ZombieCaitlin"/>
+    <entity name="ZombieCallie"/>
+    <entity name="ZombieChang"/>
+    <entity name="ZombieCharlotte"/>
+    <entity name="ZombieClint"/>
+    <entity name="ZombieEmma"/>
+    <entity name="ZombieGabrielle"/>
+    <entity name="ZombieGrace"/>
+    <entity name="ZombieHank"/>
+    <entity name="ZombieHelen"/>
+    <entity name="ZombieHugh"/>
+    <entity name="ZombieJack"/>
+    <entity name="ZombieJeff"/>
+    <entity name="ZombieJethro"/>
+    <entity name="ZombieJimmy"/>
+    <entity name="ZombieJoel"/>
+    <entity name="ZombieMaria"/>
+    <entity name="ZombieMercura"/>
+    <entity name="ZombieMiguel"/>
+    <entity name="ZombieRayah"/>
+    <entity name="ZombieRekt"/>
+    <entity name="ZombieSeryph"/>
+    <entity name="ZombieVince"/>
+    <entity name="ZombieWillie"/>
+    <entity name="ZombieSWATMale"/>
+    <entity name="ZombieSWATFemale"/>
+    <entity name="ZombieCur" prob="0.5"/>
+    <entity name="ZombieStripperMole" prob="0.25"/>
+    <entity name="ZombieTallman" prob="0.025"/>
   </entitygroup>
   <entitygroup name="ZombiesWasteland">
     <entity name="spiderzombie"/>
@@ -40,9 +102,11 @@
     <entity name="zombieNurse"/>
     <entity name="hornet"/>
     <entity name="zombiedog"/>
-    <entity name="zombieSteveCrawler"/>
+    <entity name="zombieSteveCrawler" prob="0.5"/>
     <entity name="fatzombiecop"/>
     <entity name="burntzombie"/>
+    <entity name="ZombieWarlord" prob="0.1"/>
+    <entity name="ZombieCur" prob="0.3"/>
   </entitygroup>
   <entitygroup name="ZombiesWastelandNight">
     <entity name="spiderzombie"/>
@@ -57,11 +121,15 @@
     <entity name="zombieNurse"/>
     <entity name="hornet"/>
     <entity name="zombiedog"/>
-    <entity name="zombieSteveCrawler"/>
+    <entity name="zombieSteveCrawler" prob="0.5"/>
     <entity name="fatzombiecop"/>
     <entity name="burntzombie"/>
     <entity name="zombieBear"/>
     <entity name="zombieferal"/>
+    <entity name="ZombieWarlord" prob="0.2"/>
+    <entity name="ZombieBolivar" prob="0.2"/>
+    <entity name="ZombieCur" prob="0.2"/>
+    <entity name="ZombieStripperMole" prob="0.1"/>
   </entitygroup>
   <entitygroup name="ZombiesWastelandNightNoBears">
     <entity name="spiderzombie"/>
@@ -76,10 +144,14 @@
     <entity name="zombieNurse"/>
     <entity name="hornet"/>
     <entity name="zombiedog"/>
-    <entity name="zombieSteveCrawler"/>
+    <entity name="zombieSteveCrawler" prob="0.5"/>
     <entity name="fatzombiecop"/>
     <entity name="burntzombie"/>
     <entity name="zombieferal"/>
+    <entity name="ZombieWarlord" prob="0.2"/>
+    <entity name="ZombieBolivar" prob="0.2"/>
+    <entity name="ZombieCur" prob="0.2"/>
+    <entity name="ZombieStripperMole" prob="0.1"/>
   </entitygroup>
   <entitygroup name="ZombiesWastelandNight2">
     <entity name="spiderzombie"/>
@@ -99,6 +171,10 @@
     <entity name="burntzombie" prob="0.07"/>
     <entity name="zombieBear" prob="0.1"/>
     <entity name="zombieferal" prob="0.1"/>
+    <entity name="ZombieWarlord" prob="0.2"/>
+    <entity name="ZombieBolivar" prob="0.2"/>
+    <entity name="ZombieCur" prob="0.2"/>
+    <entity name="ZombieStripperMole" prob="0.1"/>
   </entitygroup>
   <entitygroup name="ZombiesWastelandNight2NoBears">
     <entity name="spiderzombie"/>
@@ -117,6 +193,10 @@
     <entity name="fatzombiecop" prob="0.15"/>
     <entity name="burntzombie" prob="0.07"/>
     <entity name="zombieferal" prob="0.1"/>
+    <entity name="ZombieWarlord" prob="0.2"/>
+    <entity name="ZombieBolivar" prob="0.2"/>
+    <entity name="ZombieCur" prob="0.2"/>
+    <entity name="ZombieStripperMole" prob="0.1"/>
   </entitygroup>
   <entitygroup name="ZombiesHoard">
     <entity name="spiderzombie"/>
@@ -134,9 +214,43 @@
     <entity name="zombiedog" prob="0.05"/>
     <entity name="zombieBear" prob="0.05"/>
     <entity name="zombieSteveCrawler" prob="0.1"/>
+    <entity name="ZombieAiden"/>
+    <entity name="ZombieBob"/>
+    <entity name="ZombieCaitlin"/>
+    <entity name="ZombieCallie"/>
+    <entity name="ZombieChang"/>
+    <entity name="ZombieCharlotte"/>
+    <entity name="ZombieClint"/>
+    <entity name="ZombieEmma"/>
+    <entity name="ZombieGabrielle"/>
+    <entity name="ZombieGrace"/>
+    <entity name="ZombieHank"/>
+    <entity name="ZombieHelen"/>
+    <entity name="ZombieHugh"/>
+    <entity name="ZombieJack"/>
+    <entity name="ZombieJeff"/>
+    <entity name="ZombieJethro"/>
+    <entity name="ZombieJimmy"/>
+    <entity name="ZombieJoel"/>
+    <entity name="ZombieMaria"/>
+    <entity name="ZombieMercura"/>
+    <entity name="ZombieMiguel"/>
+    <entity name="ZombieRayah"/>
+    <entity name="ZombieRekt"/>
+    <entity name="ZombieSeryph"/>
+    <entity name="ZombieVince"/>
+    <entity name="ZombieWillie"/>
+    <entity name="ZombieWarlord" prob="0.03"/>
+    <entity name="ZombieBolivar" prob="0.03"/>
+    <entity name="ZombieCur" prob="0.03"/>
+    <entity name="ZombieStripperMole" prob="0.03"/>
+    <entity name="ZombieSWATMale" prob="0.03"/>
+    <entity name="ZombieSWATFemale" prob="0.03"/>
   </entitygroup>
   <entitygroup name="ZombieScouts">
     <entity name="zombieScreamer"/>
+    <entity name="ZombieTallman" prob="0.05"/>
+    <entity name="ZombieDogScreamer" prob="0.05"/>
   </entitygroup>
   <entitygroup name="ZombiesCrawlers">
     <entity name="zombieSteveCrawler" prob="1"/>
@@ -149,7 +263,7 @@
     <entity name="snowzombie" prob="1"/>
   </entitygroup>
   <entitygroup name="ZombiesBoss">
-    <entity name="fatzombiecop"/>
+    <entity name="fatzombiecop" prob="1.0"/>
   </entitygroup>
   <entitygroup name="ZombiesFeral">
     <entity name="zombieferal"/>
@@ -196,7 +310,9 @@
     <entity name="ZombieFarmer"/>
   </entitygroup>
   <entitygroup name="ZombieSoldierGroup">
-    <entity name="ZombieSoldier"/>
+    <entity name="ZombieSoldier" prob="1"/>
+    <entity name="ZombieSWATMale" prob="1"/>
+    <entity name="ZombieSWATFemale" prob="1"/>
     <entity name="zombieMaleHazmat" prob="0.2"/>
     <entity name="zombieFemaleHazmat" prob="0.2"/>
     <entity name="spiderzombie" prob="0.01"/>

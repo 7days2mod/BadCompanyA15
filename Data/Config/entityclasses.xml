@@ -1226,4 +1226,169 @@
     <property name="Archetype" value="TraderJoel"/>
     <property name="NPCID" value="traderTest"/>
   </entity_class>
+
+  <entity_class name="ZombieAiden" extends="zombieUMA">
+    <property name="Archetype" value="ZombieAiden"/>
+  </entity_class>
+  <entity_class name="ZombieBob" extends="zombieUMA">
+    <property name="Archetype" value="ZombieBob"/>
+  </entity_class>
+  <entity_class name="ZombieBolivar" extends="zombieUMA">
+    <property name="Archetype" value="ZombieBolivar"/>
+    <property name="HandItem" value="handCopZombie"/>
+    <property name="MaxHealth" value="500"/>
+    <property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath"/>
+    <property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain"/>
+  </entity_class>
+  <entity_class name="ZombieCaitlin" extends="ZombieFemaleUMA">
+    <property name="Archetype" value="ZombieCaitlin"/>
+  </entity_class>
+  <entity_class name="ZombieCallie" extends="ZombieFemaleUMA">
+    <property name="Archetype" value="ZombieCallie"/>
+  </entity_class>
+  <entity_class name="ZombieChang" extends="zombieUMA">
+    <property name="Archetype" value="ZombieChang"/>
+  </entity_class>
+  <entity_class name="ZombieCharlotte" extends="ZombieFemaleUMA">
+    <property name="Archetype" value="ZombieCharlotte"/>
+  </entity_class>
+  <entity_class name="ZombieClint" extends="zombieUMA">
+    <property name="Archetype" value="ZombieClint"/>
+  </entity_class>
+  <entity_class name="ZombieCur" extends="zombieUMA">
+    <property name="Archetype" value="ZombieCur"/>
+    <property name="WalkType" value="6"/>
+    <property name="HandItem" value="handZombieStripper"/>
+    <property name="MaxHealth" value="500"/>
+    <property name="AttackTimeoutDay" value="1.0"/>
+    <property name="AttackTimeoutNight" value="1.0"/>
+    <property name="ExperienceGain" value="3000"/>
+  </entity_class>
+  <entity_class name="ZombieEmma" extends="ZombieFemaleUMA">
+    <property name="Archetype" value="ZombieEmma"/>
+  </entity_class>
+  <entity_class name="ZombieGabrielle" extends="ZombieFemaleUMA">
+    <property name="Archetype" value="ZombieGabrielle"/>
+  </entity_class>
+  <entity_class name="ZombieGrace" extends="ZombieFemaleUMA">
+    <property name="Archetype" value="ZombieGrace"/>
+  </entity_class>
+  <entity_class name="ZombieHank" extends="zombieUMA">
+    <property name="Archetype" value="ZombieHank"/>
+  </entity_class>
+  <entity_class name="ZombieHelen" extends="ZombieFemaleUMA">
+    <property name="Archetype" value="ZombieHelen"/>
+  </entity_class>
+  <entity_class name="ZombieHugh" extends="zombieUMA">
+    <property name="Archetype" value="ZombieHugh"/>
+  </entity_class>
+  <entity_class name="ZombieJack" extends="zombieUMA">
+    <property name="Archetype" value="ZombieJack"/>
+  </entity_class>
+  <entity_class name="ZombieJeff" extends="zombieUMA">
+    <property name="Archetype" value="ZombieJeff"/>
+  </entity_class>
+  <entity_class name="ZombieJethro" extends="zombieUMA">
+    <property name="Archetype" value="ZombieJethro"/>
+    <property name="SoundRandom" value="Enemies/Base_Zombie_Male2/zombiemale2roam"/>
+    <property name="SoundAlert" value="Enemies/Base_Zombie_Male2/zombiemale2alert"/>
+    <property name="SoundSense" value="Enemies/Base_Zombie_Male2/zombiemale2sense"/>
+    <property name="SoundHurt" value="Enemies/Base_Zombie_Male2/zombiemale2pain"/>
+    <property name="SoundDeath" value="Enemies/Base_Zombie_Male2/zombiemale2death"/>
+    <property name="SoundAttack" value="Enemies/Base_Zombie_Male2/zombiemale2attack"/>
+    <property name="WalkType" value="1"/>
+    <property name="HandItem" value="handStrongZombie"/>
+    <property name="MaxHealth" value="300"/>
+    <property name="ExperienceGain" value="2250"/>
+    <property name="LootListOnDeath" value="38"/>
+  </entity_class>
+  <entity_class name="ZombieJimmy" extends="zombieUMA">
+    <property name="Archetype" value="ZombieJimmy"/>
+  </entity_class>
+  <entity_class name="ZombieJoel" extends="zombieUMA">
+    <property name="Archetype" value="ZombieJoel"/>
+  </entity_class>
+  <entity_class name="ZombieMaria" extends="ZombieFemaleUMA">
+    <property name="Archetype" value="ZombieMaria"/>
+  </entity_class>
+  <entity_class name="ZombieMercura" extends="ZombieFemaleUMA">
+    <property name="Archetype" value="ZombieMercura"/>
+  </entity_class>
+  <entity_class name="ZombieMiguel" extends="zombieUMA">
+    <property name="Archetype" value="ZombieMiguel"/>
+  </entity_class>
+  <entity_class name="ZombieRayah" extends="zombieUMA">
+    <property name="Archetype" value="ZombieRayah"/>
+  </entity_class>
+  <entity_class name="ZombieRekt" extends="zombieUMA">
+    <property name="Archetype" value="ZombieRekt"/>
+  </entity_class>
+  <entity_class name="ZombieSeryph" extends="ZombieFemaleUMA">
+    <property name="Archetype" value="ZombieSeryph"/>
+    <property name="WalkType" value="3"/>
+    <property name="MaxHealth" value="100"/>
+    <property name="WanderSpeed" value="0.35"/>
+    <property name="ApproachSpeed" value="0.55"/>
+    <property name="NightWanderSpeed" value="0.45"/>
+    <property name="NightApproachSpeed" value="1.15"/>
+    <property name="ExperienceGain" value="1500"/>
+  </entity_class>
+  <entity_class name="ZombieStripperMole" extends="zombieUMA">
+    <property name="Archetype" value="ZombieStripperMole"/>
+    <property name="WalkType" value="1"/>
+    <property name="MaxHealth" value="500"/>
+    <property name="LootListOnDeath" value="84"/>
+    <property name="ExperienceGain" value="3000"/>
+  </entity_class>
+  <entity_class name="ZombieTallman" extends="zombieUMA">
+    <property name="Archetype" value="ZombieTallman"/>
+    <property name="MaxHealth" value="80"/>
+    <property name="WanderSpeed" value="0.45"/>
+    <property name="ApproachSpeed" value="0.8"/>
+    <property name="NightWanderSpeed" value="0.65"/>
+    <property name="NightApproachSpeed" value="1.25"/>
+    <property name="SoundRandom" value="Enemies/Spider_Zombie/spiderroam"/>
+    <property name="SoundAlert" value="Enemies/Spider_Zombie/spideralert"/>
+    <property name="SoundAttack" value="Enemies/Spider_Zombie/spiderattack"/>
+    <property name="SoundDeath" value="Enemies/Spider_Zombie/spiderdeath"/>
+    <property name="SoundHurt" value="Enemies/Spider_Zombie/spiderpain"/>
+    <property name="SoundSense" value="Enemies/Spider_Zombie/spidersense"/>
+    <property name="ExperienceGain" value="2000"/>
+  </entity_class>
+  <entity_class name="ZombieVince" extends="zombieUMA">
+    <property name="Archetype" value="ZombieVince"/>
+  </entity_class>
+  <entity_class name="ZombieWarlord" extends="zombieUMA">
+    <property name="Archetype" value="ZombieWarlord"/>
+    <property name="Class" value="EntityZombieCop"/>
+    <property name="HandItem" value="handCopZombie"/>
+    <property name="MaxHealth" value="1200"/>
+    <property name="Explosion.ParticleIndex" value="8"/>
+    <property name="Explosion.RadiusBlocks" value="3"/>
+    <property name="Explosion.RadiusEntities" value="3"/>
+    <property name="Explosion.BlockDamage" value="400"/>
+    <property name="Explosion.EntityDamage" value="70"/>
+    <property name="Explosion.DamageBonus.earth" value="0"/>
+    <property name="ExperienceGain" value="5000"/>
+  </entity_class>
+  <entity_class name="ZombieWillie" extends="zombieUMA">
+    <property name="Archetype" value="ZombieWillie"/>
+  </entity_class>
+  <entity_class name="ZombieSWATMale" extends="zombieUMA">
+    <property name="Archetype" value="ZombieSWATMale"/>
+    <property name="LootListOnDeath" value="73"/>
+    <property name="MaxHealth" value="800"/>
+    <property name="ExperienceGain" value="3500"/>
+    <property name="WalkType" value="7"/>
+  </entity_class>
+  <entity_class name="ZombieSWATFemale" extends="ZombieFemaleUMA">
+    <property name="Archetype" value="ZombieSWATFemale"/>
+    <property name="LootListOnDeath" value="73"/>
+    <property name="MaxHealth" value="600"/>
+    <property name="ExperienceGain" value="3500"/>
+    <property name="WalkType" value="3"/>
+  </entity_class>
+  <entity_class name="ZombieDogScreamer" extends="zombiedog">
+    <property name="SoundAlert" value="Animals/Bear/bearalert"/>
+  </entity_class>
 </entity_classes>
