@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <spawning>
   <biome name="burnt_forest">
-    <spawn maxcount="2" respawndelay="4" time="Any" entitygroup="ZombiesBurntForest"/>
-    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesBurntForestUMA"/>
+    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesBurntForest"/>
+    <spawn maxcount="2" respawndelay="3" time="Any" entitygroup="ZombiesBurntForestUMA"/>
     <spawn maxcount="1" respawndelay="15" time="Any" entitygroup="AnimalsSmall" spawnDeadChance="0"/>
   </biome>
   <biome name="desert">
-    <spawn maxcount="2" respawndelay="4" time="Any" entitygroup="ZombiesDesert"/>
-    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesDesertUMA"/>
+    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesDesert"/>
+    <spawn maxcount="2" respawndelay="3" time="Any" entitygroup="ZombiesDesertUMA"/>
     <spawn maxcount="1" respawndelay="8" time="Any" entitygroup="AnimalsSmall" spawnDeadChance="0"/>
   </biome>
   <biome name="forest">
-    <spawn maxcount="2" respawndelay="4" time="Any" entitygroup="ZombiesForest"/>
-    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesForestUMA"/>
+    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesForest"/>
+    <spawn maxcount="2" respawndelay="3" time="Any" entitygroup="ZombiesForestUMA"/>
     <spawn maxcount="1" respawndelay="15" time="Any" entitygroup="AnimalsAll" spawnDeadChance="0"/>
   </biome>
   <biome name="pine_forest">
-    <spawn maxcount="2" respawndelay="4" time="Any" entitygroup="ZombiesPineForest"/>
-    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesPineForestUMA"/>
+    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesPineForest"/>
+    <spawn maxcount="2" respawndelay="3" time="Any" entitygroup="ZombiesPineForestUMA"/>
     <spawn maxcount="1" respawndelay="15" time="Any" entitygroup="AnimalsAll" spawnDeadChance="0"/>
   </biome>
   <biome name="plains">
-    <spawn maxcount="2" respawndelay="4" time="Any" entitygroup="ZombiesPlains"/>
-    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesPlainsUMA"/>
+    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesPlains"/>
+    <spawn maxcount="2" respawndelay="3" time="Any" entitygroup="ZombiesPlainsUMA"/>
     <spawn maxcount="1" respawndelay="15" time="Any" entitygroup="AnimalsAll" spawnDeadChance="0"/>
   </biome>
   <biome name="snow">
-    <spawn maxcount="2" respawndelay="4" time="Any" entitygroup="ZombiesSnow"/>
-    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesSnowUMA"/>
+    <spawn maxcount="1" respawndelay="3" time="Any" entitygroup="ZombiesSnow"/>
+    <spawn maxcount="2" respawndelay="3" time="Any" entitygroup="ZombiesSnowUMA"/>
     <spawn maxcount="1" respawndelay="8" time="Any" entitygroup="AnimalsAll" spawnDeadChance="0"/>
   </biome>
   <biome name="wasteland">
-    <spawn maxcount="4" respawndelay="3" time="Day" entitygroup="ZombiesWasteland"/>
-    <spawn maxcount="4" respawndelay="3" time="Night" entitygroup="ZombiesWastelandNight"/>
-    <spawn maxcount="1" respawndelay="2" time="Day" entitygroup="ZombiesWastelandUMA"/>
-    <spawn maxcount="1" respawndelay="2" time="Night" entitygroup="ZombiesWastelandNightUMA"/>
+    <spawn maxcount="1" respawndelay="3" time="Day" entitygroup="ZombiesWasteland"/>
+    <spawn maxcount="1" respawndelay="3" time="Night" entitygroup="ZombiesWastelandNight"/>
+    <spawn maxcount="3" respawndelay="3" time="Day" entitygroup="ZombiesWastelandUMA"/>
+    <spawn maxcount="3" respawndelay="3" time="Night" entitygroup="ZombiesWastelandNightUMA"/>
     <spawn maxcount="1" respawndelay="15" time="Any" entitygroup="AnimalsSmall" spawnDeadChance="0"/>
   </biome>
   <biome name="wasteland_hub"> <!-- City Hubs -->
-    <spawn maxcount="4" respawndelay="1" time="Day" entitygroup="ZombiesWastelandHub"/>
+    <spawn maxcount="3" respawndelay="1" time="Day" entitygroup="ZombiesWastelandHub"/>
     <spawn maxcount="3" respawndelay="0" time="Night" entitygroup="ZombiesWastelandHubNight"/>
     <spawn maxcount="3" respawndelay="1" time="Day" entitygroup="ZombiesWastelandHubUMA"/>
     <spawn maxcount="2" respawndelay="0" time="Night" entitygroup="ZombiesWastelandHubNightUMA"/>
@@ -670,6 +670,7 @@
       <property name="DelayBetweenSpawns" value="0"/>
       <property name="TotalAlive" value="30"/>
       <property name="TotalPerWave" value="30"/>
+      <property name="AttackPlayerAtOnce" value="true"/>
     </day>
     <day value="14">
       <property name="EntityGroupName" value="ZombiesRoamingMixed"/>
