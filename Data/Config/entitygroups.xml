@@ -1078,7 +1078,7 @@
 
   <!-- Scouts -->
   <entitygroup name="ZombieScoutsEasy">
-    <entity name="zombieScreamer" prob="1"/>
+    <entity name="zombieScreamer" prob="1.0"/>
   </entitygroup>
   <entitygroup name="ZombieScoutsMedium">
     <entity name="zombieScreamer" prob="0.95"/>

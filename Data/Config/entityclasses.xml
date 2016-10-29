@@ -642,6 +642,9 @@
     <property name="Mesh" value="Animals/Rabbit/RABBIT"/>
     <property name="Class" value="EntityZombie"/>
     <property name="AvatarController" value="GameObjectAnimalAnimation"/>
+    <property name="AttackTimeoutDay" value="0.4"/>
+    <property name="AttackTimeoutNight" value="0.4"/>
+    <property name="HandItem" value="handZombieTiny"/>
     <property name="Weight" value="10"/>
     <property name="MaxHealth" value="10"/>
     <property name="WanderSpeed" value="0.2"/>
@@ -663,13 +666,16 @@
     <property name="Mesh" value="Animals/CHICKEN/chickenPrefab"/>
     <property name="Class" value="EntityZombie"/>
     <property name="AvatarController" value="GameObjectAnimalAnimation"/>
-    <property name="PhysicsBody" value="chicken"/>
+    <property name="AttackTimeoutDay" value="0.4"/>
+    <property name="AttackTimeoutNight" value="0.4"/>
+    <property name="HandItem" value="handZombieTiny"/>
     <property name="Weight" value="10"/>
     <property name="MaxHealth" value="10"/>
     <property name="WanderSpeed" value="0.2"/>
     <property name="ApproachSpeed" value="0.8"/>
     <property name="NightWanderSpeed" value="0.3"/>
     <property name="NightApproachSpeed" value="0.8"/>
+    <property name="PhysicsBody" value="chicken"/>
     <property name="SoundHurt" value="Animals/Chicken/chickenpain"/>
     <property name="SoundDeath" value="Animals/Chicken/chickendeath"/>
     <property name="SoundRandom" value="Animals/Chicken/chickenroam"/>
@@ -1362,9 +1368,11 @@
     <property name="AvatarController" value="AvatarUMAController"/>
     <property name="PhysicsBody" value="Player"/>
     <property name="ModelType" value="NpcUMA"/>
-    <property name="EntityType" value="Player"/>
+    <property name="EntityType" value="Zombie"/>
+<!--    <property name="EntityType" value="Player"/>-->
     <property name="Prefab" value="NPC"/>
-    <property name="Parent" value="Players"/>
+<!--    <property name="Parent" value="Players"/>-->
+    <property name="Parent" value="Enemies"/>
     <property name="HasRagdoll" value="true"/>
     <property name="IsEnemyEntity" value="true"/>
     <property name="SurfaceCategory" value="organic"/>
@@ -1600,7 +1608,9 @@
   <entity_class name="ZombieCur" extends="zombieUMA">
     <property name="Archetype" value="ZombieCur"/>
     <property name="WalkType" value="6"/>
-    <property name="HandItem" value="handZombieStripper"/>
+    <property name="AttackTimeoutDay" value="0.5"/>
+    <property name="AttackTimeoutNight" value="0.5"/>
+    <property name="HandItem" value="handZombieCur"/>
     <property name="MaxHealth" value="500"/>
     <property name="AttackTimeoutDay" value="1.0"/>
     <property name="AttackTimeoutNight" value="1.0"/>
