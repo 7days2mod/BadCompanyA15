@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="waste_rubble_bldg_04">
+  <size x="16" y="21" z="14"/>
+  <blocks>
+    <block id="0" name="air" count="4232"/>
+    <block id="957" name="brickDecayedTanBlock" count="184"/>
+    <block id="374" name="cinderBlocks01" count="4"/>
+    <block id="416" name="cinderBlocks02" count="1"/>
+    <block id="538" name="cinderBlocks03" count="4"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="520" name="cntDesk02" count="1"/>
+    <block id="347" name="cntTrashPile08" count="1"/>
+    <block id="211" name="concreteBlock" count="14"/>
+    <block id="594" name="concreteDestroyed2" count="4"/>
+    <block id="595" name="concreteDestroyed3" count="1"/>
+    <block id="599" name="concreteDestroyed7" count="2"/>
+    <block id="600" name="concreteDestroyed8" count="2"/>
+    <block id="601" name="concreteDestroyed9" count="2"/>
+    <block id="26" name="destroyedStone" count="192"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="1207" name="glassIndustrial02Broken01CTRPlate" count="3"/>
+    <block id="1208" name="glassIndustrial02Broken02CTRPlate" count="2"/>
+    <block id="1206" name="glassIndustrial02CTRPlate" count="4"/>
+    <block id="263" name="lootWasteland" count="1"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="4"/>
+    <block id="1108" name="plywoodOsbCTRPlate" count="4"/>
+    <block id="1107" name="plywoodOsbPlate" count="1"/>
+    <block id="517" name="rebarDestroyed" count="4"/>
+    <block id="602" name="tanBrickDecayedBroke1" count="14"/>
+    <block id="603" name="tanBrickDecayedBroke2" count="12"/>
+    <block id="604" name="tanBrickDecayedBroke3" count="2"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="2"/>
+    <block id="871" name="treeDeadPineLeaf" count="3"/>
+    <block id="1193" name="woodBarricadeCTRPlate" count="1"/>
+  </blocks>
+</prefab>

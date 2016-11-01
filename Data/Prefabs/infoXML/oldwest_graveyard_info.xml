@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="oldwest_graveyard">
+  <size x="13" y="4" z="16"/>
+  <blocks>
+    <block id="0" name="air" count="324"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="1468" name="cntCoffin" count="9"/>
+    <block id="352" name="graveStone01" count="1"/>
+    <block id="353" name="graveStone02" count="1"/>
+    <block id="354" name="graveStone03" count="1"/>
+    <block id="355" name="graveStone04" count="1"/>
+    <block id="356" name="graveStone05" count="1"/>
+    <block id="358" name="graveStone07" count="1"/>
+    <block id="359" name="graveStone08" count="1"/>
+    <block id="962" name="graveStone1Half" count="2"/>
+    <block id="787" name="rustyIronPole" count="17"/>
+    <block id="8" name="sand" count="1"/>
+    <block id="28" name="terrainFiller" count="397"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="11"/>
+    <block id="871" name="treeDeadPineLeaf" count="7"/>
+    <block id="864" name="treeGreenBrownGrassDiagonal" count="7"/>
+    <block id="896" name="wroughtIronFenceSheet" count="49"/>
+  </blocks>
+</prefab>

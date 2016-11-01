@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="bluff01">
+  <size x="15" y="11" z="19"/>
+  <blocks>
+    <block id="0" name="air" count="1463"/>
+    <block id="3" name="dirt" count="199"/>
+    <block id="4" name="plainsGround" count="568"/>
+    <block id="630" name="rockResource" count="1"/>
+    <block id="1" name="stone" count="828"/>
+    <block id="871" name="treeDeadPineLeaf" count="2"/>
+    <block id="772" name="treePlainsGrassDiagonal" count="74"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="street_private">
+  <size x="1" y="2" z="1"/>
+  <blocks>
+    <block id="0" name="air" count="1"/>
+    <block id="510" name="signRoadPrivate" count="1"/>
+  </blocks>
+</prefab>

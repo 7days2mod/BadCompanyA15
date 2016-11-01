@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="parking_lot_01">
+  <size x="35" y="11" z="35"/>
+  <blocks>
+    <block id="0" name="air" count="11985"/>
+    <block id="15" name="asphalt" count="1225"/>
+    <block id="954" name="brickDecayedBlock" count="1"/>
+    <block id="583" name="brickDecayedBroke1Block" count="3"/>
+    <block id="585" name="brickDecayedBroke3Block" count="2"/>
+    <block id="957" name="brickDecayedTanBlock" count="66"/>
+    <block id="275" name="brickpaintedBlock" count="31"/>
+    <block id="712" name="cabinetTopPlate" count="1"/>
+    <block id="518" name="chair01" count="1"/>
+    <block id="416" name="cinderBlocks02" count="1"/>
+    <block id="1455" name="cntCar03Damage2" count="2"/>
+    <block id="1456" name="cntCar03Red" count="1"/>
+    <block id="1340" name="cntCashRegister" count="1"/>
+    <block id="520" name="cntDesk02" count="1"/>
+    <block id="1481" name="cntDumpster" count="1"/>
+    <block id="1347" name="cntShoppingCart" count="1"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="345" name="cntTrashPile06" count="1"/>
+    <block id="347" name="cntTrashPile08" count="2"/>
+    <block id="367" name="cntWallSafe" count="1"/>
+    <block id="1175" name="commercialDoor4_v3" count="1"/>
+    <block id="211" name="concreteBlock" count="15"/>
+    <block id="775" name="concreteHalf" count="21"/>
+    <block id="926" name="corrugatedMetalSheetDuplicate" count="7"/>
+    <block id="1482" name="garbage_decor1" count="2"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="558" name="ironBars" count="3"/>
+    <block id="964" name="metalAsphaltHalf" count="25"/>
+    <block id="605" name="paintedBrickBroke1" count="5"/>
+    <block id="606" name="paintedBrickBroke2" count="1"/>
+    <block id="316" name="porchLight01" count="1"/>
+    <block id="921" name="powerPoleWoodPillar50" count="27"/>
+    <block id="384" name="scrapIronSheet" count="10"/>
+    <block id="417" name="scrapMetalPile" count="3"/>
+    <block id="1927" name="signShopOpen" count="1"/>
+    <block id="364" name="streetLight01" count="3"/>
+    <block id="602" name="tanBrickDecayedBroke1" count="7"/>
+    <block id="603" name="tanBrickDecayedBroke2" count="1"/>
+    <block id="604" name="tanBrickDecayedBroke3" count="5"/>
+    <block id="898" name="tire" count="4"/>
+    <block id="569" name="treeDeadShrub" count="4"/>
+  </blocks>
+</prefab>

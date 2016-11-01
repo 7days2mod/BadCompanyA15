@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_cover_01">
+  <size x="5" y="2" z="3"/>
+  <blocks>
+    <block id="0" name="air" count="21"/>
+    <block id="374" name="cinderBlocks01" count="2"/>
+    <block id="593" name="concreteDestroyed1" count="2"/>
+    <block id="596" name="concreteDestroyed4" count="1"/>
+    <block id="597" name="concreteDestroyed5" count="1"/>
+    <block id="598" name="concreteDestroyed6" count="1"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="2"/>
+  </blocks>
+</prefab>

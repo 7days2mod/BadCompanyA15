@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="hwy_overpass_sign_01">
+  <size x="3" y="9" z="17"/>
+  <blocks>
+    <block id="0" name="air" count="395"/>
+    <block id="385" name="metalTrussingBlock" count="14"/>
+    <block id="402" name="metalTrussingSheet" count="17"/>
+    <block id="787" name="rustyIronPole" count="32"/>
+    <block id="481" name="signRoadDestinationsWest" count="1"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="oldwest_hotel_02">
+  <size x="13" y="11" z="18"/>
+  <blocks>
+    <block id="0" name="air" count="1557"/>
+    <block id="463" name="bed01" count="2"/>
+    <block id="360" name="boardedWindowsSheet4" count="1"/>
+    <block id="709" name="cabinetOldFillerBlock" count="4"/>
+    <block id="999" name="cabinShinglesWoodRamp" count="3"/>
+    <block id="542" name="cntBirdnest" count="2"/>
+    <block id="737" name="cntBookcase" count="1"/>
+    <block id="1074" name="cntCabinetOldBottom" count="3"/>
+    <block id="944" name="cntCabinetOldSink" count="1"/>
+    <block id="1075" name="cntCabinetOldTop" count="1"/>
+    <block id="892" name="cntCardboardBox" count="1"/>
+    <block id="361" name="cntCorpseLoot01" count="2"/>
+    <block id="286" name="cntMedicineCabinet" count="2"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="348" name="cntTrashPile09" count="1"/>
+    <block id="1388" name="cobweb" count="2"/>
+    <block id="1009" name="curtain_bottom1Sheet3" count="1"/>
+    <block id="799" name="curtain_top1Sheet3" count="1"/>
+    <block id="620" name="faucet04" count="1"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="788" name="ladderWood" count="8"/>
+    <block id="883" name="lootGarage" count="1"/>
+    <block id="643" name="metalReinforcedDoorWooden" count="1"/>
+    <block id="373" name="oilBarrel" count="2"/>
+    <block id="312" name="oldChair" count="4"/>
+    <block id="814" name="panelingBurntBlock" count="50"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="3"/>
+    <block id="316" name="porchLight01" count="7"/>
+    <block id="1144" name="railingOldWoodSheet" count="23"/>
+    <block id="1418" name="rScrapIronTable" count="5"/>
+    <block id="384" name="scrapIronSheet" count="6"/>
+    <block id="631" name="secureDoorWooden" count="4"/>
+    <block id="1019" name="sidingWhiteBurntBlock" count="307"/>
+    <block id="522" name="storeShelving01" count="6"/>
+    <block id="524" name="storeShelving01Top" count="6"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="3"/>
+    <block id="871" name="treeDeadPineLeaf" count="2"/>
+    <block id="612" name="whiteSidingWoodPanelBurnt1" count="1"/>
+    <block id="613" name="whiteSidingWoodPanelBurnt2" count="3"/>
+    <block id="614" name="whiteSidingWoodPanelBurnt3" count="9"/>
+    <block id="615" name="whiteSidingWoodPanelBurnt4" count="2"/>
+    <block id="1413" name="window03Wood" count="1"/>
+    <block id="1409" name="window03WoodBroke1" count="2"/>
+    <block id="1410" name="window03WoodBroke2" count="1"/>
+    <block id="1411" name="window03WoodBroke3" count="1"/>
+    <block id="1378" name="WindowPlug01" count="1"/>
+    <block id="220" name="woodBlock" count="448"/>
+    <block id="164" name="woodPlate" count="25"/>
+    <block id="988" name="woodPole" count="39"/>
+    <block id="237" name="woodStairs25" count="14"/>
+  </blocks>
+</prefab>

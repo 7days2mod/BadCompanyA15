@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="street_courtland_coronado">
+  <size x="1" y="1" z="1"/>
+  <blocks>
+    <block id="500" name="signRoadCoronadoCourtland" count="1"/>
+  </blocks>
+</prefab>

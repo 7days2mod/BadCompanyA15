@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="oldwest_sm_shop_02">
+  <size x="7" y="8" z="12"/>
+  <blocks>
+    <block id="0" name="air" count="300"/>
+    <block id="360" name="boardedWindowsSheet4" count="1"/>
+    <block id="999" name="cabinShinglesWoodRamp" count="56"/>
+    <block id="1075" name="cntCabinetOldTop" count="2"/>
+    <block id="335" name="cntTrash_can01" count="2"/>
+    <block id="343" name="cntTrashPile04" count="1"/>
+    <block id="1388" name="cobweb" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="264" name="lootDesert" count="1"/>
+    <block id="643" name="metalReinforcedDoorWooden" count="1"/>
+    <block id="312" name="oldChair" count="3"/>
+    <block id="1099" name="panelingBurntPlate" count="14"/>
+    <block id="316" name="porchLight01" count="1"/>
+    <block id="1144" name="railingOldWoodSheet" count="4"/>
+    <block id="384" name="scrapIronSheet" count="5"/>
+    <block id="380" name="solidWoodFrameRamp" count="5"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="3"/>
+    <block id="871" name="treeDeadPineLeaf" count="1"/>
+    <block id="1409" name="window03WoodBroke1" count="1"/>
+    <block id="1414" name="window03WoodFrame" count="1"/>
+    <block id="220" name="woodBlock" count="223"/>
+    <block id="894" name="woodFenceFarmSheet" count="1"/>
+    <block id="164" name="woodPlate" count="10"/>
+    <block id="988" name="woodPole" count="30"/>
+    <block id="796" name="woodShinglesRamp" count="1"/>
+    <block id="237" name="woodStairs25" count="3"/>
+  </blocks>
+</prefab>

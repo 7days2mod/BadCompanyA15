@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="barn_01">
+  <size x="15" y="11" z="18"/>
+  <blocks>
+    <block id="0" name="air" count="1826"/>
+    <block id="859" name="barnWoodBlock" count="277"/>
+    <block id="1000" name="cabinOldWoodRamp" count="100"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="892" name="cntCardboardBox" count="1"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="860" name="corrugatedMetalBlock" count="18"/>
+    <block id="889" name="corrugatedMetalRamp" count="276"/>
+    <block id="926" name="corrugatedMetalSheetDuplicate" count="6"/>
+    <block id="3" name="dirt" count="270"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="1484" name="garbage_decor3" count="2"/>
+    <block id="861" name="hayBaleBlock" count="46"/>
+    <block id="788" name="ladderWood" count="5"/>
+    <block id="220" name="woodBlock" count="89"/>
+    <block id="988" name="woodPole" count="50"/>
+  </blocks>
+</prefab>

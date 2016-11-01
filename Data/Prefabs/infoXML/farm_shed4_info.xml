@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="farm_shed4">
+  <size x="12" y="7" z="8"/>
+  <blocks>
+    <block id="0" name="air" count="237"/>
+    <block id="518" name="chair01" count="1"/>
+    <block id="1075" name="cntCabinetOldTop" count="1"/>
+    <block id="892" name="cntCardboardBox" count="1"/>
+    <block id="520" name="cntDesk02" count="1"/>
+    <block id="623" name="cntFileCabinet" count="1"/>
+    <block id="926" name="corrugatedMetalSheetDuplicate" count="4"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="16" name="gravel" count="60"/>
+    <block id="861" name="hayBaleBlock" count="2"/>
+    <block id="465" name="mattress" count="1"/>
+    <block id="417" name="scrapMetalPile" count="4"/>
+    <block id="314" name="sectionalCorner" count="2"/>
+    <block id="313" name="sectionalMiddle" count="1"/>
+    <block id="28" name="terrainFiller" count="36"/>
+    <block id="276" name="treeSnowyGrassDiagonal" count="2"/>
+    <block id="220" name="woodBlock" count="48"/>
+    <block id="893" name="woodFenceSheet" count="92"/>
+    <block id="770" name="woodLogPillar100" count="1"/>
+    <block id="988" name="woodPole" count="78"/>
+    <block id="174" name="woodSupport" count="2"/>
+    <block id="152" name="woodWedge" count="48"/>
+    <block id="1139" name="woodWedgeTip" count="48"/>
+  </blocks>
+</prefab>

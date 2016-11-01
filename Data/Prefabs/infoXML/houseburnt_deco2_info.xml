@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="houseburnt_deco2">
+  <size x="7" y="7" z="8"/>
+  <blocks>
+    <block id="0" name="air" count="318"/>
+    <block id="416" name="cinderBlocks02" count="4"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="1074" name="cntCabinetOldBottom" count="1"/>
+    <block id="311" name="cntOven" count="1"/>
+    <block id="348" name="cntTrashPile09" count="1"/>
+    <block id="779" name="concreteBricksBlock" count="22"/>
+    <block id="1176" name="houseFrontDoor1_v1" count="1"/>
+    <block id="312" name="oldChair" count="1"/>
+    <block id="1107" name="plywoodOsbPlate" count="1"/>
+    <block id="1106" name="shutters1Plate" count="1"/>
+    <block id="1019" name="sidingWhiteBurntBlock" count="12"/>
+    <block id="864" name="treeGreenBrownGrassDiagonal" count="4"/>
+    <block id="613" name="whiteSidingWoodPanelBurnt2" count="4"/>
+    <block id="614" name="whiteSidingWoodPanelBurnt3" count="6"/>
+    <block id="615" name="whiteSidingWoodPanelBurnt4" count="1"/>
+    <block id="616" name="whiteSidingWoodPanelBurnt5" count="3"/>
+    <block id="617" name="whiteSidingWoodPanelBurnt6" count="4"/>
+    <block id="618" name="whiteSidingWoodPanelBurnt7" count="3"/>
+    <block id="1197" name="window02Broken02CTRPlate" count="1"/>
+    <block id="1199" name="window02Broken03CTRPlate" count="1"/>
+    <block id="1416" name="woodTable" count="1"/>
+  </blocks>
+</prefab>

@@ -353,7 +353,7 @@
       <property name="Class" value="Ranged"/>
       <property name="Delay" value="0.3"/>
       <property name="Magazine_size" value="15"/>
-      <property name="Magazine_items" value="9mmBullet"/>
+      <property name="Magazine_items" value="9mmBullet,Unload"/>
       <property name="Magazine_item_ray_counts" value="1"/>
       <property name="Magazine_item_ray_spreads" value="0"/>
       <property name="Reload_time" value="2"/>
@@ -402,7 +402,7 @@
       <property name="Class" value="Ranged"/>
       <property name="Delay" value="0.34"/>
       <property name="Magazine_size" value="6"/>
-      <property name="Magazine_items" value="44MagBullet"/>
+      <property name="Magazine_items" value="44MagBullet,Unload"/>
       <property name="Magazine_item_ray_counts" value="1"/>
       <property name="Magazine_item_ray_spreads" value="0"/>
       <property name="Reload_time" value="4"/>
@@ -453,7 +453,7 @@
       <property name="Crosshair_min_distance" value="30"/>
       <property name="Crosshair_max_distance" value="50"/>
       <property name="Magazine_size" value="8"/>
-      <property name="Magazine_items" value="shotgunShell"/>
+      <property name="Magazine_items" value="shotgunShell,Unload"/>
       <property name="Magazine_item_ray_counts" value="9"/>
       <property name="Magazine_item_ray_spreads" value="0.9"/>
       <property name="Reload_time" value="2.6"/>
@@ -506,7 +506,7 @@
       <property name="Crosshair_min_distance" value="30"/>
       <property name="Crosshair_max_distance" value="50"/>
       <property name="Magazine_size" value="8"/>
-      <property name="Magazine_items" value="shotgunShell, shotgunSlug"/>
+      <property name="Magazine_items" value="shotgunShell,shotgunSlug,Unload"/>
       <property name="Magazine_item_ray_counts" value="8, 1"/>
       <property name="Magazine_item_ray_spreads" value="0.75, 0.25"/>
       <property name="Reload_time" value="2.6"/>
@@ -560,7 +560,7 @@
       <property name="Crosshair_min_distance" value="5"/>
       <property name="Crosshair_max_distance" value="30"/>
       <property name="Magazine_size" value="30"/>
-      <property name="Magazine_items" value="10mmBullet"/>
+      <property name="Magazine_items" value="10mmBullet,Unload"/>
       <property name="Magazine_item_ray_counts" value="1"/>
       <property name="Magazine_item_ray_spreads" value="0"/>
       <property name="Reload_time" value="4.1"/>
@@ -616,7 +616,7 @@
       <property name="Crosshair_min_distance" value="5"/>
       <property name="Crosshair_max_distance" value="30"/>
       <property name="Magazine_size" value="30"/>
-      <property name="Magazine_items" value="762mmBullet"/>
+      <property name="Magazine_items" value="762mmBullet,Unload"/>
       <property name="Magazine_item_ray_counts" value="1"/>
       <property name="Magazine_item_ray_spreads" value="0"/>
       <property name="Reload_time" value="3.9"/>
@@ -673,7 +673,7 @@
       <property name="Crosshair_min_distance" value="30"/>
       <property name="Crosshair_max_distance" value="100"/>
       <property name="Magazine_size" value="1"/>
-      <property name="Magazine_items" value="762mmBullet"/>
+      <property name="Magazine_items" value="762mmBullet,Unload"/>
       <property name="Magazine_item_ray_counts" value="1"/>
       <property name="Magazine_item_ray_spreads" value="0"/>
       <property name="Reload_time" value="2.66"/>
@@ -724,7 +724,7 @@
       <property name="Crosshair_min_distance" value="30"/>
       <property name="Crosshair_max_distance" value="100"/>
       <property name="Magazine_size" value="5"/>
-      <property name="Magazine_items" value="762mmBullet"/>
+      <property name="Magazine_items" value="762mmBullet,Unload"/>
       <property name="Magazine_item_ray_counts" value="1"/>
       <property name="Magazine_item_ray_spreads" value="0"/>
       <property name="Reload_time" value="2.5"/>
@@ -775,7 +775,7 @@
       <property name="Delay" value="0.8"/>
       <property name="Range" value="200"/>
       <property name="Magazine_size" value="1"/>
-      <property name="Magazine_items" value="rocket"/>
+      <property name="Magazine_items" value="rocket,Unload"/>
       <property name="Reload_time" value="2"/>
       <property name="Bullet_icon" value="uzi"/>
       <property name="Sound_start" value="Weapons/Ranged/M136/m136_fire"/>
@@ -811,7 +811,7 @@
       <property name="Crosshair_min_distance" value="30"/>
       <property name="Crosshair_max_distance" value="50"/>
       <property name="Magazine_size" value="1"/>
-      <property name="Magazine_items" value="blunderbussAmmo"/>
+      <property name="Magazine_items" value="blunderbussAmmo,Unload"/>
       <property name="Magazine_item_ray_counts" value="10"/>
       <property name="Magazine_item_ray_spreads" value="0.96"/>
       <property name="Reload_time" value="3.9"/>
@@ -1514,7 +1514,7 @@
       <property name="Hitmask_override" value="Arrow"/>
       <property name="Delay" value="0.3"/>
       <property name="Magazine_size" value="25"/>
-      <property name="Magazine_items" value="nail"/>
+      <property name="Magazine_items" value="nail,Unload"/>
       <property name="Rays_spread" value="0.042"/>
       <property name="Instantiate_on_load" value="false"/>
       <property name="Reload_time" value="2"/>
@@ -1565,7 +1565,7 @@
       <property name="Crosshair_max_distance" value="30"/>
       <property name="Magazine_size" value="200"/>
       <property name="Single_magazine_usage" value="false"/>
-      <property name="Magazine_items" value="gasCan"/>
+      <property name="Magazine_items" value="gasCan,Unload"/>
       <property name="Magazine_item_ray_counts" value="1"/>
       <property name="Magazine_item_ray_spreads" value="0"/>
       <property name="Bullet_material" value="metal"/>
@@ -1613,7 +1613,7 @@
       <property name="Crosshair_max_distance" value="30"/>
       <property name="Magazine_size" value="200"/>
       <property name="Single_magazine_usage" value="false"/>
-      <property name="Magazine_items" value="gasCan"/>
+      <property name="Magazine_items" value="gasCan,Unload"/>
       <property name="Magazine_item_ray_counts" value="1"/>
       <property name="Magazine_item_ray_spreads" value="0"/>
       <property name="Bullet_material" value="metal"/>
@@ -1658,7 +1658,7 @@
       <property name="Hitmask_override" value="Arrow"/>
       <property name="Delay" value="1"/>
       <property name="Magazine_size" value="1"/>
-      <property name="Magazine_items" value="arrow, ironArrow, steelArrow, flamingArrow"/>
+      <property name="Magazine_items" value="arrow,ironArrow,steelArrow,flamingArrow,Unload"/>
       <property name="Rays_spread" value="0.017"/>
       <property name="Reload_time" value=".9"/>
       <property name="Bullet_icon" value="uzi"/>
@@ -1704,7 +1704,7 @@
       <property name="Hitmask_override" value="Arrow"/>
       <property name="Delay" value="0.8"/>
       <property name="Magazine_size" value="1"/>
-      <property name="Magazine_items" value="ironCrossbowBolt, steelCrossbowBolt, explodingCrossbowBolt"/>
+      <property name="Magazine_items" value="ironCrossbowBolt,steelCrossbowBolt,explodingCrossbowBolt,Unload"/>
       <property name="Rays_spread" value="0.012"/>
       <property name="Reload_time" value="2"/>
       <property name="Bullet_icon" value="uzi"/>
@@ -8112,8 +8112,10 @@
     <property name="Group" value="Resources"/>
   </item>
   <item id="2010" name="modularArmor">
+    <!--
     <property name="CustomIcon" value="scrapChestArmor"/>
     <property name="CustomIconTint" value="7F0000"/>
+    -->
     <property name="Insulation" value="0"/>
     <property name="Waterproof" value="0.08"/>
     <property name="Encumbrance" value="0.1"/>
@@ -8198,7 +8200,6 @@
       <property name="DegradationMax" value="2000,10000"/>
     </property>
   </item>
-
   
   <!-- WEAPONS -->
   <item id="2201" name="gunToxicPhageCannon">
@@ -8290,6 +8291,12 @@
     </property>
   </item>
   
+  <item id="2250" name="Unload">
+    <property name="Meshfile" value="Items/Weapons/Ranged/Pistol/9mm_bulletPrefab"/>
+    <property name="Material" value="brass"/>
+    <property name="HoldType" value="21"/>
+    <property name="Stacknumber" value="1"/>
+  </item>
   <item id="2251" name="ToxicPhageProjectile">
     <property name="Meshfile" value="Items/Weapons/Ranged/Vomit/vomitBulbPrefab"/>
     <property name="HandMeshfile" value="Items/Weapons/Ranged/RocketLauncher/rocketHandPrefab"/>
@@ -8477,6 +8484,7 @@
   </item>
 
   <!-- BANDIT ITEMS -->
+  <!-- guns -->
   <item id="2400" name="gunBanditPistol">
     <property name="IsDeveloper" value="true"/>
     <property name="Candrop" value="false"/>
@@ -8505,16 +8513,16 @@
       <property name="Sound_reload" value="Weapons/Ranged/Pistol/pistol_reload"/>
       <property name="Particles_muzzle_fire" value="nozzleflash"/>
       <property name="Particles_muzzle_smoke" value="nozzlesmoke"/>
-      <property name="DamageBonus.head" value="6"/>
+      <property name="DamageBonus.head" value="4"/>
       <property name="DamageBonus.wood" value="3"/>
       <property name="DamageBonus.earth" value=".4"/>
       <property name="DamageBonus.glass" value="25"/>
     </property>
     <property class="Attributes">
-      <property name="FalloffRange" value="17,50"/>
-      <property name="Accuracy" value="1,0.01"/>
-      <property name="EntityDamage" value="11.4,19"/>
-      <property name="BlockDamage" value="5,13"/>
+      <property name="FalloffRange" value="50,50"/>
+      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="EntityDamage" value="15,15"/>
+      <property name="BlockDamage" value="5,5"/>
     </property>
   </item>
   <item id="2401" name="gunBandit44Magnum">
@@ -8544,16 +8552,16 @@
       <property name="Sound_reload" value="Weapons/Ranged/44Magnum/44magnum_reload"/>
       <property name="Particles_muzzle_fire" value="nozzleflash"/>
       <property name="Particles_muzzle_smoke" value="nozzlesmoke"/>
-      <property name="DamageBonus.head" value="4"/>
+      <property name="DamageBonus.head" value="3"/>
       <property name="DamageBonus.wood" value="4"/>
       <property name="DamageBonus.earth" value=".2"/>
       <property name="DamageBonus.glass" value="25"/>
     </property>
     <property class="Attributes">
-      <property name="FalloffRange" value="17,50"/>
-      <property name="Accuracy" value="1,0.05"/>
-      <property name="EntityDamage" value="35.2,88"/>
-      <property name="BlockDamage" value="10,24"/>
+      <property name="FalloffRange" value="50,50"/>
+      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="EntityDamage" value="35,35"/>
+      <property name="BlockDamage" value="10,10"/>
     </property>
   </item>
   <item id="2402" name="gunBanditSawedOffPumpShotgun">
@@ -8575,7 +8583,7 @@
       <property name="Magazine_size" value="8"/>
       <property name="Magazine_items" value="shotgunBanditShell"/>
       <property name="Magazine_item_ray_counts" value="9"/>
-      <property name="Magazine_item_ray_spreads" value="0.9"/>
+      <property name="Magazine_item_ray_spreads" value="0.8"/>
       <property name="Reload_time" value="2.6"/>
       <property name="Bullet_icon" value="uzi"/>
       <property name="Sound_start" value="Weapons/Ranged/SawedOffPumpShotgun/sawed_off_shotgun_fire"/>
@@ -8585,7 +8593,7 @@
       <property name="Sound_reload" value="Weapons/Ranged/SawedOffPumpShotgun/shotgun_reload"/>
       <property name="Particles_muzzle_fire" value="nozzleflash_shotgun"/>
       <property name="Particles_muzzle_smoke" value="nozzlesmokeuzi"/>
-      <property name="DamageBonus.head" value="3"/>
+      <property name="DamageBonus.head" value="2"/>
       <property name="DamageBonus.glass" value="25"/>
       <property name="DamageBonus.wood" value="2"/>
       <property name="DamageBonus.earth" value=".2"/>
@@ -8593,10 +8601,10 @@
       <property name="Buff_chance" value=".8"/>
     </property>
     <property class="Attributes">
-      <property name="FalloffRange" value="22,66"/>
-      <property name="Accuracy" value="1,0.08"/>
-      <property name="EntityDamage" value="3.6,9"/>
-      <property name="BlockDamage" value="5.4,13.5"/>
+      <property name="FalloffRange" value="66,66"/>
+      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="EntityDamage" value="8,8"/>
+      <property name="BlockDamage" value="5,5"/>
     </property>
   </item>
   <item id="2403" name="gunBanditPumpShotgun">
@@ -8617,8 +8625,8 @@
       <property name="Crosshair_max_distance" value="50"/>
       <property name="Magazine_size" value="8"/>
       <property name="Magazine_items" value="shotgunBanditShell"/>
-      <property name="Magazine_item_ray_counts" value="8, 1"/>
-      <property name="Magazine_item_ray_spreads" value="0.75, 0.25"/>
+      <property name="Magazine_item_ray_counts" value="8"/>
+      <property name="Magazine_item_ray_spreads" value="0.65"/>
       <property name="Reload_time" value="2.6"/>
       <property name="Bullet_icon" value="uzi"/>
       <property name="Sound_start" value="Weapons/Ranged/PumpShotgun/pump_shotgun_fire"/>
@@ -8628,7 +8636,7 @@
       <property name="Sound_reload" value="Weapons/Ranged/SawedOffPumpShotgun/shotgun_reload"/>
       <property name="Particles_muzzle_fire" value="nozzleflash_shotgun"/>
       <property name="Particles_muzzle_smoke" value="nozzlesmokeuzi"/>
-      <property name="DamageBonus.head" value="3"/>
+      <property name="DamageBonus.head" value="2"/>
       <property name="DamageBonus.glass" value="25"/>
       <property name="DamageBonus.wood" value="2"/>
       <property name="DamageBonus.earth" value=".2"/>
@@ -8636,10 +8644,10 @@
       <property name="Buff_chance" value=".8"/>
     </property>
     <property class="Attributes">
-      <property name="FalloffRange" value="22,66"/>
-      <property name="Accuracy" value="1,0.08"/>
-      <property name="EntityDamage" value="3.6,9"/>
-      <property name="BlockDamage" value="5.4,13.5"/>
+      <property name="FalloffRange" value="66,66"/>
+      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="EntityDamage" value="8,8"/>
+      <property name="BlockDamage" value="5,5"/>
     </property>
   </item>
   <item id="2404" name="gunBanditMP5">
@@ -8678,14 +8686,15 @@
       <property name="DamageBonus.wood" value="5"/>
       <property name="DamageBonus.earth" value=".2"/>
       <property name="DamageBonus.glass" value="25"/>
-      <property name="Buff" value="critGunMP5"/>
-      <property name="Buff_chance" value=".1"/>
+      <!-- critGunMP5, 100 damage too deadly for players -->
+      <property name="Buff" value="arrowCriticalBleedout"/>
+      <property name="Buff_chance" value=".2"/>
     </property>
     <property class="Attributes">
-      <property name="FalloffRange" value="24,72"/>
-      <property name="Accuracy" value="1,0.05"/>
-      <property name="EntityDamage" value="11.6,29"/>
-      <property name="BlockDamage" value="2,5"/>
+      <property name="FalloffRange" value="72,72"/>
+      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="EntityDamage" value="25,25"/>
+      <property name="BlockDamage" value="5,5"/>
     </property>
   </item>
   <item id="2405" name="gunBanditAK47">
@@ -8720,19 +8729,19 @@
       <property name="Horde_meter_distance" value="20"/>
       <property name="Particles_muzzle_fire" value="nozzleflash_ak"/>
       <property name="Particles_muzzle_smoke" value="nozzlesmokeuzi"/>
-      <property name="DamageBonus.head" value="3"/>
+      <property name="DamageBonus.head" value="4"/>
       <property name="DamageBonus.wood" value="5"/>
       <property name="DamageBonus.earth" value=".2"/>
       <property name="DamageBonus.glass" value="25"/>
-      <property name="Buff" value="critGunAK47"/>
-      <property name="Buff_chance" value=".1"/>
-      <property name="ActionExp" value="1"/>
+      <!-- critGunAK47, 150 damage too deadly for players -->
+      <property name="Buff" value="arrowCriticalBleedout"/>
+      <property name="Buff_chance" value=".2"/>
     </property>
     <property class="Attributes">
-      <property name="FalloffRange" value="30,90"/>
-      <property name="Accuracy" value="1,0.05"/>
-      <property name="EntityDamage" value="28,70"/>
-      <property name="BlockDamage" value="4,9.5"/>
+      <property name="FalloffRange" value="90,90"/>
+      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="EntityDamage" value="35,35"/>
+      <property name="BlockDamage" value="5,5"/>
     </property>
   </item>
   <item id="2406" name="gunBanditHuntingRifle">
@@ -8764,18 +8773,18 @@
       <property name="Sound_reload" value="Weapons/Ranged/Hunting_Rifle/hunting_rifle_reload"/>
       <property name="Particles_muzzle_fire" value="nozzleflashuzi"/>
       <property name="Particles_muzzle_smoke" value="nozzlesmokeuzi"/>
-      <property name="DamageBonus.head" value="6"/>
+      <property name="DamageBonus.head" value="2"/>
       <property name="DamageBonus.wood" value="5"/>
       <property name="DamageBonus.earth" value=".2"/>
       <property name="DamageBonus.glass" value="25"/>
     </property>
     <property class="Attributes">
-      <property name="DismembermentBaseChance" value="0.1,0.25"/>
-      <property name="DismembermentBonus" value="0,0.00045"/>
-      <property name="FalloffRange" value="54,160"/>
-      <property name="Accuracy" value=".7,0.01"/>
-      <property name="EntityDamage" value="30,75"/>
-      <property name="BlockDamage" value="6,14"/>
+      <property name="DismembermentBaseChance" value="0.25,0.25"/>
+      <property name="DismembermentBonus" value="0.00045,0.00045"/>
+      <property name="FalloffRange" value="160,160"/>
+      <property name="Accuracy" value="0.05,0.05"/>
+      <property name="EntityDamage" value="65,65"/>
+      <property name="BlockDamage" value="5,5"/>
     </property>
   </item>
   <item id="2407" name="gunBanditSniperRifle">
@@ -8807,18 +8816,18 @@
       <property name="Sound_reload" value="Weapons/Ranged/SniperRifle/sniperrifle_reload"/>
       <property name="Particles_muzzle_fire" value="nozzleflashuzi"/>
       <property name="Particles_muzzle_smoke" value="nozzlesmokeuzi"/>
-      <property name="DamageBonus.head" value="9"/>
+      <property name="DamageBonus.head" value="3"/>
       <property name="DamageBonus.wood" value="5"/>
       <property name="DamageBonus.earth" value=".2"/>
       <property name="DamageBonus.glass" value="25"/>
     </property>
     <property class="Attributes">
-      <property name="DismembermentBaseChance" value="0.1,0.3"/>
-      <property name="DismembermentBonus" value="0,0.00050"/>
-      <property name="FalloffRange" value="54,160"/>
-      <property name="Accuracy" value=".6,0.01"/>
-      <property name="EntityDamage" value="27.6,69"/>
-      <property name="BlockDamage" value="6,14"/>
+      <property name="DismembermentBaseChance" value="0.3,0.3"/>
+      <property name="DismembermentBonus" value="0.00050,0.00050"/>
+      <property name="FalloffRange" value="160,160"/>
+      <property name="Accuracy" value="0.03,0.03"/>
+      <property name="EntityDamage" value="55,55"/>
+      <property name="BlockDamage" value="5,5"/>
     </property>
   </item>
   <item id="2408" name="gunBanditRocketLauncher">
@@ -8849,13 +8858,49 @@
       <property name="Particles_muzzle_smoke" value="nozzlesmoke_m136"/>
     </property>
     <property class="Attributes">
-      <property name="FalloffRange" value="15,70"/>
-      <property name="Accuracy" value="1,0.01"/>
-      <property name="EntityDamage" value="6,42"/>
-      <property name="EntityDamage" value="12,90"/>
+      <property name="FalloffRange" value="90,90"/>
+      <property name="Accuracy" value="0.01,0.01"/>
+      <property name="EntityDamage" value="50,50"/>
+      <property name="BlockDamage" value="500,500"/>
     </property>
   </item>
 
+  <!-- melee -->
+  <item id="2409" name="meleeBanditSledgeHammer">
+    <property name="IsDeveloper" value="true"/>
+    <property name="Candrop" value="false"/>
+    <property name="CustomIcon" value="sledgehammer"/>
+    <property name="CustomIconTint" value="ff0000"/>
+    <property name="Meshfile" value="Items/Tools/sledgehammer_steelPrefab"/>
+    <property name="Material" value="metal"/>
+    <property name="HoldType" value="33"/>
+    <property name="DegradationBreaksAfter" value="true"/>
+    <property name="Degradation" value="99999" param1="true"/>
+    <property name="SoundJammed" value="ItemNeedsRepair"/>
+    <property name="SoundDestroy" value="metaldestroy1"/>
+    <property class="Action0">
+      <property name="Class" value="Melee"/>
+      <property name="Delay" value="1.8"/>
+      <property name="Range" value="2.4"/>
+      <property name="Sphere" value="0.2"/>
+      <property name="Block_range" value="2.5"/>
+      <property name="Sound_start" value="SlowSwoosh"/>
+      <property name="Stamina_usage" value="15"/>
+      <property name="Buff" value="criticalBlunt,stunned,sprainedLeg"/>
+      <property name="Buff_chance" value=".5,.3,.3"/>
+      <property name="DamageBonus.wood" value=".5"/>
+      <property name="DamageBonus.head" value="4"/>
+      <property name="DamageBonus.glass" value="20"/>
+    </property>
+    <property class="Attributes">
+      <property name="EntityDamage" value="60,60"/>
+      <property name="BlockDamage" value="450,450"/>
+      <property name="DismembermentBaseChance" value="0.3,0.3"/>
+      <property name="DismembermentBonus" value="0.00036,0.00036"/>
+    </property>
+  </item>
+
+  <!-- ammo -->
   <item id="2420" name="9mmBanditBullet">
     <property name="IsDeveloper" value="true"/>
     <property name="Candrop" value="false"/>
@@ -8906,8 +8951,8 @@
     <property name="Stacknumber" value="50"/>
     <property class="Attributes">
       <property name="GetQualityFromWeapon" value="true"/>
-      <property name="EntityDamage" value="250,500"/>
-      <property name="BlockDamage" value="50,200"/>
+      <property name="EntityDamage" value="50,50"/>
+      <property name="BlockDamage" value="500,500"/>
     </property>
     <property class="Action1">
       <property name="Class" value="Projectile"/>
@@ -8915,7 +8960,7 @@
       <property name="Explosion.RadiusBlocks" value="5"/>
       <property name="Explosion.BlockDamage" value="1500"/>
       <property name="Explosion.RadiusEntities" value="5"/>
-      <property name="Explosion.EntityDamage" value="350"/>
+      <property name="Explosion.EntityDamage" value="250"/>
       <property name="Velocity" value="50"/>
       <property name="FlyTime" value="1.2"/>
       <property name="LifeTime" value="8"/>
@@ -8968,7 +9013,7 @@
       <property name="Range" value="50"/>
       <property name="Auto_fire" value="true"/>
       <property name="Infinite_ammo" value="true"/>
-      <property name="Magazine_items" value="Admin_nail, Admin_nail_x4, Admin_nail_x10"/>
+      <property name="Magazine_items" value="Admin_nail, Admin_nail_x4, Admin_nail_x10, Admin_Grassbomb"/>
       <property name="Instantiate_on_load" value="false"/>
       <property name="Reload_time" value="1"/>
       <property name="Bullet_icon" value="uzi"/>
@@ -9059,5 +9104,43 @@
       <property name="Explosion.EntityDamage" value="100"/>
     </property>
     <property name="Group" value="Ammo/Weapons"/>
+  </item>
+  <item id="2504" name="Admin_Grassbomb">
+    <property name="IsDeveloper" value="true"/>
+    <property name="Meshfile" value="Items/Tools/nailProjectilePrefab"/>
+    <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+    <property name="CustomIcon" value="yuccaFibers"/>
+    <property name="CustomIconTint" value="FF0000"/>
+    <property name="Material" value="organic"/>
+    <property name="HoldType" value="16"/>
+    <property name="Stacknumber" value="200"/>
+    <property class="Action1">
+      <property name="Class" value="Projectile"/>
+      <property name="Explosion.ParticleIndex" value="7"/>
+      <property name="Explosion.RadiusBlocks" value="10"/>
+      <property name="Explosion.BlockDamage" value="10"/>
+      <property name="Explosion.RadiusEntities" value="1"/>
+      <property name="Explosion.EntityDamage" value="1"/>
+      <property name="Explosion.DamageBonus.boulder" value="0"/>
+      <property name="Explosion.DamageBonus.cloth" value="0"/>
+      <property name="Explosion.DamageBonus.concrete" value="0"/>
+      <property name="Explosion.DamageBonus.earth" value="0.1"/>
+      <property name="Explosion.DamageBonus.glass" value="0"/>
+      <property name="Explosion.DamageBonus.leaves" value="0"/>
+      <property name="Explosion.DamageBonus.metal" value="0"/>
+      <property name="Explosion.DamageBonus.plants" value="0"/>
+      <property name="Explosion.DamageBonus.organic" value="0"/>
+      <property name="Explosion.DamageBonus.snow" value="0"/>
+      <property name="Explosion.DamageBonus.stone" value="0"/>
+      <property name="Explosion.DamageBonus.wood" value="0"/>
+      <property name="Velocity" value="100"/>
+      <property name="FlyTime" value="10"/>
+      <property name="LifeTime" value="10"/>
+    </property>
+    <property class="Attributes">
+      <property name="GetQualityFromWeapon" value="true"/>
+      <property name="EntityDamage" value="1,1"/>
+      <property name="BlockDamage" value="1,1"/>
+    </property>
   </item>
 </items>

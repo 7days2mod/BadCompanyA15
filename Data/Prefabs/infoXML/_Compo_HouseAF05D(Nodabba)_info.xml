@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="_Compo_HouseAF05D(Nodabba)">
+  <size x="14" y="10" z="17"/>
+  <blocks>
+    <block id="0" name="air" count="1845"/>
+    <block id="365" name="airConditioner" count="2"/>
+    <block id="360" name="boardedWindowsSheet4" count="3"/>
+    <block id="1254" name="brickModernBlock" count="52"/>
+    <block id="820" name="bridgeWoodBlock" count="13"/>
+    <block id="1001" name="cabinFlagstoneRamp" count="1"/>
+    <block id="1078" name="Carpet2Block" count="6"/>
+    <block id="320" name="ceilingLight02" count="1"/>
+    <block id="323" name="ceilingLight05" count="1"/>
+    <block id="336" name="cntBin" count="1"/>
+    <block id="542" name="cntBirdnest" count="2"/>
+    <block id="725" name="cntBookStoreBookcase" count="1"/>
+    <block id="944" name="cntCabinetOldSink" count="2"/>
+    <block id="366" name="cntDeskSafe" count="1"/>
+    <block id="349" name="cntFridge" count="1"/>
+    <block id="286" name="cntMedicineCabinet" count="1"/>
+    <block id="337" name="cntNightstand" count="1"/>
+    <block id="434" name="cntToilet01" count="1"/>
+    <block id="344" name="cntTrashPile05" count="1"/>
+    <block id="348" name="cntTrashPile09" count="1"/>
+    <block id="211" name="concreteBlock" count="53"/>
+    <block id="26" name="destroyedStone" count="6"/>
+    <block id="1404" name="emberPile2" count="1"/>
+    <block id="548" name="endTableLamp" count="1"/>
+    <block id="619" name="faucet02" count="1"/>
+    <block id="948" name="flagstoneBlock" count="16"/>
+    <block id="1160" name="glassBusinessBlock" count="19"/>
+    <block id="1194" name="plainWoodBarricade02Plate" count="2"/>
+    <block id="723" name="railingBlackSheet" count="4"/>
+    <block id="919" name="rustyIronPillar100" count="1"/>
+    <block id="705" name="rWoodPillar100" count="9"/>
+    <block id="417" name="scrapMetalPile" count="1"/>
+    <block id="375" name="solidWoodFrameBlock" count="1"/>
+    <block id="380" name="solidWoodFrameRamp" count="18"/>
+    <block id="908" name="tileFloor4Block" count="6"/>
+    <block id="772" name="treePlainsGrassDiagonal" count="19"/>
+    <block id="993" name="woodAsphaltShinglesRampDuplicate" count="156"/>
+    <block id="1192" name="woodBarricadePlate" count="1"/>
+    <block id="220" name="woodBlock" count="14"/>
+    <block id="32" name="woodDebris" count="14"/>
+    <block id="222" name="woodRamp" count="90"/>
+    <block id="1062" name="woodShinglesGable" count="10"/>
+  </blocks>
+</prefab>

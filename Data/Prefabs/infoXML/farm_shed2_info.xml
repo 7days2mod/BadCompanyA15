@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="farm_shed2">
+  <size x="12" y="9" z="9"/>
+  <blocks>
+    <block id="0" name="air" count="519"/>
+    <block id="1000" name="cabinOldWoodRamp" count="32"/>
+    <block id="737" name="cntBookcase" count="1"/>
+    <block id="349" name="cntFridge" count="1"/>
+    <block id="1388" name="cobweb" count="1"/>
+    <block id="860" name="corrugatedMetalBlock" count="126"/>
+    <block id="1058" name="dotsGreenShinglesGable" count="12"/>
+    <block id="966" name="dotsGreenShinglesRampDuplicate1" count="96"/>
+    <block id="1086" name="dotsWoodBlock" count="2"/>
+    <block id="1483" name="garbage_decor2" count="2"/>
+    <block id="1207" name="glassIndustrial02Broken01CTRPlate" count="2"/>
+    <block id="1208" name="glassIndustrial02Broken02CTRPlate" count="4"/>
+    <block id="1206" name="glassIndustrial02CTRPlate" count="4"/>
+    <block id="16" name="gravel" count="70"/>
+    <block id="1005" name="houseWoodWhiteRamp" count="12"/>
+    <block id="883" name="lootGarage" count="1"/>
+    <block id="1107" name="plywoodOsbPlate" count="6"/>
+    <block id="631" name="secureDoorWooden" count="1"/>
+    <block id="28" name="terrainFiller" count="38"/>
+    <block id="871" name="treeDeadPineLeaf" count="4"/>
+    <block id="325" name="wallLight01" count="1"/>
+    <block id="220" name="woodBlock" count="8"/>
+    <block id="164" name="woodPlate" count="2"/>
+    <block id="988" name="woodPole" count="27"/>
+  </blocks>
+</prefab>

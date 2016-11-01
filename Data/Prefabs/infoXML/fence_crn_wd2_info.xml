@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="fence_crn_wd2">
+  <size x="25" y="2" z="24"/>
+  <blocks>
+    <block id="0" name="air" count="1000"/>
+    <block id="1597" name="blueMetalWall03Sheet2" count="12"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="343" name="cntTrashPile04" count="1"/>
+    <block id="1571" name="corrugatedMetalWall01Sheet2" count="13"/>
+    <block id="1572" name="corrugatedMetalWall02Sheet2" count="18"/>
+    <block id="1600" name="greenMetalWall01Sheet2" count="11"/>
+    <block id="1566" name="greenRustyMetalWall04Sheet2" count="12"/>
+    <block id="1607" name="orangeMetalWall03Sheet2" count="10"/>
+    <block id="1634" name="redMetalWall03Sheet2" count="13"/>
+    <block id="1590" name="rustyIronWall03Sheet2" count="13"/>
+    <block id="893" name="woodFenceSheet" count="48"/>
+    <block id="988" name="woodPole" count="48"/>
+  </blocks>
+</prefab>

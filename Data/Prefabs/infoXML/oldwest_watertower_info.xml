@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="oldwest_watertower">
+  <size x="9" y="12" z="10"/>
+  <blocks>
+    <block id="0" name="air" count="788"/>
+    <block id="1000" name="cabinOldWoodRamp" count="12"/>
+    <block id="425" name="cntBackpack03" count="1"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="860" name="corrugatedMetalBlock" count="10"/>
+    <block id="415" name="corrugatedMetalCNRFull" count="8"/>
+    <block id="889" name="corrugatedMetalRamp" count="16"/>
+    <block id="788" name="ladderWood" count="7"/>
+    <block id="1548" name="metalPipeCorner" count="1"/>
+    <block id="1553" name="metalPipeFlange" count="6"/>
+    <block id="1546" name="metalPipeStraight" count="2"/>
+    <block id="921" name="powerPoleWoodPillar50" count="20"/>
+    <block id="1144" name="railingOldWoodSheet" count="27"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="2"/>
+    <block id="871" name="treeDeadPineLeaf" count="5"/>
+    <block id="569" name="treeDeadShrub" count="1"/>
+    <block id="1472" name="waterSource8" count="27"/>
+    <block id="220" name="woodBlock" count="134"/>
+    <block id="988" name="woodPole" count="12"/>
+  </blocks>
+</prefab>

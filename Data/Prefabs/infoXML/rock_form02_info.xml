@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="rock_form02">
+  <size x="11" y="8" z="12"/>
+  <blocks>
+    <block id="0" name="air" count="632"/>
+    <block id="3" name="dirt" count="175"/>
+    <block id="1" name="stone" count="249"/>
+  </blocks>
+</prefab>

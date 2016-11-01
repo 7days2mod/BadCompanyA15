@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="campsite_01">
+  <size x="11" y="2" z="11"/>
+  <blocks>
+    <block id="0" name="air" count="194"/>
+    <block id="996" name="awningTanBlock" count="6"/>
+    <block id="994" name="awningTanRamp" count="12"/>
+    <block id="1562" name="bedroll" count="2"/>
+    <block id="424" name="cntBackpack02" count="1"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="426" name="cntDuffle01" count="1"/>
+    <block id="343" name="cntTrashPile04" count="1"/>
+    <block id="588" name="cntTreeStump" count="2"/>
+    <block id="310" name="cookingPot" count="1"/>
+    <block id="1404" name="emberPile2" count="1"/>
+    <block id="312" name="oldChair" count="1"/>
+    <block id="871" name="treeDeadPineLeaf" count="3"/>
+    <block id="864" name="treeGreenBrownGrassDiagonal" count="12"/>
+    <block id="770" name="woodLogPillar100" count="4"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="street_light_02">
+  <size x="2" y="12" z="1"/>
+  <blocks>
+    <block id="0" name="air" count="12"/>
+    <block id="921" name="powerPoleWoodPillar50" count="11"/>
+    <block id="364" name="streetLight01" count="1"/>
+  </blocks>
+</prefab>

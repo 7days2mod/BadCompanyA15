@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="oldwest_stables">
+  <size x="21" y="12" z="14"/>
+  <blocks>
+    <block id="0" name="air" count="2439"/>
+    <block id="859" name="barnWoodBlock" count="234"/>
+    <block id="1142" name="barnWoodRoofRamp" count="139"/>
+    <block id="1000" name="cabinOldWoodRamp" count="80"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="343" name="cntTrashPile04" count="1"/>
+    <block id="1388" name="cobweb" count="1"/>
+    <block id="3" name="dirt" count="228"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="861" name="hayBaleBlock" count="19"/>
+    <block id="558" name="ironBars" count="2"/>
+    <block id="788" name="ladderWood" count="5"/>
+    <block id="883" name="lootGarage" count="2"/>
+    <block id="373" name="oilBarrel" count="1"/>
+    <block id="1099" name="panelingBurntPlate" count="5"/>
+    <block id="316" name="porchLight01" count="1"/>
+    <block id="380" name="solidWoodFrameRamp" count="5"/>
+    <block id="28" name="terrainFiller" count="66"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="16"/>
+    <block id="871" name="treeDeadPineLeaf" count="8"/>
+    <block id="220" name="woodBlock" count="99"/>
+    <block id="894" name="woodFenceFarmSheet" count="28"/>
+    <block id="164" name="woodPlate" count="15"/>
+    <block id="988" name="woodPole" count="72"/>
+    <block id="795" name="woodShinglesBlock" count="2"/>
+    <block id="1062" name="woodShinglesGable" count="14"/>
+    <block id="796" name="woodShinglesRamp" count="44"/>
+  </blocks>
+</prefab>

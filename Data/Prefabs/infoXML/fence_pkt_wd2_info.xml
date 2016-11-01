@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="fence_pkt_wd2">
+  <size x="16" y="1" z="7"/>
+  <blocks>
+    <block id="0" name="air" count="82"/>
+    <block id="782" name="concretePole" count="8"/>
+    <block id="895" name="whitePicketFenceSheet" count="22"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="vacant_lot_sm_02">
+  <size x="16" y="4" z="30"/>
+  <blocks>
+    <block id="0" name="air" count="1085"/>
+    <block id="1595" name="blueMetalWall01Sheet2" count="7"/>
+    <block id="1597" name="blueMetalWall03Sheet2" count="1"/>
+    <block id="24" name="burntForestGround" count="208"/>
+    <block id="416" name="cinderBlocks02" count="1"/>
+    <block id="1457" name="cntCar03RedDamage1" count="1"/>
+    <block id="366" name="cntDeskSafe" count="1"/>
+    <block id="1481" name="cntDumpster" count="1"/>
+    <block id="340" name="cntTrashPile01" count="2"/>
+    <block id="342" name="cntTrashPile03" count="1"/>
+    <block id="343" name="cntTrashPile04" count="2"/>
+    <block id="347" name="cntTrashPile08" count="1"/>
+    <block id="926" name="corrugatedMetalSheetDuplicate" count="6"/>
+    <block id="1571" name="corrugatedMetalWall01Sheet2" count="10"/>
+    <block id="1573" name="corrugatedMetalWall03Sheet2" count="2"/>
+    <block id="1574" name="corrugatedMetalWall04Sheet2" count="14"/>
+    <block id="26" name="destroyedStone" count="28"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="1603" name="greenMetalWall04Sheet2" count="11"/>
+    <block id="1617" name="greenRustyMetalWall03Sheet2" count="4"/>
+    <block id="297" name="rock01" count="1"/>
+    <block id="1590" name="rustyIronWall03Sheet2" count="18"/>
+    <block id="1092" name="scrapIronBlock" count="28"/>
+    <block id="384" name="scrapIronSheet" count="44"/>
+    <block id="417" name="scrapMetalPile" count="2"/>
+    <block id="28" name="terrainFiller" count="272"/>
+    <block id="898" name="tire" count="4"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="4"/>
+    <block id="871" name="treeDeadPineLeaf" count="8"/>
+    <block id="569" name="treeDeadShrub" count="2"/>
+    <block id="864" name="treeGreenBrownGrassDiagonal" count="9"/>
+    <block id="893" name="woodFenceSheet" count="95"/>
+    <block id="988" name="woodPole" count="44"/>
+  </blocks>
+</prefab>

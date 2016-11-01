@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="installation_red_mesa_security">
+  <size x="9" y="17" z="10"/>
+  <blocks>
+    <block id="0" name="air" count="1322"/>
+    <block id="365" name="airConditioner" count="1"/>
+    <block id="15" name="asphalt" count="90"/>
+    <block id="275" name="brickpaintedBlock" count="48"/>
+    <block id="518" name="chair01" count="1"/>
+    <block id="520" name="cntDesk02" count="1"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="345" name="cntTrashPile06" count="1"/>
+    <block id="367" name="cntWallSafe" count="1"/>
+    <block id="1173" name="commercialDoor4_v1" count="1"/>
+    <block id="782" name="concretePole" count="4"/>
+    <block id="1158" name="glassBusinessSheet" count="4"/>
+    <block id="1551" name="industrialLight01" count="4"/>
+    <block id="558" name="ironBars" count="4"/>
+    <block id="964" name="metalAsphaltHalf" count="24"/>
+    <block id="385" name="metalTrussingBlock" count="9"/>
+    <block id="1448" name="spotlightNailedDownPOI" count="1"/>
+    <block id="653" name="stainlessSteelEighth" count="1"/>
+    <block id="1093" name="ventDuctBlock" count="12"/>
+  </blocks>
+</prefab>

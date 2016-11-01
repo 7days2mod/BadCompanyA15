@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="_Compo_TruckStopGarage(stallionsden)">
+  <size x="45" y="13" z="45"/>
+  <blocks>
+    <block id="845" name="adobeTanBlock" count="64"/>
+    <block id="0" name="air" count="14391"/>
+    <block id="365" name="airConditioner" count="7"/>
+    <block id="1599" name="blueMetalPlate" count="8"/>
+    <block id="817" name="bridgeAsphaltBlock" count="1081"/>
+    <block id="818" name="bridgeMetalRivetBlock" count="32"/>
+    <block id="326" name="ceilingLight07" count="105"/>
+    <block id="336" name="cntBin" count="1"/>
+    <block id="944" name="cntCabinetOldSink" count="6"/>
+    <block id="1457" name="cntCar03RedDamage1" count="1"/>
+    <block id="1461" name="cntCar03WhiteDamage1" count="1"/>
+    <block id="1458" name="cntCar03Yellow" count="1"/>
+    <block id="892" name="cntCardboardBox" count="4"/>
+    <block id="332" name="cntChest02" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="2"/>
+    <block id="274" name="cntGarageStorage" count="6"/>
+    <block id="626" name="cntLockers" count="12"/>
+    <block id="286" name="cntMedicineCabinet" count="6"/>
+    <block id="639" name="cntSecureStorageChest" count="13"/>
+    <block id="1342" name="cntStorageBuildingInsecure" count="3"/>
+    <block id="268" name="cntStorageHealth" count="1"/>
+    <block id="435" name="cntToilet02" count="2"/>
+    <block id="335" name="cntTrash_can01" count="4"/>
+    <block id="1166" name="commercialDoor1_v3" count="4"/>
+    <block id="1172" name="commercialDoor3_v3Legacy" count="5"/>
+    <block id="1085" name="concreteBlueDrywallBlock" count="1022"/>
+    <block id="310" name="cookingPot" count="2"/>
+    <block id="621" name="faucetBrass02" count="6"/>
+    <block id="786" name="garageDoor1CTRPlate" count="48"/>
+    <block id="1160" name="glassBusinessBlock" count="64"/>
+    <block id="1159" name="glassBusinessCTRSheet" count="48"/>
+    <block id="1228" name="houseFrontDoor2_v3" count="2"/>
+    <block id="558" name="ironBars" count="68"/>
+    <block id="1250" name="ironDoor1_v3" count="6"/>
+    <block id="389" name="ladderMetal" count="83"/>
+    <block id="883" name="lootGarage" count="8"/>
+    <block id="316" name="porchLight01" count="8"/>
+    <block id="918" name="powerPoleWoodPillar100" count="9"/>
+    <block id="204" name="rConcreteBlock" count="893"/>
+    <block id="249" name="rConcreteRamp" count="18"/>
+    <block id="733" name="rScrapIronBlock" count="330"/>
+    <block id="787" name="rustyIronPole" count="18"/>
+    <block id="293" name="rWoodBlock" count="1"/>
+    <block id="294" name="rWoodMetalBlock" count="939"/>
+    <block id="706" name="rWoodMetalPillar100" count="90"/>
+    <block id="417" name="scrapMetalPile" count="9"/>
+    <block id="1234" name="signShopGasLargeLit" count="3"/>
+    <block id="1232" name="signShopGasWallLit" count="2"/>
+    <block id="414" name="steelBlock" count="290"/>
+    <block id="1" name="stone" count="6031"/>
+    <block id="523" name="storeShelving01Double" count="13"/>
+    <block id="524" name="storeShelving01Top" count="20"/>
+    <block id="28" name="terrainFiller" count="342"/>
+    <block id="278" name="tileFloor3Block" count="102"/>
+    <block id="898" name="tire" count="47"/>
+    <block id="325" name="wallLight01" count="11"/>
+    <block id="928" name="whiteMetalBlock" count="6"/>
+    <block id="1192" name="woodBarricadePlate" count="24"/>
+    <block id="1253" name="woodHatch1_v3" count="1"/>
+  </blocks>
+  <entities>
+    <entity name="" x="5" y="5" z="37"/>
+    <entity name="" x="5" y="5" z="36"/>
+    <entity name="" x="4" y="5" z="36"/>
+    <entity name="" x="3" y="5" z="36"/>
+    <entity name="" x="6" y="5" z="36"/>
+  </entities>
+</prefab>

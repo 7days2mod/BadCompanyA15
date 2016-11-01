@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_pile_04">
+  <size x="7" y="15" z="7"/>
+  <blocks>
+    <block id="0" name="air" count="642"/>
+    <block id="374" name="cinderBlocks01" count="1"/>
+    <block id="538" name="cinderBlocks03" count="1"/>
+    <block id="425" name="cntBackpack03" count="1"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="1570" name="corrugatedMetalWallSheet" count="1"/>
+    <block id="363" name="poleTop01" count="1"/>
+    <block id="921" name="powerPoleWoodPillar50" count="12"/>
+    <block id="1632" name="redMetalWall01Sheet2" count="1"/>
+    <block id="495" name="signRoadStop" count="1"/>
+    <block id="1" name="stone" count="63"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="9"/>
+    <block id="582" name="treeDeadTree02" count="1"/>
+  </blocks>
+</prefab>

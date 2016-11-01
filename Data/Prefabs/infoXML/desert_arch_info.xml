@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="desert_arch">
+  <size x="24" y="9" z="8"/>
+  <blocks>
+    <block id="0" name="air" count="1443"/>
+    <block id="14" name="desertGround" count="134"/>
+    <block id="13" name="sandStone" count="151"/>
+  </blocks>
+</prefab>

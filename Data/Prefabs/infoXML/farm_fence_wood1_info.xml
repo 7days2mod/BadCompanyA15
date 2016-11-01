@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="farm_fence_wood1">
+  <size x="49" y="1" z="48"/>
+  <blocks>
+    <block id="0" name="air" count="2128"/>
+    <block id="782" name="concretePole" count="44"/>
+    <block id="894" name="woodFenceFarmSheet" count="180"/>
+  </blocks>
+</prefab>

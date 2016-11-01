@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="underwater_pile_01">
+  <size x="11" y="41" z="19"/>
+  <blocks>
+    <block id="0" name="air" count="8435"/>
+    <block id="538" name="cinderBlocks03" count="4"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="628" name="cntGunSafe" count="1"/>
+    <block id="340" name="cntTrashPile01" count="2"/>
+    <block id="25" name="forestGround" count="94"/>
+    <block id="1483" name="garbage_decor2" count="2"/>
+    <block id="1382" name="mushroom01" count="4"/>
+    <block id="1383" name="mushroom02" count="2"/>
+    <block id="417" name="scrapMetalPile" count="1"/>
+    <block id="898" name="tire" count="3"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="1"/>
+    <block id="591" name="treeDesertShrub" count="18"/>
+    <block id="768" name="treeTallGrassDiagonal" count="1"/>
+  </blocks>
+</prefab>

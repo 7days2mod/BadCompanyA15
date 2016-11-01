@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="canyon_car_wreck">
+  <size x="8" y="6" z="10"/>
+  <blocks>
+    <block id="0" name="air" count="365"/>
+    <block id="15" name="asphalt" count="100"/>
+    <block id="1455" name="cntCar03Damage2" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="429" name="cntPurse01" count="1"/>
+    <block id="1403" name="emberPile1" count="1"/>
+    <block id="1406" name="emberPile4" count="1"/>
+    <block id="417" name="scrapMetalPile" count="3"/>
+    <block id="871" name="treeDeadPineLeaf" count="1"/>
+    <block id="582" name="treeDeadTree02" count="1"/>
+    <block id="864" name="treeGreenBrownGrassDiagonal" count="2"/>
+    <block id="772" name="treePlainsGrassDiagonal" count="3"/>
+  </blocks>
+</prefab>

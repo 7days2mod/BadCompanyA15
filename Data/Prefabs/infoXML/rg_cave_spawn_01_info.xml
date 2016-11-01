@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="rg_cave_spawn_01">
+  <size x="1" y="1" z="1"/>
+  <blocks>
+    <block id="0" name="air" count="1"/>
+  </blocks>
+</prefab>

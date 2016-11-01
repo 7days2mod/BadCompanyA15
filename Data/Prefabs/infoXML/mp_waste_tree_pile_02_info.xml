@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_tree_pile_02">
+  <size x="13" y="12" z="9"/>
+  <blocks>
+    <block id="0" name="air" count="1322"/>
+    <block id="24" name="burntForestGround" count="65"/>
+    <block id="538" name="cinderBlocks03" count="4"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="7"/>
+    <block id="577" name="treeBurntPine01" count="1"/>
+    <block id="578" name="treeBurntPine02" count="1"/>
+    <block id="569" name="treeDeadShrub" count="1"/>
+    <block id="768" name="treeTallGrassDiagonal" count="3"/>
+  </blocks>
+</prefab>

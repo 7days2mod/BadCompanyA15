@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="rg_waste_hub_blk_t">
+  <size x="103" y="12" z="103"/>
+  <blocks>
+    <block id="0" name="air" count="114773"/>
+    <block id="15" name="asphalt" count="1015"/>
+    <block id="1138" name="asphaltWedgeTip" count="21"/>
+    <block id="954" name="brickDecayedBlock" count="25"/>
+    <block id="583" name="brickDecayedBroke1Block" count="34"/>
+    <block id="584" name="brickDecayedBroke2Block" count="5"/>
+    <block id="585" name="brickDecayedBroke3Block" count="22"/>
+    <block id="24" name="burntForestGround" count="597"/>
+    <block id="374" name="cinderBlocks01" count="29"/>
+    <block id="416" name="cinderBlocks02" count="33"/>
+    <block id="538" name="cinderBlocks03" count="61"/>
+    <block id="1456" name="cntCar03Red" count="1"/>
+    <block id="1461" name="cntCar03WhiteDamage1" count="1"/>
+    <block id="1459" name="cntCar03YellowDamage1" count="1"/>
+    <block id="963" name="concreteAsphaltHalf" count="21"/>
+    <block id="377" name="concretePillar100" count="16"/>
+    <block id="26" name="destroyedStone" count="8645"/>
+    <block id="263" name="lootWasteland" count="12"/>
+    <block id="5" name="radiated" count="133"/>
+    <block id="300" name="rock04" count="20"/>
+    <block id="630" name="rockResource" count="6"/>
+    <block id="640" name="rockResource02" count="6"/>
+    <block id="922" name="rustyIronPillar50" count="72"/>
+    <block id="384" name="scrapIronSheet" count="39"/>
+    <block id="417" name="scrapMetalPile" count="45"/>
+    <block id="1579" name="sidewalkCurb" count="8"/>
+    <block id="401" name="sidewalkHalf" count="379"/>
+    <block id="488" name="signRoadSlow" count="1"/>
+    <block id="489" name="signRoadSpeed25" count="6"/>
+    <block id="495" name="signRoadStop" count="4"/>
+    <block id="364" name="streetLight01" count="8"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="819"/>
+    <block id="577" name="treeBurntPine01" count="2"/>
+    <block id="578" name="treeBurntPine02" count="11"/>
+    <block id="579" name="treeBurntPine03" count="2"/>
+    <block id="871" name="treeDeadPineLeaf" count="33"/>
+    <block id="569" name="treeDeadShrub" count="18"/>
+    <block id="565" name="treeMountainPineDry" count="5"/>
+    <block id="1585" name="wastelandCNRCurb" count="4"/>
+    <block id="1584" name="wastelandCurb" count="375"/>
+  </blocks>
+</prefab>

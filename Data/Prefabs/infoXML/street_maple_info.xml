@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="street_maple">
+  <size x="1" y="2" z="1"/>
+  <blocks>
+    <block id="516" name="signRoadMaple" count="2"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_spawn_01">
+  <size x="4" y="1" z="5"/>
+  <blocks>
+    <block id="0" name="air" count="11"/>
+    <block id="374" name="cinderBlocks01" count="1"/>
+    <block id="538" name="cinderBlocks03" count="1"/>
+    <block id="263" name="lootWasteland" count="2"/>
+    <block id="384" name="scrapIronSheet" count="2"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="2"/>
+    <block id="768" name="treeTallGrassDiagonal" count="1"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="rg_socket_road_straight_01">
+  <size x="11" y="2" z="11"/>
+  <blocks>
+    <block id="0" name="air" count="77"/>
+    <block id="15" name="asphalt" count="121"/>
+    <block id="401" name="sidewalkHalf" count="22"/>
+    <block id="1584" name="wastelandCurb" count="22"/>
+  </blocks>
+</prefab>

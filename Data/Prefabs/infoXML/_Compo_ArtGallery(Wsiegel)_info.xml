@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="_Compo_ArtGallery(Wsiegel)">
+  <size x="30" y="8" z="24"/>
+  <blocks>
+    <block id="0" name="air" count="3144"/>
+    <block id="365" name="airConditioner" count="5"/>
+    <block id="15" name="asphalt" count="134"/>
+    <block id="792" name="awningRedRamp" count="36"/>
+    <block id="1562" name="bedroll" count="1"/>
+    <block id="954" name="brickDecayedBlock" count="12"/>
+    <block id="949" name="brickPaversBlock" count="450"/>
+    <block id="1071" name="brickPaversStairs25" count="2"/>
+    <block id="805" name="brickPlasterBaseboardBlock" count="146"/>
+    <block id="1026" name="brickPlasterMiddleBlock" count="112"/>
+    <block id="1027" name="brickPlasterTopBlock" count="178"/>
+    <block id="710" name="cabinetFillerBlock" count="2"/>
+    <block id="843" name="Carpet1Block" count="450"/>
+    <block id="336" name="cntBin" count="4"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="838" name="cntCabinet" count="26"/>
+    <block id="892" name="cntCardboardBox" count="3"/>
+    <block id="332" name="cntChest02" count="1"/>
+    <block id="361" name="cntCorpseLoot01" count="2"/>
+    <block id="368" name="cntCorpseLoot02" count="2"/>
+    <block id="427" name="cntSportsBag01" count="2"/>
+    <block id="428" name="cntSportsBag02" count="2"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="341" name="cntTrashPile02" count="1"/>
+    <block id="346" name="cntTrashPile07" count="1"/>
+    <block id="367" name="cntWallSafe" count="1"/>
+    <block id="211" name="concreteBlock" count="85"/>
+    <block id="1150" name="concreteTrim3IndustrialTileBlock" count="13"/>
+    <block id="979" name="dropCeilingRoofAsphaltBlock" count="484"/>
+    <block id="547" name="endTable" count="4"/>
+    <block id="948" name="flagstoneBlock" count="98"/>
+    <block id="16" name="gravel" count="136"/>
+    <block id="1228" name="houseFrontDoor2_v3" count="2"/>
+    <block id="389" name="ladderMetal" count="6"/>
+    <block id="277" name="painting01" count="10"/>
+    <block id="907" name="painting02" count="10"/>
+    <block id="328" name="pew_segment01" count="10"/>
+    <block id="330" name="pew_segment03" count="10"/>
+    <block id="318" name="porchLight04Brass" count="46"/>
+    <block id="1093" name="ventDuctBlock" count="59"/>
+    <block id="656" name="window02" count="10"/>
+    <block id="1196" name="window02Broken01CTRPlate" count="20"/>
+    <block id="1197" name="window02Broken02CTRPlate" count="20"/>
+    <block id="1199" name="window02Broken03CTRPlate" count="18"/>
+  </blocks>
+</prefab>

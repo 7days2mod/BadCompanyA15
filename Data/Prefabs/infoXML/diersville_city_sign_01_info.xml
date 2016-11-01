@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="diersville_city_sign_01">
+  <size x="3" y="14" z="13"/>
+  <blocks>
+    <block id="0" name="air" count="446"/>
+    <block id="377" name="concretePillar100" count="4"/>
+    <block id="1548" name="metalPipeCorner" count="2"/>
+    <block id="1553" name="metalPipeFlange" count="2"/>
+    <block id="1549" name="metalPipeJoint" count="4"/>
+    <block id="1800" name="metalSignLetter_a" count="1"/>
+    <block id="1801" name="metalSignLetter_b" count="1"/>
+    <block id="1802" name="metalSignLetter_c" count="2"/>
+    <block id="1803" name="metalSignLetter_d" count="1"/>
+    <block id="1804" name="metalSignLetter_e" count="2"/>
+    <block id="1808" name="metalSignLetter_i" count="2"/>
+    <block id="1810" name="metalSignLetter_k" count="1"/>
+    <block id="1811" name="metalSignLetter_l" count="2"/>
+    <block id="1812" name="metalSignLetter_m" count="1"/>
+    <block id="1814" name="metalSignLetter_o" count="1"/>
+    <block id="1817" name="metalSignLetter_r" count="1"/>
+    <block id="1818" name="metalSignLetter_s" count="1"/>
+    <block id="1821" name="metalSignLetter_v" count="1"/>
+    <block id="922" name="rustyIronPillar50" count="38"/>
+    <block id="928" name="whiteMetalBlock" count="33"/>
+  </blocks>
+</prefab>

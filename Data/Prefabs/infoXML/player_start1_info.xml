@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="player_start1">
+  <size x="6" y="1" z="9"/>
+  <blocks>
+    <block id="0" name="air" count="48"/>
+    <block id="424" name="cntBackpack02" count="1"/>
+    <block id="1459" name="cntCar03YellowDamage1" count="1"/>
+    <block id="892" name="cntCardboardBox" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="347" name="cntTrashPile08" count="2"/>
+  </blocks>
+</prefab>

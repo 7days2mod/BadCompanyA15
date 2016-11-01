@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="_Compo_Bank(Guppycur)">
+  <size x="45" y="11" z="45"/>
+  <blocks>
+    <block id="0" name="air" count="17539"/>
+    <block id="365" name="airConditioner" count="6"/>
+    <block id="15" name="asphalt" count="450"/>
+    <block id="957" name="brickDecayedTanBlock" count="384"/>
+    <block id="710" name="cabinetFillerBlock" count="17"/>
+    <block id="1096" name="cable1" count="3"/>
+    <block id="1339" name="cashRegisterEmpty" count="4"/>
+    <block id="320" name="ceilingLight02" count="16"/>
+    <block id="326" name="ceilingLight07" count="47"/>
+    <block id="518" name="chair01" count="4"/>
+    <block id="838" name="cntCabinet" count="4"/>
+    <block id="1340" name="cntCashRegister" count="2"/>
+    <block id="519" name="cntDesk01" count="6"/>
+    <block id="623" name="cntFileCabinet" count="10"/>
+    <block id="841" name="cntFridgeBottom" count="5"/>
+    <block id="629" name="cntGraniteSink" count="4"/>
+    <block id="628" name="cntGunSafe" count="3"/>
+    <block id="286" name="cntMedicineCabinet" count="4"/>
+    <block id="435" name="cntToilet02" count="4"/>
+    <block id="345" name="cntTrashPile06" count="1"/>
+    <block id="367" name="cntWallSafe" count="6"/>
+    <block id="1173" name="commercialDoor4_v1" count="5"/>
+    <block id="779" name="concreteBricksBlock" count="892"/>
+    <block id="775" name="concreteHalf" count="6"/>
+    <block id="377" name="concretePillar100" count="36"/>
+    <block id="697" name="cremeDrywallBaseboardBlock" count="10"/>
+    <block id="696" name="cremeDrywallBlock" count="24"/>
+    <block id="979" name="dropCeilingRoofAsphaltBlock" count="503"/>
+    <block id="1115" name="drywallBlock" count="324"/>
+    <block id="1160" name="glassBusinessBlock" count="18"/>
+    <block id="667" name="glassCTRSheet" count="48"/>
+    <block id="1176" name="houseFrontDoor1_v1" count="6"/>
+    <block id="558" name="ironBars" count="12"/>
+    <block id="1250" name="ironDoor1_v3" count="2"/>
+    <block id="389" name="ladderMetal" count="5"/>
+    <block id="1552" name="metalPipeValve" count="1"/>
+    <block id="521" name="officeChair01" count="8"/>
+    <block id="312" name="oldChair" count="6"/>
+    <block id="277" name="painting01" count="3"/>
+    <block id="907" name="painting02" count="3"/>
+    <block id="328" name="pew_segment01" count="5"/>
+    <block id="329" name="pew_segment02" count="3"/>
+    <block id="330" name="pew_segment03" count="5"/>
+    <block id="204" name="rConcreteBlock" count="148"/>
+    <block id="297" name="rock01" count="1"/>
+    <block id="549" name="sectionalArm2" count="1"/>
+    <block id="550" name="sectionalCorner2" count="6"/>
+    <block id="551" name="sectionalMiddle2" count="7"/>
+    <block id="872" name="sidewalkBlock" count="486"/>
+    <block id="414" name="steelBlock" count="20"/>
+    <block id="523" name="storeShelving01Double" count="3"/>
+    <block id="524" name="storeShelving01Top" count="4"/>
+    <block id="28" name="terrainFiller" count="414"/>
+    <block id="908" name="tileFloor4Block" count="640"/>
+    <block id="554" name="tv_large_1" count="3"/>
+    <block id="555" name="tv_large_2" count="3"/>
+    <block id="1093" name="ventDuctBlock" count="84"/>
+    <block id="930" name="ventDuctRamp" count="8"/>
+    <block id="989" name="woodPainted1Pole" count="3"/>
+  </blocks>
+</prefab>

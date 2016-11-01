@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="army_camp_02">
+  <size x="53" y="12" z="57"/>
+  <blocks>
+    <block id="0" name="air" count="29440"/>
+    <block id="997" name="awningGreenBlock" count="166"/>
+    <block id="287" name="awningGreenCNRFull" count="16"/>
+    <block id="1032" name="awningGreenGable" count="15"/>
+    <block id="1030" name="awningGreenPyramid" count="1"/>
+    <block id="995" name="awningGreenRamp" count="144"/>
+    <block id="430" name="barbedFence" count="14"/>
+    <block id="463" name="bed01" count="1"/>
+    <block id="1562" name="bedroll" count="1"/>
+    <block id="290" name="camoNetBlock" count="22"/>
+    <block id="292" name="camoNetCNRFull" count="8"/>
+    <block id="291" name="camoNetRamp" count="28"/>
+    <block id="309" name="campfire" count="2"/>
+    <block id="518" name="chair01" count="13"/>
+    <block id="374" name="cinderBlocks01" count="2"/>
+    <block id="538" name="cinderBlocks03" count="1"/>
+    <block id="425" name="cntBackpack03" count="2"/>
+    <block id="892" name="cntCardboardBox" count="1"/>
+    <block id="624" name="cntCooler" count="2"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="2"/>
+    <block id="520" name="cntDesk02" count="1"/>
+    <block id="623" name="cntFileCabinet" count="1"/>
+    <block id="286" name="cntMedicineCabinet" count="3"/>
+    <block id="557" name="cntMunitionsBox" count="2"/>
+    <block id="335" name="cntTrash_can01" count="2"/>
+    <block id="340" name="cntTrashPile01" count="1"/>
+    <block id="347" name="cntTrashPile08" count="6"/>
+    <block id="396" name="corrugatedMetalSheet" count="3"/>
+    <block id="3" name="dirt" count="3092"/>
+    <block id="1206" name="glassIndustrial02CTRPlate" count="6"/>
+    <block id="466" name="mattressFlat" count="1"/>
+    <block id="433" name="mineAirFilter" count="70"/>
+    <block id="921" name="powerPoleWoodPillar50" count="9"/>
+    <block id="1902" name="sandbag_1" count="26"/>
+    <block id="1912" name="sandbag_5" count="46"/>
+    <block id="1910" name="sandbagCorner2" count="107"/>
+    <block id="1907" name="sandbagEnd" count="12"/>
+    <block id="1908" name="sandbagEnd2" count="17"/>
+    <block id="364" name="streetLight01" count="1"/>
+    <block id="28" name="terrainFiller" count="1967"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="296"/>
+    <block id="578" name="treeBurntPine02" count="4"/>
+    <block id="871" name="treeDeadPineLeaf" count="51"/>
+    <block id="220" name="woodBlock" count="491"/>
+    <block id="770" name="woodLogPillar100" count="26"/>
+    <block id="164" name="woodPlate" count="2"/>
+    <block id="988" name="woodPole" count="121"/>
+    <block id="237" name="woodStairs25" count="6"/>
+  </blocks>
+</prefab>

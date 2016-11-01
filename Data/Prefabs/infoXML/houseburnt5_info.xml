@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="houseburnt5">
+  <size x="15" y="12" z="15"/>
+  <blocks>
+    <block id="0" name="air" count="2160"/>
+    <block id="463" name="bed01" count="1"/>
+    <block id="360" name="boardedWindowsSheet4" count="1"/>
+    <block id="416" name="cinderBlocks02" count="13"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="737" name="cntBookcase" count="1"/>
+    <block id="1074" name="cntCabinetOldBottom" count="1"/>
+    <block id="944" name="cntCabinetOldSink" count="1"/>
+    <block id="1075" name="cntCabinetOldTop" count="1"/>
+    <block id="623" name="cntFileCabinet" count="1"/>
+    <block id="311" name="cntOven" count="1"/>
+    <block id="434" name="cntToilet01" count="1"/>
+    <block id="779" name="concreteBricksBlock" count="132"/>
+    <block id="1009" name="curtain_bottom1Sheet3" count="2"/>
+    <block id="799" name="curtain_top1Sheet3" count="2"/>
+    <block id="26" name="destroyedStone" count="29"/>
+    <block id="621" name="faucetBrass02" count="1"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="1176" name="houseFrontDoor1_v1" count="2"/>
+    <block id="1180" name="houseFrontDoor1_v2" count="1"/>
+    <block id="1210" name="miniblindBottomSheet" count="1"/>
+    <block id="1209" name="miniblindTopSheet" count="1"/>
+    <block id="312" name="oldChair" count="4"/>
+    <block id="814" name="panelingBurntBlock" count="47"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="2"/>
+    <block id="1107" name="plywoodOsbPlate" count="3"/>
+    <block id="1418" name="rScrapIronTable" count="1"/>
+    <block id="314" name="sectionalCorner" count="2"/>
+    <block id="1106" name="shutters1Plate" count="3"/>
+    <block id="1019" name="sidingWhiteBurntBlock" count="134"/>
+    <block id="871" name="treeDeadPineLeaf" count="3"/>
+    <block id="864" name="treeGreenBrownGrassDiagonal" count="7"/>
+    <block id="613" name="whiteSidingWoodPanelBurnt2" count="19"/>
+    <block id="614" name="whiteSidingWoodPanelBurnt3" count="25"/>
+    <block id="615" name="whiteSidingWoodPanelBurnt4" count="18"/>
+    <block id="616" name="whiteSidingWoodPanelBurnt5" count="13"/>
+    <block id="617" name="whiteSidingWoodPanelBurnt6" count="12"/>
+    <block id="618" name="whiteSidingWoodPanelBurnt7" count="13"/>
+    <block id="1196" name="window02Broken01CTRPlate" count="2"/>
+    <block id="1197" name="window02Broken02CTRPlate" count="2"/>
+    <block id="1199" name="window02Broken03CTRPlate" count="2"/>
+    <block id="990" name="woodPainted3Pole" count="31"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="waste_rubble_bldg_06">
+  <size x="37" y="14" z="35"/>
+  <blocks>
+    <block id="0" name="air" count="13841"/>
+    <block id="994" name="awningTanRamp" count="7"/>
+    <block id="275" name="brickpaintedBlock" count="258"/>
+    <block id="1044" name="brickPaintedRamp" count="1"/>
+    <block id="518" name="chair01" count="1"/>
+    <block id="374" name="cinderBlocks01" count="3"/>
+    <block id="416" name="cinderBlocks02" count="3"/>
+    <block id="538" name="cinderBlocks03" count="2"/>
+    <block id="737" name="cntBookcase" count="2"/>
+    <block id="520" name="cntDesk02" count="1"/>
+    <block id="366" name="cntDeskSafe" count="1"/>
+    <block id="628" name="cntGunSafe" count="1"/>
+    <block id="343" name="cntTrashPile04" count="3"/>
+    <block id="347" name="cntTrashPile08" count="1"/>
+    <block id="1175" name="commercialDoor4_v3" count="1"/>
+    <block id="211" name="concreteBlock" count="165"/>
+    <block id="593" name="concreteDestroyed1" count="1"/>
+    <block id="594" name="concreteDestroyed2" count="8"/>
+    <block id="596" name="concreteDestroyed4" count="12"/>
+    <block id="599" name="concreteDestroyed7" count="1"/>
+    <block id="600" name="concreteDestroyed8" count="1"/>
+    <block id="601" name="concreteDestroyed9" count="2"/>
+    <block id="1072" name="concreteStairs25" count="3"/>
+    <block id="980" name="concreteTileGreenBlock" count="203"/>
+    <block id="26" name="destroyedStone" count="3460"/>
+    <block id="1215" name="doorFrameMetal1" count="1"/>
+    <block id="1216" name="doorFrameMetal2" count="1"/>
+    <block id="1219" name="doorFrameMetalBoarded1" count="1"/>
+    <block id="1220" name="doorFrameMetalBoarded2" count="1"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="1207" name="glassIndustrial02Broken01CTRPlate" count="11"/>
+    <block id="1208" name="glassIndustrial02Broken02CTRPlate" count="6"/>
+    <block id="1206" name="glassIndustrial02CTRPlate" count="8"/>
+    <block id="605" name="paintedBrickBroke1" count="17"/>
+    <block id="606" name="paintedBrickBroke2" count="34"/>
+    <block id="607" name="paintedBrickBroke3" count="20"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="10"/>
+    <block id="1108" name="plywoodOsbCTRPlate" count="5"/>
+    <block id="517" name="rebarDestroyed" count="9"/>
+    <block id="417" name="scrapMetalPile" count="9"/>
+    <block id="871" name="treeDeadPineLeaf" count="6"/>
+    <block id="569" name="treeDeadShrub" count="4"/>
+    <block id="325" name="wallLight01" count="1"/>
+    <block id="1193" name="woodBarricadeCTRPlate" count="1"/>
+  </blocks>
+</prefab>

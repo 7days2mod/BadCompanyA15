@@ -2,15 +2,15 @@
 <entitygroups>
 
   <entitygroup name="ZombiesAll"> <!-- Used by PoI Spawners, not Biome Spawners -->
-    <entity name="zombieBoe" prob="0.95"/>
-    <entity name="zombieJoe" prob="0.95"/>
-    <entity name="zombieMoe" prob="0.95"/>
-    <entity name="zombieYo" prob="0.95"/>
-    <entity name="zombieSteve" prob="0.95"/>
-    <entity name="zombieArlene" prob="0.95"/>
-    <entity name="zombieDarlene" prob="0.95"/>
-    <entity name="zombieMarlene" prob="0.95"/>
-    <entity name="zombieNurse" prob="0.55"/>
+    <entity name="zombieBoe" prob="0.65"/>
+    <entity name="zombieJoe" prob="0.65"/>
+    <entity name="zombieMoe" prob="0.65"/>
+    <entity name="zombieYo" prob="0.65"/>
+    <entity name="zombieSteve" prob="0.65"/>
+    <entity name="zombieArlene" prob="0.65"/>
+    <entity name="zombieDarlene" prob="0.65"/>
+    <entity name="zombieMarlene" prob="0.65"/>
+    <entity name="zombieNurse" prob="0.45"/>
     <entity name="zombieSteveCrawler" prob="0.15"/>
     <entity name="snowzombie" prob="0.01"/>
     <entity name="spiderzombie" prob="0.05"/>
@@ -200,6 +200,191 @@
     <entity name="BanditPestilenceLeader" prob="0.15"/>
   </entitygroup>
   
+   <!-- BANDIT FACTION SPAWNERS -->
+  <entitygroup name="BanditsThugsRonin">
+    <entity name="BanditThugPistol" prob="0.95"/>
+    <entity name="BanditThugPistolFemale" prob="0.95"/>
+    <entity name="BanditThugHuntingRifle" prob="0.85"/>
+    <entity name="BanditThugHuntingRifleFemale" prob="0.85"/>
+    <entity name="BanditThugSawedOffPumpShotgun" prob="0.75"/>
+    <entity name="BanditThugSawedOffPumpShotgunFemale" prob="0.75"/>
+    <entity name="BanditThugPumpShotgun" prob="0.65"/>
+    <entity name="BanditThugPumpShotgunFemale" prob="0.65"/>
+    <entity name="BanditThug44Magnum" prob="0.55"/>
+    <entity name="BanditThug44MagnumFemale" prob="0.55"/>
+    <entity name="BanditThugMP5" prob="0.45"/>
+    <entity name="BanditThugMP5Female" prob="0.45"/>
+    <entity name="BanditThugSniperRifle" prob="0.35"/>
+    <entity name="BanditThugSniperRifleFemale" prob="0.35"/>
+    <entity name="BanditThugAK47" prob="0.25"/>
+    <entity name="BanditThugAK47Female" prob="0.25"/>
+    <entity name="BanditThugRocketLauncher" prob="0.15"/>
+    <entity name="BanditThugRocketLauncherFemale" prob="0.15"/>
+    <entity name="BanditThugSledgeHammer" prob="0.25"/>
+  </entitygroup>
+
+  <entitygroup name="BanditsThugsWar">
+    <entity name="BanditThugWarPistol" prob="0.45"/>
+    <entity name="BanditThugWarPistolFemale" prob="0.95"/>
+    <entity name="BanditThugWarHuntingRifle" prob="0.45"/>
+    <entity name="BanditThugWarHuntingRifleFemale" prob="0.85"/>
+    <entity name="BanditThugWarSawedOffPumpShotgun" prob="0.35"/>
+    <entity name="BanditThugWarSawedOffPumpShotgunFemale" prob="0.75"/>
+    <entity name="BanditThugWarPumpShotgun" prob="0.35"/>
+    <entity name="BanditThugWarPumpShotgunFemale" prob="0.65"/>
+    <entity name="BanditThugWar44Magnum" prob="0.25"/>
+    <entity name="BanditThugWar44MagnumFemale" prob="0.55"/>
+    <entity name="BanditThugWarMP5" prob="0.25"/>
+    <entity name="BanditThugWarMP5Female" prob="0.45"/>
+    <entity name="BanditThugWarSniperRifle" prob="0.15"/>
+    <entity name="BanditThugWarSniperRifleFemale" prob="0.35"/>
+    <entity name="BanditThugWarAK47" prob="0.15"/>
+    <entity name="BanditThugWarAK47Female" prob="0.25"/>
+    <entity name="BanditThugWarRocketLauncher" prob="0.05"/>
+    <entity name="BanditThugWarRocketLauncherFemale" prob="0.15"/>
+  </entitygroup>
+  <entitygroup name="BanditsLeaderWar">
+    <entity name="BanditWarLeader" prob="1.0"/>
+  </entitygroup>
+  <entitygroup name="BanditsThugsDread">
+    <entity name="BanditThugDreadPistol" prob="0.95"/>
+    <entity name="BanditThugDreadPistolFemale" prob="0.55"/>
+    <entity name="BanditThugDreadHuntingRifle" prob="0.85"/>
+    <entity name="BanditThugDreadHuntingRifleFemale" prob="0.45"/>
+    <entity name="BanditThugDreadSawedOffPumpShotgun" prob="0.75"/>
+    <entity name="BanditThugDreadSawedOffPumpShotgunFemale" prob="0.35"/>
+    <entity name="BanditThugDreadPumpShotgun" prob="0.65"/>
+    <entity name="BanditThugDreadPumpShotgunFemale" prob="0.35"/>
+    <entity name="BanditThugDread44Magnum" prob="0.55"/>
+    <entity name="BanditThugDread44MagnumFemale" prob="0.35"/>
+    <entity name="BanditThugDreadMP5" prob="0.45"/>
+    <entity name="BanditThugDreadMP5Female" prob="0.25"/>
+    <entity name="BanditThugDreadSniperRifle" prob="0.35"/>
+    <entity name="BanditThugDreadSniperRifleFemale" prob="0.15"/>
+    <entity name="BanditThugDreadAK47" prob="0.25"/>
+    <entity name="BanditThugDreadAK47Female" prob="0.10"/>
+    <entity name="BanditThugDreadRocketLauncher" prob="0.15"/>
+    <entity name="BanditThugDreadRocketLauncherFemale" prob="0.05"/>
+  </entitygroup>
+  <entitygroup name="BanditsLeaderDread">
+    <entity name="BanditDreadLeader" prob="1.0"/>
+  </entitygroup>
+  <entitygroup name="BanditsThugsTheMaker">
+    <entity name="BanditThugTheMakerPistol" prob="0.95"/>
+    <entity name="BanditThugTheMakerPistolFemale" prob="0.55"/>
+    <entity name="BanditThugTheMakerHuntingRifle" prob="0.85"/>
+    <entity name="BanditThugTheMakerHuntingRifleFemale" prob="0.45"/>
+    <entity name="BanditThugTheMakerSawedOffPumpShotgun" prob="0.75"/>
+    <entity name="BanditThugTheMakerSawedOffPumpShotgunFemale" prob="0.35"/>
+    <entity name="BanditThugTheMakerPumpShotgun" prob="0.65"/>
+    <entity name="BanditThugTheMakerPumpShotgunFemale" prob="0.35"/>
+    <entity name="BanditThugTheMaker44Magnum" prob="0.55"/>
+    <entity name="BanditThugTheMaker44MagnumFemale" prob="0.35"/>
+    <entity name="BanditThugTheMakerMP5" prob="0.45"/>
+    <entity name="BanditThugTheMakerMP5Female" prob="0.25"/>
+    <entity name="BanditThugTheMakerSniperRifle" prob="0.35"/>
+    <entity name="BanditThugTheMakerSniperRifleFemale" prob="0.15"/>
+    <entity name="BanditThugTheMakerAK47" prob="0.25"/>
+    <entity name="BanditThugTheMakerAK47Female" prob="0.10"/>
+    <entity name="BanditThugTheMakerRocketLauncher" prob="0.15"/>
+    <entity name="BanditThugTheMakerRocketLauncherFemale" prob="0.05"/>
+  </entitygroup>
+  <entitygroup name="BanditsLeaderTheMaker">
+    <entity name="BanditTheMakerLeader" prob="1.0"/>
+  </entitygroup>
+  <entitygroup name="BanditsThugsFamine">
+    <entity name="BanditThugFaminePistol" prob="0.95"/>
+    <entity name="BanditThugFaminePistolFemale" prob="0.55"/>
+    <entity name="BanditThugFamineHuntingRifle" prob="0.85"/>
+    <entity name="BanditThugFamineHuntingRifleFemale" prob="0.45"/>
+    <entity name="BanditThugFamineSawedOffPumpShotgun" prob="0.75"/>
+    <entity name="BanditThugFamineSawedOffPumpShotgunFemale" prob="0.35"/>
+    <entity name="BanditThugFaminePumpShotgun" prob="0.65"/>
+    <entity name="BanditThugFaminePumpShotgunFemale" prob="0.35"/>
+    <entity name="BanditThugFamine44Magnum" prob="0.55"/>
+    <entity name="BanditThugFamine44MagnumFemale" prob="0.35"/>
+    <entity name="BanditThugFamineMP5" prob="0.45"/>
+    <entity name="BanditThugFamineMP5Female" prob="0.25"/>
+    <entity name="BanditThugFamineSniperRifle" prob="0.35"/>
+    <entity name="BanditThugFamineSniperRifleFemale" prob="0.15"/>
+    <entity name="BanditThugFamineAK47" prob="0.25"/>
+    <entity name="BanditThugFamineAK47Female" prob="0.10"/>
+    <entity name="BanditThugFamineRocketLauncher" prob="0.15"/>
+    <entity name="BanditThugFamineRocketLauncherFemale" prob="0.05"/>
+  </entitygroup>
+  <entitygroup name="BanditsLeaderFamine">
+    <entity name="BanditFamineLeader" prob="1.0"/>
+  </entitygroup>
+  <entitygroup name="BanditsThugsDragon">
+    <entity name="BanditThugDragonPistol" prob="0.95"/>
+    <entity name="BanditThugDragonPistolFemale" prob="0.55"/>
+    <entity name="BanditThugDragonHuntingRifle" prob="0.85"/>
+    <entity name="BanditThugDragonHuntingRifleFemale" prob="0.45"/>
+    <entity name="BanditThugDragonSawedOffPumpShotgun" prob="0.75"/>
+    <entity name="BanditThugDragonSawedOffPumpShotgunFemale" prob="0.35"/>
+    <entity name="BanditThugDragonPumpShotgun" prob="0.65"/>
+    <entity name="BanditThugDragonPumpShotgunFemale" prob="0.35"/>
+    <entity name="BanditThugDragon44Magnum" prob="0.55"/>
+    <entity name="BanditThugDragon44MagnumFemale" prob="0.35"/>
+    <entity name="BanditThugDragonMP5" prob="0.45"/>
+    <entity name="BanditThugDragonMP5Female" prob="0.25"/>
+    <entity name="BanditThugDragonSniperRifle" prob="0.35"/>
+    <entity name="BanditThugDragonSniperRifleFemale" prob="0.15"/>
+    <entity name="BanditThugDragonAK47" prob="0.25"/>
+    <entity name="BanditThugDragonAK47Female" prob="0.10"/>
+    <entity name="BanditThugDragonRocketLauncher" prob="0.15"/>
+    <entity name="BanditThugDragonRocketLauncherFemale" prob="0.05"/>
+  </entitygroup>
+  <entitygroup name="BanditsLeaderDragon">
+    <entity name="BanditDragonLeader" prob="1.0"/>
+  </entitygroup>
+  <entitygroup name="BanditsThugsDeath">
+    <entity name="BanditThugDeathPistol" prob="0.45"/>
+    <entity name="BanditThugDeathPistolFemale" prob="0.95"/>
+    <entity name="BanditThugDeathHuntingRifle" prob="0.45"/>
+    <entity name="BanditThugDeathHuntingRifleFemale" prob="0.85"/>
+    <entity name="BanditThugDeathSawedOffPumpShotgun" prob="0.35"/>
+    <entity name="BanditThugDeathSawedOffPumpShotgunFemale" prob="0.75"/>
+    <entity name="BanditThugDeathPumpShotgun" prob="0.35"/>
+    <entity name="BanditThugDeathPumpShotgunFemale" prob="0.65"/>
+    <entity name="BanditThugDeath44Magnum" prob="0.25"/>
+    <entity name="BanditThugDeath44MagnumFemale" prob="0.55"/>
+    <entity name="BanditThugDeathMP5" prob="0.25"/>
+    <entity name="BanditThugDeathMP5Female" prob="0.45"/>
+    <entity name="BanditThugDeathSniperRifle" prob="0.15"/>
+    <entity name="BanditThugDeathSniperRifleFemale" prob="0.35"/>
+    <entity name="BanditThugDeathAK47" prob="0.15"/>
+    <entity name="BanditThugDeathAK47Female" prob="0.25"/>
+    <entity name="BanditThugDeathRocketLauncher" prob="0.05"/>
+    <entity name="BanditThugDeathRocketLauncherFemale" prob="0.15"/>
+  </entitygroup>
+  <entitygroup name="BanditsLeaderDeath">
+    <entity name="BanditDeathLeader" prob="1.0"/>
+  </entitygroup>
+  <entitygroup name="BanditsThugsPestilence">
+    <entity name="BanditThugPestilencePistol" prob="0.95"/>
+    <entity name="BanditThugPestilencePistolFemale" prob="0.55"/>
+    <entity name="BanditThugPestilenceHuntingRifle" prob="0.85"/>
+    <entity name="BanditThugPestilenceHuntingRifleFemale" prob="0.45"/>
+    <entity name="BanditThugPestilenceSawedOffPumpShotgun" prob="0.75"/>
+    <entity name="BanditThugPestilenceSawedOffPumpShotgunFemale" prob="0.35"/>
+    <entity name="BanditThugPestilencePumpShotgun" prob="0.65"/>
+    <entity name="BanditThugPestilencePumpShotgunFemale" prob="0.35"/>
+    <entity name="BanditThugPestilence44Magnum" prob="0.55"/>
+    <entity name="BanditThugPestilence44MagnumFemale" prob="0.35"/>
+    <entity name="BanditThugPestilenceMP5" prob="0.45"/>
+    <entity name="BanditThugPestilenceMP5Female" prob="0.25"/>
+    <entity name="BanditThugPestilenceSniperRifle" prob="0.35"/>
+    <entity name="BanditThugPestilenceSniperRifleFemale" prob="0.15"/>
+    <entity name="BanditThugPestilenceAK47" prob="0.25"/>
+    <entity name="BanditThugPestilenceAK47Female" prob="0.10"/>
+    <entity name="BanditThugPestilenceRocketLauncher" prob="0.15"/>
+    <entity name="BanditThugPestilenceRocketLauncherFemale" prob="0.05"/>
+  </entitygroup>
+  <entitygroup name="BanditsLeaderPestilence">
+    <entity name="BanditPestilenceLeader" prob="1.0"/>
+  </entitygroup>
+
   <!-- Biome Spawning Groups -->
   <entitygroup name="ZombiesBurntForest">
     <entity name="burntzombie" prob="0.95"/>
@@ -221,7 +406,7 @@
     <entity name="ZombieMord" prob="0.01"/>
   </entitygroup>
   <entitygroup name="ZombiesBurntForestMixed">
-    <entity name="burntzombie" prob="0.95"/>
+    <entity name="burntzombie" prob="0.75"/>
     <entity name="zombieSteve" prob="0.15"/>
     <entity name="spiderzombie" prob="0.05"/>
     <entity name="zombieStag" prob="0.05"/>
@@ -236,6 +421,18 @@
     <entity name="ZombieVoodooMale" prob="0.05"/>
     <entity name="ZombieVoodooFemale" prob="0.05"/>
     <entity name="ZombieMord" prob="0.01"/>
+    <entity name="BanditThugPistol" prob="0.05"/>
+    <entity name="BanditThugPistolFemale" prob="0.05"/>
+    <entity name="BanditThugHuntingRifle" prob="0.05"/>
+    <entity name="BanditThugHuntingRifleFemale" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgun" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgunFemale" prob="0.05"/>
+    <entity name="BanditThugPumpShotgun" prob="0.025"/>
+    <entity name="BanditThugPumpShotgunFemale" prob="0.025"/>
+    <entity name="BanditThug44Magnum" prob="0.025"/>
+    <entity name="BanditThug44MagnumFemale" prob="0.025"/>
+    <entity name="BanditThugMP5" prob="0.01"/>
+    <entity name="BanditThugMP5Female" prob="0.01"/>
   </entitygroup>
   
   <entitygroup name="ZombiesDesert">
@@ -264,14 +461,14 @@
     <entity name="ZombieRanger" prob="0.45"/>
   </entitygroup>
   <entitygroup name="ZombiesDesertMixed">
-    <entity name="zombieBoe" prob="0.95"/>
-    <entity name="zombieJoe" prob="0.95"/>
-    <entity name="zombieYo" prob="0.95"/>
-    <entity name="zombieMoe" prob="0.45"/>
-    <entity name="zombieSteve" prob="0.15"/>
-    <entity name="zombieArlene" prob="0.65"/>
-    <entity name="zombieDarlene" prob="0.65"/>
-    <entity name="zombieMarlene" prob="0.65"/>
+    <entity name="zombieBoe" prob="0.55"/>
+    <entity name="zombieJoe" prob="0.55"/>
+    <entity name="zombieYo" prob="0.55"/>
+    <entity name="zombieMoe" prob="0.35"/>
+    <entity name="zombieSteve" prob="0.05"/>
+    <entity name="zombieArlene" prob="0.45"/>
+    <entity name="zombieDarlene" prob="0.45"/>
+    <entity name="zombieMarlene" prob="0.45"/>
     <entity name="zombieNurse" prob="0.1"/>
     <entity name="zombieChicken" prob="0.1"/>
     <entity name="zombieOldTimer" prob="0.45"/>
@@ -285,6 +482,19 @@
     <entity name="ZombieVoodooFemale" prob="0.05"/>
     <entity name="ZombieKenny" prob="0.45"/>
     <entity name="ZombieRanger" prob="0.45"/>
+    <entity name="BanditThugPistol" prob="0.05"/>
+    <entity name="BanditThugPistolFemale" prob="0.05"/>
+    <entity name="BanditThugHuntingRifle" prob="0.05"/>
+    <entity name="BanditThugHuntingRifleFemale" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgun" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgunFemale" prob="0.05"/>
+    <entity name="BanditThugPumpShotgun" prob="0.025"/>
+    <entity name="BanditThugPumpShotgunFemale" prob="0.025"/>
+    <entity name="BanditThug44Magnum" prob="0.025"/>
+    <entity name="BanditThug44MagnumFemale" prob="0.025"/>
+    <entity name="BanditThugMP5" prob="0.01"/>
+    <entity name="BanditThugMP5Female" prob="0.01"/>
+    <entity name="BanditThugSledgeHammer" prob="0.05"/>
   </entitygroup>
 
   <entitygroup name="ZombiesForest">
@@ -315,29 +525,42 @@
     <entity name="ZombieRanger" prob="0.45"/>
   </entitygroup>
   <entitygroup name="ZombiesForestMixed">
-    <entity name="zombieBoe" prob="0.85"/>
-    <entity name="zombieJoe" prob="0.85"/>
-    <entity name="zombieYo" prob="0.85"/>
-    <entity name="zombieMoe" prob="0.45"/>
+    <entity name="zombieBoe" prob="0.55"/>
+    <entity name="zombieJoe" prob="0.55"/>
+    <entity name="zombieYo" prob="0.55"/>
+    <entity name="zombieMoe" prob="0.35"/>
     <entity name="zombieSteve" prob="0.15"/>
     <entity name="zombieArlene" prob="0.85"/>
-    <entity name="zombieDarlene" prob="0.85"/>
-    <entity name="zombieMarlene" prob="0.85"/>
+    <entity name="zombieDarlene" prob="0.65"/>
+    <entity name="zombieMarlene" prob="0.65"/>
     <entity name="zombieNurse" prob="0.1"/>
     <entity name="zombieSteveCrawler" prob="0.15"/>
     <entity name="zombieStag" prob="0.05"/>
     <entity name="zombiePig" prob="0.05"/>
     <entity name="ZombieMiner" prob="0.45"/>
-    <entity name="ZombieFarmer" prob="0.65"/>
-    <entity name="ZombieFemaleFatUMA" prob="0.65"/>
-    <entity name="zombieOldTimer" prob="0.75"/>
-    <entity name="ZombieJethro" prob="0.35"/>
+    <entity name="ZombieFarmer" prob="0.55"/>
+    <entity name="ZombieFemaleFatUMA" prob="0.55"/>
+    <entity name="zombieOldTimer" prob="0.45"/>
+    <entity name="ZombieJethro" prob="0.15"/>
     <entity name="ZombieLumberjack" prob="0.45"/>
     <entity name="ZombieTrucker" prob="0.15"/>
     <entity name="ZombieRavager" prob="0.15"/>
     <entity name="ZombieChildMale" prob="0.1"/>
     <entity name="ZombieChildFemale" prob="0.1"/>
-    <entity name="ZombieRanger" prob="0.45"/>
+    <entity name="ZombieRanger" prob="0.35"/>
+    <entity name="BanditThugPistol" prob="0.05"/>
+    <entity name="BanditThugPistolFemale" prob="0.05"/>
+    <entity name="BanditThugHuntingRifle" prob="0.05"/>
+    <entity name="BanditThugHuntingRifleFemale" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgun" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgunFemale" prob="0.05"/>
+    <entity name="BanditThugPumpShotgun" prob="0.025"/>
+    <entity name="BanditThugPumpShotgunFemale" prob="0.025"/>
+    <entity name="BanditThug44Magnum" prob="0.025"/>
+    <entity name="BanditThug44MagnumFemale" prob="0.025"/>
+    <entity name="BanditThugMP5" prob="0.01"/>
+    <entity name="BanditThugMP5Female" prob="0.01"/>
+    <entity name="BanditThugSledgeHammer" prob="0.05"/>
   </entitygroup>
 
   <entitygroup name="ZombiesPineForest">
@@ -364,14 +587,14 @@
     <entity name="ZombieKenny" prob="0.45"/>
   </entitygroup>
   <entitygroup name="ZombiesPineForestMixed">
-    <entity name="zombieBoe" prob="0.65"/>
-    <entity name="zombieJoe" prob="0.65"/>
-    <entity name="zombieYo" prob="0.65"/>
-    <entity name="zombieMoe" prob="0.85"/>
-    <entity name="zombieSteve" prob="0.25"/>
-    <entity name="zombieArlene" prob="0.85"/>
-    <entity name="zombieDarlene" prob="0.85"/>
-    <entity name="zombieMarlene" prob="0.85"/>
+    <entity name="zombieBoe" prob="0.45"/>
+    <entity name="zombieJoe" prob="0.45"/>
+    <entity name="zombieYo" prob="0.45"/>
+    <entity name="zombieMoe" prob="0.55"/>
+    <entity name="zombieSteve" prob="0.15"/>
+    <entity name="zombieArlene" prob="0.55"/>
+    <entity name="zombieDarlene" prob="0.55"/>
+    <entity name="zombieMarlene" prob="0.55"/>
     <entity name="zombieNurse" prob="0.1"/>
     <entity name="zombieSteveCrawler" prob="0.15"/>
     <entity name="zombieBear" prob="0.05"/>
@@ -412,17 +635,17 @@
     <entity name="ZombieBigBitch" prob="0.45"/>
   </entitygroup>
   <entitygroup name="ZombiesPlainsMixed">
-    <entity name="zombieBoe" prob="0.75"/>
-    <entity name="zombieJoe" prob="0.75"/>
-    <entity name="zombieYo" prob="0.75"/>
-    <entity name="zombieMoe" prob="0.65"/>
-    <entity name="zombieSteve" prob="0.55"/>
-    <entity name="zombieArlene" prob="0.75"/>
-    <entity name="zombieDarlene" prob="0.75"/>
-    <entity name="zombieMarlene" prob="0.75"/>
+    <entity name="zombieBoe" prob="0.55"/>
+    <entity name="zombieJoe" prob="0.55"/>
+    <entity name="zombieYo" prob="0.55"/>
+    <entity name="zombieMoe" prob="0.35"/>
+    <entity name="zombieSteve" prob="0.45"/>
+    <entity name="zombieArlene" prob="0.55"/>
+    <entity name="zombieDarlene" prob="0.55"/>
+    <entity name="zombieMarlene" prob="0.55"/>
     <entity name="zombieNurse" prob="0.1"/>
     <entity name="zombieSteveCrawler" prob="0.15"/>
-    <entity name="zombiedog" prob="0.05"/>
+    <entity name="zombiedog" prob="0.025"/>
     <entity name="ZombieFarmer" prob="0.65"/>
     <entity name="ZombieUtilityWorker" prob="0.1"/>
     <entity name="ZombieCaitlin" prob="0.45"/>
@@ -434,6 +657,19 @@
     <entity name="ZombieChildMale" prob="0.1"/>
     <entity name="ZombieChildFemale" prob="0.1"/>
     <entity name="ZombieBigBitch" prob="0.45"/>
+    <entity name="BanditThugPistol" prob="0.05"/>
+    <entity name="BanditThugPistolFemale" prob="0.05"/>
+    <entity name="BanditThugHuntingRifle" prob="0.05"/>
+    <entity name="BanditThugHuntingRifleFemale" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgun" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgunFemale" prob="0.05"/>
+    <entity name="BanditThugPumpShotgun" prob="0.025"/>
+    <entity name="BanditThugPumpShotgunFemale" prob="0.025"/>
+    <entity name="BanditThug44Magnum" prob="0.025"/>
+    <entity name="BanditThug44MagnumFemale" prob="0.025"/>
+    <entity name="BanditThugMP5" prob="0.01"/>
+    <entity name="BanditThugMP5Female" prob="0.01"/>
+    <entity name="BanditThugSledgeHammer" prob="0.05"/>
   </entitygroup>
 
   <entitygroup name="ZombiesSnow">
@@ -448,13 +684,13 @@
     <entity name="ZombieLumberjack" prob="0.45"/>
   </entitygroup>
   <entitygroup name="ZombiesSnowMixed">
-    <entity name="snowzombie" prob="0.95"/>
+    <entity name="snowzombie" prob="0.75"/>
     <entity name="zombieRabbit" prob="0.05"/>
-    <entity name="ZombieSeryphSnow" prob="0.95"/>
-    <entity name="ZombieHelen" prob="0.65"/>
-    <entity name="ZombieGrace" prob="0.45"/>
-    <entity name="ZombieHugh" prob="0.45"/>
-    <entity name="ZombieLumberjack" prob="0.45"/>
+    <entity name="ZombieSeryphSnow" prob="0.45"/>
+    <entity name="ZombieHelen" prob="0.35"/>
+    <entity name="ZombieGrace" prob="0.35"/>
+    <entity name="ZombieHugh" prob="0.35"/>
+    <entity name="ZombieLumberjack" prob="0.65"/>
   </entitygroup>
 
   <entitygroup name="ZombiesWasteland">
@@ -555,15 +791,15 @@
     <entity name="ZombieJane" prob="0.15"/>
   </entitygroup>
   <entitygroup name="ZombiesWastelandMixed">
-    <entity name="zombieBoe" prob="0.95"/>
-    <entity name="zombieJoe" prob="0.95"/>
-    <entity name="zombieMoe" prob="0.95"/>
-    <entity name="zombieYo" prob="0.95"/>
-    <entity name="zombieSteve" prob="0.95"/>
-    <entity name="zombieArlene" prob="0.95"/>
-    <entity name="zombieDarlene" prob="0.95"/>
-    <entity name="zombieMarlene" prob="0.95"/>
-    <entity name="zombieNurse" prob="0.55"/>
+    <entity name="zombieBoe" prob="0.65"/>
+    <entity name="zombieJoe" prob="0.65"/>
+    <entity name="zombieMoe" prob="0.65"/>
+    <entity name="zombieYo" prob="0.65"/>
+    <entity name="zombieSteve" prob="0.65"/>
+    <entity name="zombieArlene" prob="0.65"/>
+    <entity name="zombieDarlene" prob="0.65"/>
+    <entity name="zombieMarlene" prob="0.65"/>
+    <entity name="zombieNurse" prob="0.35"/>
     <entity name="zombieSteveCrawler" prob="0.15"/>
     <entity name="spiderzombie" prob="0.05"/>
     <entity name="burntzombie" prob="0.15"/>
@@ -600,6 +836,18 @@
     <entity name="ZombieJane" prob="0.45"/>
     <entity name="ZombieBaby" prob="0.1"/>
     <entity name="ZombieBabyCrawler" prob="0.05"/>
+    <entity name="BanditThugPistol" prob="0.05"/>
+    <entity name="BanditThugPistolFemale" prob="0.05"/>
+    <entity name="BanditThugHuntingRifle" prob="0.05"/>
+    <entity name="BanditThugHuntingRifleFemale" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgun" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgunFemale" prob="0.05"/>
+    <entity name="BanditThugPumpShotgun" prob="0.025"/>
+    <entity name="BanditThugPumpShotgunFemale" prob="0.025"/>
+    <entity name="BanditThug44Magnum" prob="0.025"/>
+    <entity name="BanditThug44MagnumFemale" prob="0.025"/>
+    <entity name="BanditThugMP5" prob="0.1"/>
+    <entity name="BanditThugMP5Female" prob="0.1"/>
   </entitygroup>
   <entitygroup name="ZombiesWastelandNightMixed">
     <entity name="zombieBoe" prob="0.45"/>
@@ -736,15 +984,15 @@
     <entity name="ZombieLibrarian" prob="0.15"/>
   </entitygroup>
   <entitygroup name="ZombiesWastelandHubMixed">
-    <entity name="zombieBoe" prob="0.65"/>
-    <entity name="zombieJoe" prob="0.65"/>
-    <entity name="zombieMoe" prob="0.65"/>
-    <entity name="zombieYo" prob="0.65"/>
-    <entity name="zombieSteve" prob="0.65"/>
-    <entity name="zombieArlene" prob="0.65"/>
-    <entity name="zombieDarlene" prob="0.65"/>
-    <entity name="zombieMarlene" prob="0.65"/>
-    <entity name="zombieNurse" prob="0.75"/>
+    <entity name="zombieBoe" prob="0.55"/>
+    <entity name="zombieJoe" prob="0.55"/>
+    <entity name="zombieMoe" prob="0.55"/>
+    <entity name="zombieYo" prob="0.55"/>
+    <entity name="zombieSteve" prob="0.55"/>
+    <entity name="zombieArlene" prob="0.55"/>
+    <entity name="zombieDarlene" prob="0.55"/>
+    <entity name="zombieMarlene" prob="0.55"/>
+    <entity name="zombieNurse" prob="0.65"/>
     <entity name="zombieSteveCrawler" prob="0.05"/>
     <entity name="spiderzombie" prob="0.45"/>
     <entity name="burntzombie" prob="0.1"/>
@@ -775,19 +1023,44 @@
     <entity name="ZombieClarice" prob="0.45"/>
     <entity name="ZombieRaveReaper" prob="0.45"/>
     <entity name="ZombieLibrarian" prob="0.35"/>
+    <entity name="BanditThugPistol" prob="0.05"/>
+    <entity name="BanditThugPistolFemale" prob="0.05"/>
+    <entity name="BanditThugHuntingRifle" prob="0.05"/>
+    <entity name="BanditThugHuntingRifleFemale" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgun" prob="0.05"/>
+    <entity name="BanditThugSawedOffPumpShotgunFemale" prob="0.05"/>
+    <entity name="BanditThugPumpShotgun" prob="0.025"/>
+    <entity name="BanditThugPumpShotgunFemale" prob="0.025"/>
+    <entity name="BanditThug44Magnum" prob="0.025"/>
+    <entity name="BanditThug44MagnumFemale" prob="0.25"/>
+    <entity name="BanditThugMP5" prob="0.25"/>
+    <entity name="BanditThugMP5Female" prob="0.25"/>
+    <entity name="BanditThugSniperRifle" prob="0.05"/>
+    <entity name="BanditThugSniperRifleFemale" prob="0.05"/>
+    <entity name="BanditThugAK47" prob="0.25"/>
+    <entity name="BanditThugAK47Female" prob="0.25"/>
+    <entity name="BanditThugRocketLauncher" prob="0.05"/>
+    <entity name="BanditThugRocketLauncherFemale" prob="0.05"/>
+    <entity name="BanditWarLeader" prob="0.015"/>
+    <entity name="BanditDreadLeader" prob="0.015"/>
+    <entity name="BanditTheMakerLeader" prob="0.015"/>
+    <entity name="BanditFamineLeader" prob="0.015"/>
+    <entity name="BanditDragonLeader" prob="0.015"/>
+    <entity name="BanditDeathLeader" prob="0.015"/>
+    <entity name="BanditPestilenceLeader" prob="0.015"/>
   </entitygroup>
   <entitygroup name="ZombiesWastelandHubNightMixed">
-    <entity name="zombieBoe" prob="0.65"/>
-    <entity name="zombieJoe" prob="0.65"/>
-    <entity name="zombieMoe" prob="0.65"/>
-    <entity name="zombieYo" prob="0.65"/>
-    <entity name="zombieSteve" prob="0.65"/>
-    <entity name="zombieArlene" prob="0.65"/>
-    <entity name="zombieDarlene" prob="0.65"/>
-    <entity name="zombieMarlene" prob="0.65"/>
-    <entity name="zombieNurse" prob="0.75"/>
+    <entity name="zombieBoe" prob="0.45"/>
+    <entity name="zombieJoe" prob="0.45"/>
+    <entity name="zombieMoe" prob="0.45"/>
+    <entity name="zombieYo" prob="0.45"/>
+    <entity name="zombieSteve" prob="0.45"/>
+    <entity name="zombieArlene" prob="0.45"/>
+    <entity name="zombieDarlene" prob="0.45"/>
+    <entity name="zombieMarlene" prob="0.45"/>
+    <entity name="zombieNurse" prob="0.55"/>
     <entity name="zombieSteveCrawler" prob="0.05"/>
-    <entity name="spiderzombie" prob="0.75"/>
+    <entity name="spiderzombie" prob="0.55"/>
     <entity name="burntzombie" prob="0.15"/>
     <entity name="zombieferal" prob="0.55"/>
     <entity name="fatzombiecop" prob="0.65"/>
@@ -817,6 +1090,13 @@
     <entity name="ZombieClarice" prob="0.15"/>
     <entity name="ZombieRaveReaper" prob="0.35"/>
     <entity name="ZombieLibrarian" prob="0.15"/>
+    <entity name="BanditWarLeader" prob="0.015"/>
+    <entity name="BanditDreadLeader" prob="0.015"/>
+    <entity name="BanditTheMakerLeader" prob="0.015"/>
+    <entity name="BanditFamineLeader" prob="0.015"/>
+    <entity name="BanditDragonLeader" prob="0.015"/>
+    <entity name="BanditDeathLeader" prob="0.015"/>
+    <entity name="BanditPestilenceLeader" prob="0.015"/>
   </entitygroup>
   
   <entitygroup name="ZombiesWastelandBorder">

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="_Compo_Firestation(Slick50)">
+  <size x="22" y="14" z="25"/>
+  <blocks>
+    <block id="0" name="air" count="3983"/>
+    <block id="365" name="airConditioner" count="2"/>
+    <block id="463" name="bed01" count="3"/>
+    <block id="951" name="brickAsphaltBlock" count="200"/>
+    <block id="210" name="brickBlock" count="356"/>
+    <block id="954" name="brickDecayedBlock" count="133"/>
+    <block id="322" name="ceilingLight04" count="6"/>
+    <block id="374" name="cinderBlocks01" count="1"/>
+    <block id="416" name="cinderBlocks02" count="1"/>
+    <block id="542" name="cntBirdnest" count="3"/>
+    <block id="838" name="cntCabinet" count="4"/>
+    <block id="944" name="cntCabinetOldSink" count="1"/>
+    <block id="331" name="cntChest01" count="2"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="520" name="cntDesk02" count="1"/>
+    <block id="623" name="cntFileCabinet" count="1"/>
+    <block id="349" name="cntFridge" count="1"/>
+    <block id="629" name="cntGraniteSink" count="1"/>
+    <block id="628" name="cntGunSafe" count="1"/>
+    <block id="626" name="cntLockers" count="2"/>
+    <block id="286" name="cntMedicineCabinet" count="1"/>
+    <block id="311" name="cntOven" count="1"/>
+    <block id="639" name="cntSecureStorageChest" count="2"/>
+    <block id="427" name="cntSportsBag01" count="1"/>
+    <block id="434" name="cntToilet01" count="1"/>
+    <block id="335" name="cntTrash_can01" count="5"/>
+    <block id="340" name="cntTrashPile01" count="2"/>
+    <block id="344" name="cntTrashPile05" count="3"/>
+    <block id="346" name="cntTrashPile07" count="1"/>
+    <block id="1164" name="commercialDoor1_v1" count="2"/>
+    <block id="1165" name="commercialDoor1_v2" count="1"/>
+    <block id="1167" name="commercialDoor2_v1" count="4"/>
+    <block id="211" name="concreteBlock" count="326"/>
+    <block id="621" name="faucetBrass02" count="1"/>
+    <block id="786" name="garageDoor1CTRPlate" count="19"/>
+    <block id="16" name="gravel" count="115"/>
+    <block id="558" name="ironBars" count="74"/>
+    <block id="788" name="ladderWood" count="4"/>
+    <block id="1548" name="metalPipeCorner" count="5"/>
+    <block id="1546" name="metalPipeStraight" count="2"/>
+    <block id="1552" name="metalPipeValve" count="2"/>
+    <block id="1045" name="metalRivetStairs25" count="8"/>
+    <block id="521" name="officeChair01" count="1"/>
+    <block id="373" name="oilBarrel" count="2"/>
+    <block id="312" name="oldChair" count="1"/>
+    <block id="1094" name="railingMetalSheet" count="6"/>
+    <block id="1" name="stone" count="2200"/>
+    <block id="522" name="storeShelving01" count="16"/>
+    <block id="844" name="tanStuccotileFloor1Block" count="24"/>
+    <block id="28" name="terrainFiller" count="85"/>
+    <block id="325" name="wallLight01" count="3"/>
+    <block id="656" name="window02" count="6"/>
+    <block id="1212" name="window04" count="72"/>
+    <block id="1251" name="woodHatch1_v1" count="1"/>
+  </blocks>
+</prefab>

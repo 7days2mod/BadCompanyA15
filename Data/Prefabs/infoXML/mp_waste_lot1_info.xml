@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_lot1">
+  <size x="103" y="4" z="103"/>
+  <blocks>
+    <block id="0" name="air" count="29668"/>
+    <block id="15" name="asphalt" count="1337"/>
+    <block id="1138" name="asphaltWedgeTip" count="28"/>
+    <block id="583" name="brickDecayedBroke1Block" count="20"/>
+    <block id="24" name="burntForestGround" count="896"/>
+    <block id="374" name="cinderBlocks01" count="32"/>
+    <block id="416" name="cinderBlocks02" count="32"/>
+    <block id="538" name="cinderBlocks03" count="79"/>
+    <block id="963" name="concreteAsphaltHalf" count="28"/>
+    <block id="26" name="destroyedStone" count="8464"/>
+    <block id="263" name="lootWasteland" count="12"/>
+    <block id="300" name="rock04" count="21"/>
+    <block id="384" name="scrapIronSheet" count="40"/>
+    <block id="417" name="scrapMetalPile" count="57"/>
+    <block id="1579" name="sidewalkCurb" count="8"/>
+    <block id="401" name="sidewalkHalf" count="372"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="910"/>
+    <block id="871" name="treeDeadPineLeaf" count="41"/>
+    <block id="569" name="treeDeadShrub" count="19"/>
+    <block id="1585" name="wastelandCNRCurb" count="4"/>
+    <block id="1584" name="wastelandCurb" count="368"/>
+  </blocks>
+</prefab>

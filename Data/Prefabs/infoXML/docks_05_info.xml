@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="docks_05">
+  <size x="21" y="20" z="26"/>
+  <blocks>
+    <block id="0" name="air" count="9975"/>
+    <block id="1595" name="blueMetalWall01Sheet2" count="5"/>
+    <block id="360" name="boardedWindowsSheet4" count="2"/>
+    <block id="820" name="bridgeWoodBlock" count="296"/>
+    <block id="1775" name="burningBarrel" count="1"/>
+    <block id="1560" name="chair04" count="1"/>
+    <block id="892" name="cntCardboardBox" count="1"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="349" name="cntFridge" count="1"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="340" name="cntTrashPile01" count="1"/>
+    <block id="342" name="cntTrashPile03" count="1"/>
+    <block id="1168" name="commercialDoor2_v2" count="1"/>
+    <block id="1556" name="conduit01" count="1"/>
+    <block id="1558" name="conduit01End" count="1"/>
+    <block id="860" name="corrugatedMetalBlock" count="219"/>
+    <block id="1007" name="corrugatedMetalBlockDuplicate" count="24"/>
+    <block id="1571" name="corrugatedMetalWall01Sheet2" count="21"/>
+    <block id="1482" name="garbage_decor1" count="2"/>
+    <block id="1483" name="garbage_decor2" count="3"/>
+    <block id="1484" name="garbage_decor3" count="3"/>
+    <block id="1601" name="greenMetalWall02Sheet2" count="11"/>
+    <block id="1617" name="greenRustyMetalWall03Sheet2" count="11"/>
+    <block id="389" name="ladderMetal" count="2"/>
+    <block id="373" name="oilBarrel" count="1"/>
+    <block id="312" name="oldChair" count="2"/>
+    <block id="1606" name="orangeMetalWall02Sheet2" count="3"/>
+    <block id="316" name="porchLight01" count="1"/>
+    <block id="921" name="powerPoleWoodPillar50" count="140"/>
+    <block id="1633" name="redMetalWall02Sheet2" count="12"/>
+    <block id="1418" name="rScrapIronTable" count="7"/>
+    <block id="787" name="rustyIronPole" count="12"/>
+    <block id="1588" name="rustyIronWall01Sheet2" count="1"/>
+    <block id="1589" name="rustyIronWall02Sheet2" count="8"/>
+    <block id="380" name="solidWoodFrameRamp" count="2"/>
+    <block id="364" name="streetLight01" count="1"/>
+    <block id="898" name="tire" count="4"/>
+    <block id="1636" name="whiteMetalWall01Sheet2" count="7"/>
+    <block id="656" name="window02" count="2"/>
+    <block id="1196" name="window02Broken01CTRPlate" count="3"/>
+    <block id="1197" name="window02Broken02CTRPlate" count="1"/>
+    <block id="1199" name="window02Broken03CTRPlate" count="1"/>
+    <block id="795" name="woodShinglesBlock" count="22"/>
+    <block id="796" name="woodShinglesRamp" count="98"/>
+    <block id="1619" name="woodStairsBoard" count="6"/>
+  </blocks>
+</prefab>

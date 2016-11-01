@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="rg_cave_sm_01">
+  <size x="17" y="11" z="25"/>
+  <blocks>
+    <block id="0" name="air" count="1026"/>
+    <block id="1562" name="bedroll" count="1"/>
+    <block id="309" name="campfire" count="1"/>
+    <block id="1301" name="candleWall" count="2"/>
+    <block id="1374" name="cntApacheArtifactChest" count="1"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="348" name="cntTrashPile09" count="1"/>
+    <block id="1388" name="cobweb" count="4"/>
+    <block id="1389" name="hangingMoss" count="9"/>
+    <block id="1382" name="mushroom01" count="4"/>
+    <block id="1383" name="mushroom02" count="4"/>
+    <block id="312" name="oldChair" count="1"/>
+    <block id="297" name="rock01" count="2"/>
+    <block id="298" name="rock02" count="1"/>
+    <block id="630" name="rockResource" count="1"/>
+    <block id="640" name="rockResource02" count="1"/>
+    <block id="1384" name="stalactite01" count="3"/>
+    <block id="1385" name="stalactite02" count="3"/>
+    <block id="1386" name="stalactite03" count="2"/>
+    <block id="1387" name="stalactite04" count="3"/>
+    <block id="28" name="terrainFiller" count="3600"/>
+    <block id="770" name="woodLogPillar100" count="4"/>
+  </blocks>
+</prefab>

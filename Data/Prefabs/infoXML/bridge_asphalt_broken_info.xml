@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="bridge_asphalt_broken">
+  <size x="39" y="16" z="11"/>
+  <blocks>
+    <block id="0" name="air" count="5903"/>
+    <block id="1039" name="asphaltRamp" count="7"/>
+    <block id="1131" name="asphaltWedge" count="18"/>
+    <block id="1138" name="asphaltWedgeTip" count="18"/>
+    <block id="817" name="bridgeAsphaltBlock" count="142"/>
+    <block id="818" name="bridgeMetalRivetBlock" count="220"/>
+    <block id="1456" name="cntCar03Red" count="1"/>
+    <block id="1461" name="cntCar03WhiteDamage1" count="1"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="1347" name="cntShoppingCart" count="1"/>
+    <block id="14" name="desertGround" count="316"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1483" name="garbage_decor2" count="2"/>
+    <block id="1484" name="garbage_decor3" count="2"/>
+    <block id="798" name="metalRivetRamp" count="180"/>
+    <block id="517" name="rebarDestroyed" count="1"/>
+    <block id="1610" name="roadRailing" count="33"/>
+    <block id="1611" name="roadRailingPole" count="16"/>
+  </blocks>
+</prefab>

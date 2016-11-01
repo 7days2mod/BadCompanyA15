@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="waste_rubble_bldg_05">
+  <size x="36" y="10" z="35"/>
+  <blocks>
+    <block id="0" name="air" count="8725"/>
+    <block id="954" name="brickDecayedBlock" count="73"/>
+    <block id="583" name="brickDecayedBroke1Block" count="13"/>
+    <block id="584" name="brickDecayedBroke2Block" count="20"/>
+    <block id="585" name="brickDecayedBroke3Block" count="17"/>
+    <block id="518" name="chair01" count="1"/>
+    <block id="374" name="cinderBlocks01" count="3"/>
+    <block id="416" name="cinderBlocks02" count="3"/>
+    <block id="538" name="cinderBlocks03" count="2"/>
+    <block id="737" name="cntBookcase" count="2"/>
+    <block id="520" name="cntDesk02" count="1"/>
+    <block id="366" name="cntDeskSafe" count="1"/>
+    <block id="343" name="cntTrashPile04" count="3"/>
+    <block id="347" name="cntTrashPile08" count="1"/>
+    <block id="1174" name="commercialDoor4_v2" count="1"/>
+    <block id="211" name="concreteBlock" count="74"/>
+    <block id="593" name="concreteDestroyed1" count="2"/>
+    <block id="594" name="concreteDestroyed2" count="4"/>
+    <block id="596" name="concreteDestroyed4" count="8"/>
+    <block id="599" name="concreteDestroyed7" count="1"/>
+    <block id="600" name="concreteDestroyed8" count="1"/>
+    <block id="601" name="concreteDestroyed9" count="2"/>
+    <block id="1072" name="concreteStairs25" count="3"/>
+    <block id="981" name="concreteTileBrownBlock" count="149"/>
+    <block id="26" name="destroyedStone" count="3445"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="1207" name="glassIndustrial02Broken01CTRPlate" count="2"/>
+    <block id="1208" name="glassIndustrial02Broken02CTRPlate" count="3"/>
+    <block id="1206" name="glassIndustrial02CTRPlate" count="1"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="9"/>
+    <block id="1108" name="plywoodOsbCTRPlate" count="2"/>
+    <block id="517" name="rebarDestroyed" count="5"/>
+    <block id="417" name="scrapMetalPile" count="9"/>
+    <block id="871" name="treeDeadPineLeaf" count="7"/>
+    <block id="569" name="treeDeadShrub" count="4"/>
+    <block id="325" name="wallLight01" count="1"/>
+  </blocks>
+</prefab>

@@ -12799,4 +12799,8 @@
     <property name="Extends" value="banditLeaderCorpse"/>
     <property name="LootList" value="209"/>
   </block>  
+  <block id="2010" name="banditSledgeCorpse">
+    <property name="Extends" value="banditLeaderCorpse"/>
+    <property name="LootList" value="210"/>
+  </block>
 </blocks>

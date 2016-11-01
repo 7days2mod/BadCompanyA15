@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_pile_02">
+  <size x="9" y="3" z="9"/>
+  <blocks>
+    <block id="0" name="air" count="163"/>
+    <block id="538" name="cinderBlocks03" count="4"/>
+    <block id="4" name="plainsGround" count="66"/>
+    <block id="1588" name="rustyIronWall01Sheet2" count="1"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="6"/>
+    <block id="768" name="treeTallGrassDiagonal" count="3"/>
+  </blocks>
+</prefab>

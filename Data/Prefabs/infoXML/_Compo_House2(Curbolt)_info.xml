@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="_Compo_House2(Curbolt)">
+  <size x="15" y="16" z="19"/>
+  <blocks>
+    <block id="0" name="air" count="2228"/>
+    <block id="360" name="boardedWindowsSheet4" count="4"/>
+    <block id="709" name="cabinetOldFillerBlock" count="7"/>
+    <block id="999" name="cabinShinglesWoodRamp" count="120"/>
+    <block id="321" name="ceilingLight02Brass" count="2"/>
+    <block id="518" name="chair01" count="12"/>
+    <block id="336" name="cntBin" count="2"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="737" name="cntBookcase" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="519" name="cntDesk01" count="2"/>
+    <block id="623" name="cntFileCabinet" count="1"/>
+    <block id="628" name="cntGunSafe" count="1"/>
+    <block id="1009" name="curtain_bottom1Sheet3" count="3"/>
+    <block id="799" name="curtain_top1Sheet3" count="3"/>
+    <block id="3" name="dirt" count="256"/>
+    <block id="1115" name="drywallBlock" count="241"/>
+    <block id="861" name="hayBaleBlock" count="11"/>
+    <block id="1176" name="houseFrontDoor1_v1" count="4"/>
+    <block id="1180" name="houseFrontDoor1_v2" count="1"/>
+    <block id="1181" name="houseFrontDoor1_v3" count="1"/>
+    <block id="558" name="ironBars" count="12"/>
+    <block id="788" name="ladderWood" count="10"/>
+    <block id="266" name="lootPlains" count="10"/>
+    <block id="277" name="painting01" count="2"/>
+    <block id="907" name="painting02" count="2"/>
+    <block id="897" name="panelingBurntPillar100" count="15"/>
+    <block id="318" name="porchLight04Brass" count="7"/>
+    <block id="953" name="redWoodFloorBlock" count="149"/>
+    <block id="1012" name="sidingBlueOldWoodBlock" count="338"/>
+    <block id="362" name="tanDrywallPillar100" count="6"/>
+    <block id="28" name="terrainFiller" count="64"/>
+    <block id="383" name="tileFloor5Block" count="221"/>
+    <block id="885" name="treePlant02" count="6"/>
+    <block id="656" name="window02" count="3"/>
+    <block id="1196" name="window02Broken01CTRPlate" count="4"/>
+    <block id="1197" name="window02Broken02CTRPlate" count="5"/>
+    <block id="1199" name="window02Broken03CTRPlate" count="5"/>
+    <block id="1378" name="WindowPlug01" count="4"/>
+    <block id="1379" name="WindowPlug02" count="8"/>
+    <block id="1380" name="WindowPlug03" count="4"/>
+    <block id="1381" name="WindowPlug04" count="3"/>
+    <block id="220" name="woodBlock" count="336"/>
+    <block id="893" name="woodFenceSheet" count="13"/>
+    <block id="988" name="woodPole" count="226"/>
+    <block id="795" name="woodShinglesBlock" count="19"/>
+    <block id="796" name="woodShinglesRamp" count="170"/>
+    <block id="237" name="woodStairs25" count="16"/>
+  </blocks>
+</prefab>

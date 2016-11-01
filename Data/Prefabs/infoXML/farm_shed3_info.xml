@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="farm_shed3">
+  <size x="11" y="8" z="8"/>
+  <blocks>
+    <block id="0" name="air" count="316"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="343" name="cntTrashPile04" count="3"/>
+    <block id="860" name="corrugatedMetalBlock" count="43"/>
+    <block id="1007" name="corrugatedMetalBlockDuplicate" count="1"/>
+    <block id="889" name="corrugatedMetalRamp" count="100"/>
+    <block id="926" name="corrugatedMetalSheetDuplicate" count="42"/>
+    <block id="786" name="garageDoor1CTRPlate" count="12"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="1207" name="glassIndustrial02Broken01CTRPlate" count="1"/>
+    <block id="1208" name="glassIndustrial02Broken02CTRPlate" count="1"/>
+    <block id="1206" name="glassIndustrial02CTRPlate" count="2"/>
+    <block id="16" name="gravel" count="54"/>
+    <block id="883" name="lootGarage" count="1"/>
+    <block id="373" name="oilBarrel" count="1"/>
+    <block id="316" name="porchLight01" count="1"/>
+    <block id="28" name="terrainFiller" count="34"/>
+    <block id="871" name="treeDeadPineLeaf" count="3"/>
+    <block id="276" name="treeSnowyGrassDiagonal" count="3"/>
+    <block id="988" name="woodPole" count="84"/>
+  </blocks>
+</prefab>

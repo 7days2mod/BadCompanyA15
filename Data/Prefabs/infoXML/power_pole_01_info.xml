@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="power_pole_01">
+  <size x="1" y="14" z="1"/>
+  <blocks>
+    <block id="378" name="concretePillar50" count="9"/>
+    <block id="363" name="poleTop01" count="1"/>
+    <block id="921" name="powerPoleWoodPillar50" count="4"/>
+  </blocks>
+</prefab>

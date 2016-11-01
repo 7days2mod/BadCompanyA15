@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="rg_bridge_straight_01">
+  <size x="54" y="11" z="14"/>
+  <blocks>
+    <block id="0" name="air" count="6568"/>
+    <block id="15" name="asphalt" count="676"/>
+    <block id="818" name="bridgeMetalRivetBlock" count="1062"/>
+    <block id="797" name="metalRivetBlock" count="2"/>
+    <block id="798" name="metalRivetRamp" count="8"/>
+  </blocks>
+</prefab>

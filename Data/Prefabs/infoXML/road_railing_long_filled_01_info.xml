@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="road_railing_long_filled_01">
+  <size x="24" y="2" z="9"/>
+  <blocks>
+    <block id="0" name="air" count="168"/>
+    <block id="15" name="asphalt" count="216"/>
+    <block id="1610" name="roadRailing" count="28"/>
+    <block id="1612" name="roadRailingEnd" count="2"/>
+    <block id="1613" name="roadRailingEnd2" count="2"/>
+    <block id="1611" name="roadRailingPole" count="16"/>
+  </blocks>
+</prefab>

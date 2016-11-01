@@ -12,16 +12,48 @@
       <cell_rule name="wastelandHub_nw" position="-1,1" prob="0"/>
       <cell_rule name="wastelandHub_se" position="1,-1" prob="0"/>
       <cell_rule name="wastelandHub_sw" position="-1,-1" prob="0"/>
+      <cell_rule name="Stronghold_Famine" position="0,4" prob="0"/>
+      <cell_rule name="Stronghold_War" position="0,-4" prob="0"/>
+      <cell_rule name="Stronghold_Pestilence" position="4,0" prob="0"/>
+      <cell_rule name="Stronghold_Dragon" position="-4,0" prob="0"/>
       <cell_rule name="lowDensity" prob="0.8"/>
-      <cell_rule name="highDensity" prob="0.25"/>
+      <cell_rule name="highDensity" prob="0.45"/>
     </ruleset>
   </rulesets>
   <cell_rules>
+    <cell_rule name="Stronghold_Famine">
+      <cave_count value="4,8"/>
+      <path_material value="asphalt"/>
+      <path_radius value="7"/>
+      <hub_rule name="Stronghold_Famine" prob="1"/>
+      <wilderness_rule name="wildernessHigh" prob="1"/>
+    </cell_rule>
+    <cell_rule name="Stronghold_War">
+      <cave_count value="4,8"/>
+      <path_material value="asphalt"/>
+      <path_radius value="7"/>
+      <hub_rule name="Stronghold_War" prob="1"/>
+      <wilderness_rule name="wildernessHigh" prob="1"/>
+    </cell_rule>
+    <cell_rule name="Stronghold_Pestilence">
+      <cave_count value="4,8"/>
+      <path_material value="asphalt"/>
+      <path_radius value="7"/>
+      <hub_rule name="Stronghold_Pestilence" prob="1"/>
+      <wilderness_rule name="wildernessHigh" prob="1"/>
+    </cell_rule>
+    <cell_rule name="Stronghold_Dragon">
+      <cave_count value="4,8"/>
+      <path_material value="asphalt"/>
+      <path_radius value="7"/>
+      <hub_rule name="Stronghold_Dragon" prob="1"/>
+      <wilderness_rule name="wildernessHigh" prob="1"/>
+    </cell_rule>
     <cell_rule name="lowDensity">
       <cave_count value="4,8"/>
       <path_material value="asphalt" />
       <path_radius value="7" />
-      <hub_rule name="ruralSmall" prob="0.65"/>
+      <hub_rule name="ruralSmall" prob="0.45"/>
       <hub_rule name="townSmall" prob="0.35"/>
       <wilderness_rule name="wildernessDefault"/>
     </cell_rule>
@@ -41,13 +73,6 @@
       <hub_rule name="cityLarge" />
       <wilderness_rule name="wildernessCity" prob="1"/>
     </cell_rule>
-    <cell_rule name="wastelandHub_">
-      <cave_count value="1,1"/>
-      <path_material value="asphalt" />
-      <path_radius value="7" />
-      <hub_rule name="citySmall" />
-      <wilderness_rule name="wildernessCity" prob="1"/>
-    </cell_rule>
     <cell_rule name="wastelandHub_n">
       <cave_count value="1,1"/>
       <path_material value="asphalt" />
@@ -60,8 +85,7 @@
       <cave_count value="1,1"/>
       <path_material value="asphalt" />
       <path_radius value="7" />
-      <hub_rule name="townLarge" prob="0.50"/>
-      <hub_rule name="citySmall" prob="0.50"/>
+      <hub_rule name="Hub_WartornDiers" prob="0.25"/>
       <wilderness_rule name="wildernessCity" prob="1"/>
     </cell_rule>
     <cell_rule name="wastelandHub_e">
@@ -84,16 +108,14 @@
       <cave_count value="1,1"/>
       <path_material value="asphalt" />
       <path_radius value="7" />
-      <hub_rule name="townLarge" prob="0.50"/>
-      <hub_rule name="citySmall" prob="0.50"/>
+      <hub_rule name="Hub_Mortensen" prob="0.25"/>
       <wilderness_rule name="wildernessCity" prob="1"/>
     </cell_rule>
     <cell_rule name="wastelandHub_nw">
       <cave_count value="1,1"/>
       <path_material value="asphalt" />
       <path_radius value="7" />
-      <hub_rule name="townLarge" prob="0.50"/>
-      <hub_rule name="citySmall" prob="0.50"/>
+      <hub_rule name="Hub_Feirston" prob="0.25"/>
       <wilderness_rule name="wildernessCity" prob="1"/>
     </cell_rule>
     <cell_rule name="wastelandHub_se">
@@ -114,6 +136,55 @@
     </cell_rule>
   </cell_rules>
   <hub_rules>
+    <hub_rule name="Hub_Mortensen">
+      <hub_type value="rural"/>
+      <width value="380,380"/>
+      <height value="310,310"/>
+      <hub_layout name="Layout_Mortensen"/>
+      <prefab_rule name="townBuildings" prob="1"/>
+    </hub_rule>
+    <hub_rule name="Hub_Feirston">
+      <hub_type value="rural"/>
+      <width value="240,240"/>
+      <height value="250,250"/>
+      <hub_layout name="Layout_Feirston"/>
+      <prefab_rule name="townBuildings" prob="1"/>
+    </hub_rule>
+    <hub_rule name="Hub_WartornDiers">
+      <hub_type value="rural"/>
+      <width value="299,299"/>
+      <height value="312,312"/>
+      <hub_layout name="Layout_WartornDiers"/>
+      <prefab_rule name="townBuildings"/>
+    </hub_rule>
+    <hub_rule name="Stronghold_Famine">
+      <hub_type value="rural"/>
+      <width value="240,240" />
+      <height value="120,120" />
+      <hub_layout name="Stronghold_Famine"/>
+      <prefab_rule name="townBuildings" prob="1"/>
+    </hub_rule>
+    <hub_rule name="Stronghold_War">
+      <hub_type value="rural"/>
+      <width value="90,90" />
+      <height value="90,90" />
+      <hub_layout name="Stronghold_War"/>
+      <prefab_rule name="townBuildings"/>
+    </hub_rule>
+    <hub_rule name="Stronghold_Pestilence">
+      <hub_type value="rural"/>
+      <width value="90,90" />
+      <height value="90,90" />
+      <hub_layout name="Stronghold_Pestilence"/>
+      <prefab_rule name="townBuildings"/>
+    </hub_rule>
+    <hub_rule name="Stronghold_Dragon">
+      <hub_type value="rural"/>
+      <width value="50,50" />
+      <height value="50,50" />
+      <hub_layout name="Stronghold_Dragon"/>
+      <prefab_rule name="townBuildings"/>
+    </hub_rule>
     <hub_rule name="ruralSmall">
       <hub_type value="rural"/>
       <width value="96, 96" />
@@ -185,51 +256,58 @@
       <prefab rule="cityBuildingsUncommon"/>
       <prefab rule="cityBuildingsRare"/>
       <prefab rule="cityBuildingsCommon"/>
+      <prefab rule="compo_city"/>
     </prefab_rule>
     <prefab_rule name="townLarge">
-      <prefab rule="gunStores" max_count="1" prob="0.9"/>
-      <prefab rule="pharmacies" max_count="1" prob="0.9"/>
-      <prefab rule="hardwareStores" max_count="1" prob="0.9"/>
-      <prefab rule="bookStores" max_count="1" prob="0.9"/>
-      <prefab rule="groceryStores" max_count="1" prob="0.9"/>
-      <prefab rule="banks" max_count="1" prob="0.9"/>
-      <prefab rule="bars" max_count="1" prob="0.9"/>
-      <prefab rule="funeral_homes" max_count="1" prob="0.9"/>
-      <prefab rule="middleClassHousing"/>
-      <prefab rule="countryHousing"/>
-      <prefab rule="townBuildings"/>
+      <prefab rule="compo_town" prob="150"/>
+      <prefab rule="gunStores" max_count="1" prob="90"/>
+      <prefab rule="pharmacies" max_count="1" prob="90"/>
+      <prefab rule="hardwareStores" max_count="1" prob="90"/>
+      <prefab rule="bookStores" max_count="1" prob="90"/>
+      <prefab rule="groceryStores" max_count="1" prob="90"/>
+      <prefab rule="banks" max_count="1" prob="90"/>
+      <prefab rule="bars" max_count="1" prob="90"/>
+      <prefab rule="funeral_homes" max_count="1" prob="90"/>
+      <prefab rule="middleClassHousing" prob="90"/>
+      <prefab rule="countryHousing" prob="90"/>
+      <prefab rule="townBuildings" prob="90"/>
     </prefab_rule>
     <prefab_rule name="wildernessPOIs">
-      <prefab rule="trader_settlements" min_count="1" max_count="1" prob="20"/>
-      <prefab rule="abandoned_houses" prob="0.20"/>
-      <prefab name="indian_burial_grounds_01" prob="0.05"/>
-      <prefab rule="militaryCamps" prob="0.1"/>
-      <prefab rule="wildernessMisc" prob="0.1"/>
-      <prefab rule="waterPOIs" prob="0.1"/>
-      <prefab rule="countryHousing" prob="0.3"/>
-      <prefab rule="campsites" prob="0.15"/>
-      <prefab rule="cabins" prob="0.2"/>
-      <prefab rule="barnsAndSheds" prob="0.1"/>
+      <prefab rule="trader_settlements" min_count="1" max_count="1" prob="100"/>
+      <prefab rule="compo_wilderness" prob="30"/>
+      <prefab rule="abandoned_houses" prob="20"/>
+      <prefab name="indian_burial_grounds_01" prob="5"/>
+      <prefab rule="militaryCamps" prob="10"/>
+      <prefab rule="wildernessMisc" prob="10"/>
+      <prefab rule="waterPOIs" prob="10"/>
+      <prefab rule="countryHousing" prob="30"/>
+      <prefab rule="campsites" prob="15"/>
+      <prefab rule="cabins" prob="20"/>
+      <prefab rule="barnsAndSheds" prob="10"/>
     </prefab_rule>
     <prefab_rule name="wildernessPOIs_high">
-      <prefab rule="trader_settlements" min_count="1" max_count="1" prob="20"/>
-      <prefab rule="gunStores" max_count="1" prob="0.9"/>
-      <prefab rule="pharmacies" max_count="1" prob="0.9"/>
-      <prefab rule="hardwareStores" max_count="1" prob="0.9"/>
-      <prefab rule="bookStores" max_count="1" prob="0.9"/>
-      <prefab rule="groceryStores" max_count="1" prob="0.9"/>
-      <prefab rule="banks" max_count="1" prob="0.9"/>
-      <prefab rule="bars" max_count="1" prob="0.9"/>
-      <prefab rule="funeral_homes" max_count="1" prob="0.9"/>
-      <prefab rule="middleClassHousing"/>
-      <prefab rule="abandoned_houses" prob="0.20"/>
-      <prefab rule="militaryCamps" prob="0.1"/>
-      <prefab rule="wildernessMisc" prob="0.1"/>
-      <prefab rule="waterPOIs" prob="0.1"/>
-      <prefab rule="countryHousing" prob="0.3"/>
+      <prefab rule="trader_settlements" min_count="1" max_count="1" prob="100"/>
+      <prefab rule="compo_town" prob="90"/>
+      <prefab rule="compo_wilderness" prob="90"/>
+      <prefab rule="gunStores" max_count="1" prob="90"/>
+      <prefab rule="pharmacies" max_count="1" prob="90"/>
+      <prefab rule="hardwareStores" max_count="1" prob="90"/>
+      <prefab rule="bookStores" max_count="1" prob="90"/>
+      <prefab rule="groceryStores" max_count="1" prob="90"/>
+      <prefab rule="banks" max_count="1" prob="90"/>
+      <prefab rule="bars" max_count="1" prob="90"/>
+      <prefab rule="funeral_homes" max_count="1" prob="90"/>
+      <prefab rule="middleClassHousing" prob="90"/>
+      <prefab rule="abandoned_houses" prob="20"/>
+      <prefab rule="militaryCamps" prob="10"/>
+      <prefab rule="wildernessMisc" prob="10"/>
+      <prefab rule="waterPOIs" prob="10"/>
+      <prefab rule="countryHousing" prob="30"/>
     </prefab_rule>
     <prefab_rule name="wildernessPOIs_city">
       <prefab rule="trader_settlements" prob="10"/>
+      <prefab rule="compo_city" prob="90"/>
+      <prefab rule="compo_town" prob="45"/>
       <prefab rule="garages" prob="20"/>
       <prefab rule="gunStores" prob="20"/>
       <prefab rule="pharmacies" prob="20"/>
@@ -292,6 +370,7 @@
       <prefab rule="bars" max_count="1"/>
     </prefab_rule>
     <prefab_rule name="townBuildings">
+      <prefab rule="compo_town"/>
       <prefab rule="garages" max_count="8" prob="0.1"/>
       <prefab rule="gunStores" max_count="1"/>
       <prefab rule="pharmacies" max_count="1"/>
@@ -624,8 +703,304 @@
       <prefab name="vacant_lot_sm_01"/>
       <prefab name="vacant_lot_sm_02"/>
     </prefab_rule>
+    <prefab_rule name="compo_city">
+      <prefab name="_Compo_3BlockStores(Leo_Liuos)" max_count="3" prob="0.9"/>
+      <prefab name="_Compo_Apartments(Batman)" max_count="5" prob="0.9"/>
+      <prefab name="_Compo_Apartments(Gertle)" max_count="5" prob="0.9"/>
+      <prefab name="_Compo_ApartmentStores(Laz_Man)" max_count="2" prob="0.9"/>
+      <prefab name="_Compo_ArtGallery(Wsiegel)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Asylum(Wsiegel)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Automotive(Laz_Man)" max_count="2" prob="0.9"/>
+      <prefab name="_Compo_Bank(Guppycur)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Bank(Limodor)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Brownstones(Laz_Man)" max_count="10" prob="0.9"/>
+      <prefab name="_Compo_Firehouse(Warsaken)" max_count="2" prob="0.9"/>
+      <prefab name="_Compo_FuneralParlor(Zombieman)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_House7(Curbolt)" max_count="2" prob="0.9"/>
+      <prefab name="_Compo_House(LastI)" max_count="2" prob="0.9"/>
+      <prefab name="_Compo_McDonalds(BigC90210)" max_count="2" prob="0.9"/>
+      <prefab name="_Compo_MiniMall(Spider)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_ScienceLab(kinklade)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Stripmall(Guppycur)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_TankGarage(LuckyStar)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_TruckStop(magoli)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_TruckStopGarage(stallionsden)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_WulftownA(WereWulfen)" max_count="1" prob="0.9"/>
+    </prefab_rule>
+    <prefab_rule name="compo_town">
+      <prefab name="_Compo_3BlockStores(Leo_Liuos)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Apartments(Batman)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Apartments(Gertle)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_ApartmentStores(Laz_Man)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_ArtGallery(Wsiegel)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Asylum(Wsiegel)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Automotive(Laz_Man)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Bank(Guppycur)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Bank(Limodor)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Bank(magoli)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_BavarianBowseShop(magoli)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Brownstones(Laz_Man)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Cabin(Sudo)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Cantine(Limodor)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Crematory(magoli)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Firehouse(Warsaken)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Firestation(Slick50)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_FuneralHome(Wsiegel)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_FuneralParlor(Zombieman)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_House2(Curbolt)" prob="0.9"/>
+      <prefab name="_Compo_House3(Curbolt)" prob="0.9"/>
+      <prefab name="_Compo_House7(Curbolt)" prob="0.9"/>
+      <prefab name="_Compo_House(LastI)" prob="0.9"/>
+      <prefab name="_Compo_House(magoli)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF01P(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF02P(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF02R(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF03P(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF03R(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF04D(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF04P(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF04R(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF05D(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF05P(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF05R(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF06D(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF06R(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HydroPlant(LuckyStar)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_InfoCenter(LuckyStar)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Kwikemart(magoli)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_LumberMill(IceJudge)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Manorhouse(WereWulfen)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_McDonalds(BigC90210)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_MedicalClinic(magoli)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_MiniMall(Spider)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Motel(Limodor)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Nicehouse(BigC90210)" max_count="2" prob="0.9"/>
+      <prefab name="_Compo_Nuket0wn(Limodor)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Orphanage(magoli)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_ParkLodge(Laz_Man)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Pawnshop(magoli)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Plant(Wsiegel)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Pools(Warsaken)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Recycling(Limodor)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Restaurant(Gertle)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_RocketLaunchPad(Saeid)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_School(LazMan)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_ScienceLab(kinklade)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Simpsonshouse(magoli)" max_count="2" prob="0.9"/>
+      <prefab name="_Compo_Storage(ShoNuff)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Stripmall(Guppycur)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_SwimmingBath(magoli)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_TankGarage(LuckyStar)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Tavern(Limodor)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_TittyTwister(Sorrowthief)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_TownHall(Guppycur)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_TruckStop(magoli)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_TruckStopGarage(stallionsden)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Villa(Limodor)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_Warehouse(Batman)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_WoodenStore(Guppycur)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_WulftownA(WereWulfen)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_WulftownCD(WereWulfen)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_WWHouse(IceJudge)" max_count="1" prob="0.9"/>
+      <prefab name="_Compo_ZHigh(Volar)" max_count="1" prob="0.9"/>
+    </prefab_rule>
+    <prefab_rule name="compo_wilderness">
+      <prefab name="_Compo_3BlockStores(Leo_Liuos)" prob="0.9"/>
+      <prefab name="_Compo_Apartments(Batman)" prob="0.9"/>
+      <prefab name="_Compo_Apartments(Gertle)" prob="0.9"/>
+      <prefab name="_Compo_ApartmentStores(Laz_Man)" prob="0.9"/>
+      <prefab name="_Compo_ArtGallery(Wsiegel)" prob="0.9"/>
+      <prefab name="_Compo_Asylum(Wsiegel)" prob="0.9"/>
+      <prefab name="_Compo_Automotive(Laz_Man)" prob="0.9"/>
+      <prefab name="_Compo_Bank(Guppycur)" prob="0.9"/>
+      <prefab name="_Compo_Bank(Limodor)" prob="0.9"/>
+      <prefab name="_Compo_Bank(magoli)" prob="0.9"/>
+      <prefab name="_Compo_BavarianBowseShop(magoli)" prob="0.9"/>
+      <prefab name="_Compo_Brownstones(Laz_Man)" prob="0.9"/>
+      <prefab name="_Compo_Cabin(Sudo)" prob="0.9"/>
+      <prefab name="_Compo_Cantine(Limodor)" prob="0.9"/>
+      <prefab name="_Compo_Crematory(magoli)" prob="0.9"/>
+      <prefab name="_Compo_Firehouse(Warsaken)" prob="0.9"/>
+      <prefab name="_Compo_Firestation(Slick50)" prob="0.9"/>
+      <prefab name="_Compo_FuneralHome(Wsiegel)" prob="0.9"/>
+      <prefab name="_Compo_FuneralParlor(Zombieman)" prob="0.9"/>
+      <prefab name="_Compo_House2(Curbolt)" prob="0.9"/>
+      <prefab name="_Compo_House3(Curbolt)" prob="0.9"/>
+      <prefab name="_Compo_House7(Curbolt)" prob="0.9"/>
+      <prefab name="_Compo_House(LastI)" prob="0.9"/>
+      <prefab name="_Compo_House(magoli)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF01P(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF02P(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF02R(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF03P(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF03R(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF04D(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF04P(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF04R(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF05D(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF05P(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF05R(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF06D(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HouseAF06R(Nodabba)" prob="0.9"/>
+      <prefab name="_Compo_HydroPlant(LuckyStar)" prob="0.9"/>
+      <prefab name="_Compo_InfoCenter(LuckyStar)" prob="0.9"/>
+      <prefab name="_Compo_Kwikemart(magoli)" prob="0.9"/>
+      <prefab name="_Compo_LumberMill(IceJudge)" prob="0.9"/>
+      <prefab name="_Compo_Manorhouse(WereWulfen)" prob="0.9"/>
+      <prefab name="_Compo_McDonalds(BigC90210)" prob="0.9"/>
+      <prefab name="_Compo_MedicalClinic(magoli)" prob="0.9"/>
+      <prefab name="_Compo_MiniMall(Spider)" prob="0.9"/>
+      <prefab name="_Compo_MissileSilo(Ephoie)" prob="0.9"/>
+      <prefab name="_Compo_Motel(Limodor)" prob="0.9"/>
+      <prefab name="_Compo_Nicehouse(BigC90210)" prob="0.9"/>
+      <prefab name="_Compo_NuclearPowerplant(Rocky)" prob="0.9"/>
+      <prefab name="_Compo_Nuket0wn(Limodor)" prob="0.9"/>
+      <prefab name="_Compo_Orphanage(magoli)" prob="0.9"/>
+      <prefab name="_Compo_ParkLodge(Laz_Man)" prob="0.9"/>
+      <prefab name="_Compo_Pawnshop(magoli)" prob="0.9"/>
+      <prefab name="_Compo_Plant(Wsiegel)" prob="0.9"/>
+      <prefab name="_Compo_Pools(Warsaken)" prob="0.9"/>
+      <prefab name="_Compo_Recycling(Limodor)" prob="0.9"/>
+      <prefab name="_Compo_Restaurant(Gertle)" prob="0.9"/>
+      <prefab name="_Compo_RocketLaunchPad(Saeid)" prob="0.9"/>
+      <prefab name="_Compo_School(LazMan)" prob="0.9"/>
+      <prefab name="_Compo_ScienceLab(kinklade)" prob="0.9"/>
+      <prefab name="_Compo_Simpsonshouse(magoli)" prob="0.9"/>
+      <prefab name="_Compo_Storage(ShoNuff)" prob="0.9"/>
+      <prefab name="_Compo_Stripmall(Guppycur)" prob="0.9"/>
+      <prefab name="_Compo_SwimmingBath(magoli)" prob="0.9"/>
+      <prefab name="_Compo_TankGarage(LuckyStar)" prob="0.9"/>
+      <prefab name="_Compo_Tavern(Limodor)" prob="0.9"/>
+      <prefab name="_Compo_TittyTwister(Sorrowthief)" prob="0.9"/>
+      <prefab name="_Compo_TownHall(Guppycur)" prob="0.9"/>
+      <prefab name="_Compo_TruckStop(magoli)" prob="0.9"/>
+      <prefab name="_Compo_TruckStopGarage(stallionsden)" prob="0.9"/>
+      <prefab name="_Compo_Villa(Limodor)" prob="0.9"/>
+      <prefab name="_Compo_Warehouse(Batman)" prob="0.9"/>
+      <prefab name="_Compo_WoodenStore(Guppycur)" prob="0.9"/>
+      <prefab name="_Compo_WulftownA(WereWulfen)" prob="0.9"/>
+      <prefab name="_Compo_WulftownCD(WereWulfen)" prob="0.9"/>
+      <prefab name="_Compo_WWHouse(IceJudge)" prob="0.9"/>
+      <prefab name="_Compo_ZHigh(Volar)" prob="0.9"/>
+    </prefab_rule>
   </prefab_rules>
   <hub_layouts>
+    <hub_layout name="Layout_Mortensen">
+      <street start_point="0,0" end_point="380,0" path_material="asphalt" path_radius="5"/>
+      <street start_point="380,0" end_point="380,310" path_material="asphalt" path_radius="5"/>
+      <street start_point="380,310" end_point="0,310" path_material="asphalt" path_radius="5"/>
+      <street start_point="0,310" end_point="0,0" path_material="asphalt" path_radius="5"/>
+
+      <street start_point="0,100" end_point="260,100" path_material="asphalt" path_radius="7"/>
+      <street start_point="260,100" end_point="260,230" path_material="asphalt" path_radius="7"/>
+      <street start_point="110,100" end_point="110,230" path_material="asphalt" path_radius="7"/>
+      <street start_point="110,230" end_point="380,230" path_material="asphalt" path_radius="7"/>
+      <lot min_x_y="118,223" prefab="_BadCompany_aa_diersville_block_01" rotation_to_road="0"/>
+
+      <street start_point="0,159" end_point="110,159" path_material="asphalt" path_radius="7"/>
+      <lot min_x_y="3,225" prefab="_BadCompany_school_01_south" rotation_to_road="0"/>
+      <lot min_x_y="46,152" prefab="_BadCompany_store_pharmacy_sm_01" rotation_to_road="0"/>
+      <lot min_x_y="78,152" prefab="_BadCompany_store_book_sm_01" rotation_to_road="0"/>
+
+      <street start_point="82,100" end_point="82,0" path_material="asphalt" path_radius="7"/>
+      <lot min_x_y="35,93" prefab="_BadCompany_store_grocery_lg_01_north" rotation_to_road="0"/>
+      <lot min_x_y="110,36" prefab="_BadCompany_business_red_brick_06_south" rotation_to_road="0"/>
+      <lot min_x_y="135,36" prefab="_BadCompany_business_red_brick_04_south" rotation_to_road="0"/>
+      <lot min_x_y="165,58" prefab="_BadCompany_junkyard_med_01_south" rotation_to_road="0"/>
+
+      <street start_point="100,230" end_point="110,230" path_material="asphalt" path_radius="7"/>
+      <street start_point="100,230" end_point="100,275" path_material="asphalt" path_radius="7"/>
+      <street start_point="190,275" end_point="100,275" path_material="asphalt" path_radius="7"/>
+      <street start_point="190,275" end_point="190,310" path_material="asphalt" path_radius="7"/>
+      <lot min_x_y="110,300" prefab="_BadCompany_house_trailer_blue_01_south" rotation_to_road="0"/>
+      <lot min_x_y="150,300" prefab="_BadCompany_house_trailer_yellow_01_south" rotation_to_road="0"/>
+
+      <street start_point="260,112" end_point="380,112" path_material="asphalt" path_radius="7"/>
+      <lot min_x_y="268,223" prefab="_BadCompany_plains_housing_blk_01" rotation_to_road="0"/>
+      <lot min_x_y="270,218" prefab="_BadCompany_house_new_mansion_01_west_raised" rotation_to_road="0"/>
+      <lot min_x_y="270,163" prefab="_BadCompany_house_new_mansion_02_west_raised" rotation_to_road="0"/>
+<!-- CHANGE TO PREFILLED LOTS -->
+<!--
+      <lot min_x_y="90,64" size="16,22" rotation_to_road="0"/>
+      <lot min_x_y="110,64" size="16,22" rotation_to_road="0"/>
+      <lot min_x_y="130,64" size="16,22" rotation_to_road="0"/>
+      <lot min_x_y="150,64" size="16,22" rotation_to_road="0"/>
+      <lot min_x_y="170,64" size="16,22" rotation_to_road="0"/>
+      <lot min_x_y="190,64" size="16,22" rotation_to_road="0"/>
+      <lot min_x_y="210,64" size="16,22" rotation_to_road="0"/>
+      <lot min_x_y="230,64" size="16,22" rotation_to_road="0"/>
+      <lot min_x_y="110,245" size="16,22" rotation_to_road="2"/>
+      <lot min_x_y="130,245" size="16,22" rotation_to_road="2"/>
+      <lot min_x_y="150,245" size="16,22" rotation_to_road="2"/>
+      <lot min_x_y="170,245" size="16,22" rotation_to_road="2"/>
+      <lot min_x_y="190,245" size="16,22" rotation_to_road="2"/>
+      <lot min_x_y="210,245" size="16,22" rotation_to_road="2"/>
+      <lot min_x_y="230,245" size="16,22" rotation_to_road="2"/>
+-->
+<!-- END CHANGE -->
+    </hub_layout>
+    <hub_layout name="Layout_Feirston">
+      <street start_point="0,0" end_point="236,0" path_material="asphalt" path_radius="5"/>
+      <street start_point="236,0" end_point="236,242" path_material="asphalt" path_radius="5"/>
+      <street start_point="236,242" end_point="0,242" path_material="asphalt" path_radius="5"/>
+      <street start_point="0,242" end_point="0,0" path_material="asphalt" path_radius="5"/>
+      <street start_point="0,115" end_point="117,115" path_material="asphalt" path_radius="4"/>
+      <street start_point="0,127" end_point="117,127" path_material="asphalt" path_radius="4"/>
+      <lot min_x_y="8,111" prefab="_BadCompany_plains_mainstreet_blk_02" rotation_to_road="0"/><!-- 103x103 -->
+      <lot min_x_y="8,124" prefab="_BadCompany_plains_mainstreet_median_01" rotation_to_road="0"/>
+      <lot min_x_y="8,235" prefab="_BadCompany_plains_mainstreet_blk_01" rotation_to_road="0"/><!-- 103x103 -->
+      <street start_point="0,0" end_point="118,0" path_material="asphalt" path_radius="7"/>
+      <street start_point="118,0" end_point="118,242" path_material="asphalt" path_radius="7"/>
+      <street start_point="118,242" end_point="0,242" path_material="asphalt" path_radius="7"/>
+      <street start_point="0,242" end_point="0,0" path_material="asphalt" path_radius="7"/>
+      <lot min_x_y="126,172" prefab="_BadCompany_plains_mainstreet_blk_03_west" rotation_to_road="0"/><!-- 103x103 -->
+    </hub_layout>
+    <hub_layout name="Layout_WartornDiers">
+      <street start_point="0,0" end_point="299,0" path_material="asphalt" path_radius="7"/>
+      <street start_point="299,0" end_point="299,258" path_material="asphalt" path_radius="7"/>
+      <street start_point="299,258" end_point="0,258" path_material="asphalt" path_radius="7"/>
+      <street start_point="0,258" end_point="0,0" path_material="asphalt" path_radius="7"/>
+      <street start_point="0,129" end_point="299,129" path_material="asphalt" path_radius="7"/>
+      <street start_point="150,0" end_point="150,312" path_material="asphalt" path_radius="7"/>
+      <lot min_x_y="157,123" prefab="_WartornDiers04" rotation_to_road="0"/><!-- 135x115 -->
+      <lot min_x_y="157,252" prefab="_WartornDiers02" rotation_to_road="0"/><!-- 135x115 -->
+      <lot min_x_y="8,123" prefab="_WartornDiers03" rotation_to_road="0"/><!-- 135x115 -->
+      <lot min_x_y="8,252" prefab="_WartornDiers01" rotation_to_road="0"/><!-- 135x115 -->
+      <lot min_x_y="60,300" prefab="_WartornSchool(LazMan)" rotation_to_road="0"/><!-- 36x34 -->
+      <lot min_x_y="100,309" prefab="_WartornAutomotive(Laz_Man)" rotation_to_road="0"/><!-- 44x43 -->
+      <lot min_x_y="158,311" prefab="_WartornStripmall(Guppycur)" rotation_to_road="0"/><!-- 45x45 -->
+      <lot min_x_y="207,287" prefab="_WartornWooden_Store(Guppycur)" rotation_to_road="0"/><!-- 26x21 -->
+    </hub_layout>
+    <hub_layout name="Stronghold_Famine">
+      <street start_point="0,0" end_point="234,0" path_material="asphalt" path_radius="7"/>
+      <street start_point="234,117" end_point="0,117" path_material="asphalt" path_radius="7"/>
+      <street start_point="184,0" end_point="184,117" path_material="asphalt" path_radius="7"/>
+      <street start_point="51,117" end_point="51,0" path_material="asphalt" path_radius="7"/>
+      <lot min_x_y="59,117" prefab="_BadCompany_StrongholdFamine" rotation_to_road="0"/> <!-- 117x117 -->
+      <lot min_x_y="68,107" prefab="_BadCompany_settlement_01" rotation_to_road="0"/> <!-- 38x38 -->
+      <lot min_x_y="128,58" prefab="_BadCompany_police_station1_n" rotation_to_road="0"/> <!-- 42x38 -->
+    </hub_layout>
+    <hub_layout name="Stronghold_War">
+      <street start_point="0,0" end_point="82,0" path_material="asphalt" path_radius="7"/>
+      <street start_point="82,0" end_point="82,71" path_material="asphalt" path_radius="7"/>
+      <street start_point="82,71" end_point="0,71" path_material="asphalt" path_radius="7"/>
+      <street start_point="0,71" end_point="0,0" path_material="asphalt" path_radius="7"/>
+      <lot min_x_y="8,8" prefab="_BadCompany_StrongholdWar" rotation_to_road="2"/><!-- 67x56 -->
+    </hub_layout>
+    <hub_layout name="Stronghold_Pestilence">
+      <street start_point="0,0" end_point="118,0" path_material="asphalt" path_radius="7"/>
+      <street start_point="118,0" end_point="118,118" path_material="asphalt" path_radius="7"/>
+      <street start_point="118,118" end_point="0,118" path_material="asphalt" path_radius="7"/>
+      <street start_point="0,118" end_point="0,0" path_material="asphalt" path_radius="7"/>
+      <lot min_x_y="8,8" prefab="_Compo_Chernobyl(Maz_Burt)" rotation_to_road="2"/><!-- 103x103 -->
+    </hub_layout>
+    <hub_layout name="Stronghold_Dragon">
+      <street start_point="0,0" end_point="50,0" path_material="asphalt" path_radius="7"/>
+      <street start_point="50,0" end_point="50,50" path_material="asphalt" path_radius="7"/>
+      <street start_point="50,50" end_point="0,50" path_material="asphalt" path_radius="7"/>
+      <street start_point="0,50" end_point="0,0" path_material="asphalt" path_radius="7"/>
+      <lot min_x_y="8,8" prefab="_BadCompany_StrongholdDragon" rotation_to_road="2"/><!-- 33x35 -->
+    </hub_layout>
   </hub_layouts>
 
   <terrain_generators>
@@ -738,14 +1113,14 @@
       <biome_generator range="0.80,0.85"/>
     </biome_spawn_rule>
     <biome_spawn_rule name="radiated">
-      <biome_generator range="0.97,1"/>
+      <biome_generator range="0.99,1"/>
     </biome_spawn_rule>
     <biome_spawn_rule name="wasteland">
       <distance_from_center range="0,2400"/>
       <biome_generator range="0,0.10"/>
     </biome_spawn_rule>
     <biome_spawn_rule name="snow">
-      <biome_generator range="0.85,0.97"/>
+      <biome_generator range="0.85,0.99"/>
       <terrain_generator range="175,255"/>
     </biome_spawn_rule>
     <biome_spawn_rule name="city_wasteland">

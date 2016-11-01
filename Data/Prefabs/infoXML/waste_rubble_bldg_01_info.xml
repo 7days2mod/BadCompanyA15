@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="waste_rubble_bldg_01">
+  <size x="6" y="11" z="6"/>
+  <blocks>
+    <block id="0" name="air" count="309"/>
+    <block id="954" name="brickDecayedBlock" count="35"/>
+    <block id="583" name="brickDecayedBroke1Block" count="2"/>
+    <block id="585" name="brickDecayedBroke3Block" count="4"/>
+    <block id="1041" name="brickDecayedRamp" count="3"/>
+    <block id="518" name="chair01" count="1"/>
+    <block id="374" name="cinderBlocks01" count="1"/>
+    <block id="416" name="cinderBlocks02" count="3"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="211" name="concreteBlock" count="12"/>
+    <block id="593" name="concreteDestroyed1" count="2"/>
+    <block id="594" name="concreteDestroyed2" count="1"/>
+    <block id="980" name="concreteTileGreenBlock" count="8"/>
+    <block id="26" name="destroyedStone" count="3"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="1207" name="glassIndustrial02Broken01CTRPlate" count="1"/>
+    <block id="1206" name="glassIndustrial02CTRPlate" count="1"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="2"/>
+    <block id="517" name="rebarDestroyed" count="2"/>
+    <block id="898" name="tire" count="1"/>
+    <block id="871" name="treeDeadPineLeaf" count="2"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="_BadCompany_StrongholdDragon">
+  <size x="33" y="36" z="35"/>
+  <blocks>
+    <block id="689" name="adobeWhitePole" count="24"/>
+    <block id="0" name="air" count="32403"/>
+    <block id="365" name="airConditioner" count="9"/>
+    <block id="633" name="blueMetalBlock" count="23"/>
+    <block id="1599" name="blueMetalPlate" count="257"/>
+    <block id="632" name="blueMetalRamp1" count="4"/>
+    <block id="397" name="brickPlate" count="28"/>
+    <block id="320" name="ceilingLight02" count="125"/>
+    <block id="47" name="clayInSandstone" count="16"/>
+    <block id="542" name="cntBirdnest" count="4"/>
+    <block id="1173" name="commercialDoor4_v1" count="13"/>
+    <block id="1509" name="controlPanelBase01" count="2"/>
+    <block id="1510" name="controlPanelBase02" count="3"/>
+    <block id="1511" name="controlPanelBase03" count="3"/>
+    <block id="1512" name="controlPanelBase04" count="2"/>
+    <block id="1515" name="controlPanelTop01" count="1"/>
+    <block id="1516" name="controlPanelTop02" count="3"/>
+    <block id="1517" name="controlPanelTop03" count="4"/>
+    <block id="1519" name="controlPanelTop05" count="2"/>
+    <block id="860" name="corrugatedMetalBlock" count="100"/>
+    <block id="14" name="desertGround" count="410"/>
+    <block id="721" name="drywallWhitePlate" count="26"/>
+    <block id="1429" name="garageDoorMetal_v1" count="2"/>
+    <block id="1160" name="glassBusinessBlock" count="24"/>
+    <block id="1604" name="greenMetalPlate" count="42"/>
+    <block id="1279" name="metalCatwalkRailing" count="442"/>
+    <block id="1281" name="metalCatwalkRailingCNR" count="31"/>
+    <block id="1548" name="metalPipeCorner" count="27"/>
+    <block id="1553" name="metalPipeFlange" count="104"/>
+    <block id="1549" name="metalPipeJoint" count="8"/>
+    <block id="1546" name="metalPipeStraight" count="32"/>
+    <block id="1280" name="metalRailing" count="93"/>
+    <block id="1283" name="metalStairsBoardRailing" count="25"/>
+    <block id="385" name="metalTrussingBlock" count="1255"/>
+    <block id="1914" name="metalTrussingRamp" count="242"/>
+    <block id="1609" name="orangeMetalPlate" count="42"/>
+    <block id="204" name="rConcreteBlock" count="1884"/>
+    <block id="630" name="rockResource" count="4"/>
+    <block id="640" name="rockResource02" count="2"/>
+    <block id="8" name="sand" count="571"/>
+    <block id="13" name="sandStone" count="110"/>
+    <block id="417" name="scrapMetalPile" count="3"/>
+    <block id="1446" name="spotlight" count="4"/>
+    <block id="414" name="steelBlock" count="1902"/>
+    <block id="173" name="steelPlate" count="55"/>
+    <block id="1" name="stone" count="1155"/>
+    <block id="364" name="streetLight01" count="8"/>
+    <block id="591" name="treeDesertShrub" count="50"/>
+    <block id="1449" name="vaultDoor01" count="1"/>
+  </blocks>
+</prefab>

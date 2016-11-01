@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="desert_form02">
+  <size x="12" y="10" z="12"/>
+  <blocks>
+    <block id="0" name="air" count="1267"/>
+    <block id="14" name="desertGround" count="3"/>
+    <block id="2" name="grass" count="6"/>
+    <block id="13" name="sandStone" count="163"/>
+    <block id="591" name="treeDesertShrub" count="1"/>
+  </blocks>
+</prefab>

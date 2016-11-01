@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="farm_drv1">
+  <size x="5" y="2" z="26"/>
+  <blocks>
+    <block id="0" name="air" count="130"/>
+    <block id="16" name="gravel" count="130"/>
+  </blocks>
+</prefab>

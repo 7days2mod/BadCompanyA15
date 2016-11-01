@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="barn_03">
+  <size x="34" y="13" z="32"/>
+  <blocks>
+    <block id="0" name="air" count="11395"/>
+    <block id="859" name="barnWoodBlock" count="479"/>
+    <block id="936" name="barnWoodWedge" count="260"/>
+    <block id="1137" name="barnWoodWedgeTip" count="280"/>
+    <block id="1000" name="cabinOldWoodRamp" count="115"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="737" name="cntBookcase" count="1"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="310" name="cookingPot" count="1"/>
+    <block id="926" name="corrugatedMetalSheetDuplicate" count="24"/>
+    <block id="3" name="dirt" count="1088"/>
+    <block id="1484" name="garbage_decor3" count="2"/>
+    <block id="861" name="hayBaleBlock" count="78"/>
+    <block id="788" name="ladderWood" count="5"/>
+    <block id="883" name="lootGarage" count="4"/>
+    <block id="373" name="oilBarrel" count="4"/>
+    <block id="312" name="oldChair" count="1"/>
+    <block id="316" name="porchLight01" count="4"/>
+    <block id="220" name="woodBlock" count="104"/>
+    <block id="894" name="woodFenceFarmSheet" count="82"/>
+    <block id="830" name="woodHalf" count="103"/>
+    <block id="988" name="woodPole" count="111"/>
+  </blocks>
+</prefab>

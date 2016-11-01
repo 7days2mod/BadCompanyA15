@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_bldg_06_intact">
+  <size x="23" y="22" z="35"/>
+  <blocks>
+    <block id="0" name="air" count="12035"/>
+    <block id="365" name="airConditioner" count="11"/>
+    <block id="978" name="asphaltBlock" count="475"/>
+    <block id="463" name="bed01" count="2"/>
+    <block id="954" name="brickDecayedBlock" count="1458"/>
+    <block id="709" name="cabinetOldFillerBlock" count="11"/>
+    <block id="518" name="chair01" count="27"/>
+    <block id="336" name="cntBin" count="12"/>
+    <block id="542" name="cntBirdnest" count="2"/>
+    <block id="1074" name="cntCabinetOldBottom" count="13"/>
+    <block id="944" name="cntCabinetOldSink" count="2"/>
+    <block id="1075" name="cntCabinetOldTop" count="7"/>
+    <block id="892" name="cntCardboardBox" count="9"/>
+    <block id="361" name="cntCorpseLoot01" count="2"/>
+    <block id="520" name="cntDesk02" count="10"/>
+    <block id="349" name="cntFridge" count="1"/>
+    <block id="626" name="cntLockers" count="8"/>
+    <block id="286" name="cntMedicineCabinet" count="1"/>
+    <block id="338" name="cntSuitcase" count="6"/>
+    <block id="436" name="cntToilet03" count="1"/>
+    <block id="335" name="cntTrash_can01" count="2"/>
+    <block id="1164" name="commercialDoor1_v1" count="1"/>
+    <block id="1173" name="commercialDoor4_v1" count="6"/>
+    <block id="211" name="concreteBlock" count="943"/>
+    <block id="775" name="concreteHalf" count="664"/>
+    <block id="774" name="concreteQuarter" count="82"/>
+    <block id="1072" name="concreteStairs25" count="34"/>
+    <block id="981" name="concreteTileBrownBlock" count="1446"/>
+    <block id="394" name="concreteTrimCNRRamp" count="8"/>
+    <block id="393" name="concreteTrimRamp" count="129"/>
+    <block id="622" name="faucetBrass04" count="2"/>
+    <block id="1206" name="glassIndustrial02CTRPlate" count="123"/>
+    <block id="395" name="glassIndustrialCTRPlate" count="24"/>
+    <block id="883" name="lootGarage" count="6"/>
+    <block id="263" name="lootWasteland" count="9"/>
+    <block id="521" name="officeChair01" count="9"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="11"/>
+    <block id="315" name="sectionalArm" count="6"/>
+    <block id="314" name="sectionalCorner" count="3"/>
+    <block id="313" name="sectionalMiddle" count="23"/>
+    <block id="391" name="tileIndustrialDecayedBrickBlock" count="52"/>
+    <block id="392" name="tileIndustrialPlate" count="8"/>
+    <block id="768" name="treeTallGrassDiagonal" count="12"/>
+    <block id="1193" name="woodBarricadeCTRPlate" count="2"/>
+    <block id="830" name="woodHalf" count="12"/>
+  </blocks>
+</prefab>

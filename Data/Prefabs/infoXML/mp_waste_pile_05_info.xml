@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_pile_05">
+  <size x="9" y="4" z="9"/>
+  <blocks>
+    <block id="0" name="air" count="224"/>
+    <block id="1347" name="cntShoppingCart" count="1"/>
+    <block id="377" name="concretePillar100" count="3"/>
+    <block id="526" name="mineCookingPot" count="1"/>
+    <block id="404" name="orangeConcretePillar100" count="1"/>
+    <block id="4" name="plainsGround" count="82"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="9"/>
+    <block id="871" name="treeDeadPineLeaf" count="3"/>
+  </blocks>
+</prefab>

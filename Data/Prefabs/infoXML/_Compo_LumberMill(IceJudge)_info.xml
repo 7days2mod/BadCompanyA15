@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="_Compo_LumberMill(IceJudge)">
+  <size x="29" y="18" z="27"/>
+  <blocks>
+    <block id="0" name="air" count="8451"/>
+    <block id="967" name="barnShinglesRamp" count="73"/>
+    <block id="820" name="bridgeWoodBlock" count="81"/>
+    <block id="319" name="ceilingLight01" count="1"/>
+    <block id="320" name="ceilingLight02" count="4"/>
+    <block id="326" name="ceilingLight07" count="1"/>
+    <block id="931" name="chaulkboardPlate" count="6"/>
+    <block id="336" name="cntBin" count="1"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="737" name="cntBookcase" count="1"/>
+    <block id="892" name="cntCardboardBox" count="7"/>
+    <block id="331" name="cntChest01" count="1"/>
+    <block id="519" name="cntDesk01" count="1"/>
+    <block id="426" name="cntDuffle01" count="1"/>
+    <block id="623" name="cntFileCabinet" count="3"/>
+    <block id="626" name="cntLockers" count="4"/>
+    <block id="337" name="cntNightstand" count="1"/>
+    <block id="429" name="cntPurse01" count="1"/>
+    <block id="1388" name="cobweb" count="2"/>
+    <block id="782" name="concretePole" count="88"/>
+    <block id="860" name="corrugatedMetalBlock" count="64"/>
+    <block id="1007" name="corrugatedMetalBlockDuplicate" count="35"/>
+    <block id="3" name="dirt" count="1524"/>
+    <block id="1176" name="houseFrontDoor1_v1" count="1"/>
+    <block id="389" name="ladderMetal" count="9"/>
+    <block id="788" name="ladderWood" count="14"/>
+    <block id="521" name="officeChair01" count="1"/>
+    <block id="312" name="oldChair" count="2"/>
+    <block id="897" name="panelingBurntPillar100" count="112"/>
+    <block id="316" name="porchLight01" count="1"/>
+    <block id="1144" name="railingOldWoodSheet" count="23"/>
+    <block id="1145" name="railingWroughtIronSheet" count="5"/>
+    <block id="952" name="redWoodBlock" count="626"/>
+    <block id="940" name="redWoodPillar100" count="21"/>
+    <block id="787" name="rustyIronPole" count="16"/>
+    <block id="224" name="rWoodMetalRamp" count="172"/>
+    <block id="219" name="scrapIronCNRFull" count="6"/>
+    <block id="1" name="stone" count="1566"/>
+    <block id="522" name="storeShelving01" count="4"/>
+    <block id="28" name="terrainFiller" count="762"/>
+    <block id="325" name="wallLight01" count="2"/>
+    <block id="1413" name="window03Wood" count="23"/>
+    <block id="220" name="woodBlock" count="139"/>
+    <block id="770" name="woodLogPillar100" count="44"/>
+    <block id="164" name="woodPlate" count="5"/>
+    <block id="988" name="woodPole" count="12"/>
+    <block id="222" name="woodRamp" count="111"/>
+    <block id="237" name="woodStairs25" count="8"/>
+    <block id="174" name="woodSupport" count="30"/>
+    <block id="152" name="woodWedge" count="27"/>
+  </blocks>
+</prefab>

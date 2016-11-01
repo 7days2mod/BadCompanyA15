@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="waste_rubble_bldg_08">
+  <size x="34" y="10" z="33"/>
+  <blocks>
+    <block id="0" name="air" count="7801"/>
+    <block id="24" name="burntForestGround" count="8"/>
+    <block id="374" name="cinderBlocks01" count="2"/>
+    <block id="416" name="cinderBlocks02" count="3"/>
+    <block id="520" name="cntDesk02" count="1"/>
+    <block id="366" name="cntDeskSafe" count="1"/>
+    <block id="1481" name="cntDumpster" count="1"/>
+    <block id="343" name="cntTrashPile04" count="1"/>
+    <block id="26" name="destroyedStone" count="3381"/>
+    <block id="417" name="scrapMetalPile" count="7"/>
+    <block id="577" name="treeBurntPine01" count="1"/>
+    <block id="578" name="treeBurntPine02" count="1"/>
+    <block id="579" name="treeBurntPine03" count="3"/>
+    <block id="871" name="treeDeadPineLeaf" count="6"/>
+    <block id="569" name="treeDeadShrub" count="3"/>
+  </blocks>
+</prefab>

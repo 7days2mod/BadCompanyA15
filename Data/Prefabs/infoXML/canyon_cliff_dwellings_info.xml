@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="canyon_cliff_dwellings">
+  <size x="48" y="34" z="77"/>
+  <blocks>
+    <block id="0" name="air" count="41056"/>
+    <block id="957" name="brickDecayedTanBlock" count="2832"/>
+    <block id="1043" name="brickDecayedTanRamp" count="20"/>
+    <block id="309" name="campfire" count="1"/>
+    <block id="1374" name="cntApacheArtifactChest" count="1"/>
+    <block id="1468" name="cntCoffin" count="3"/>
+    <block id="361" name="cntCorpseLoot01" count="2"/>
+    <block id="1373" name="cntMountainManStorageChest" count="1"/>
+    <block id="1245" name="cntSupplyCrateShotgunMessiah" count="1"/>
+    <block id="342" name="cntTrashPile03" count="1"/>
+    <block id="310" name="cookingPot" count="4"/>
+    <block id="14" name="desertGround" count="7785"/>
+    <block id="468" name="driftwood" count="1"/>
+    <block id="1403" name="emberPile1" count="1"/>
+    <block id="1404" name="emberPile2" count="1"/>
+    <block id="1353" name="furRugBlock" count="30"/>
+    <block id="358" name="graveStone07" count="1"/>
+    <block id="788" name="ladderWood" count="36"/>
+    <block id="263" name="lootWasteland" count="2"/>
+    <block id="643" name="metalReinforcedDoorWooden" count="1"/>
+    <block id="312" name="oldChair" count="4"/>
+    <block id="854" name="plantedAloe3Harvest" count="4"/>
+    <block id="853" name="plantedYucca3Harvest" count="3"/>
+    <block id="921" name="powerPoleWoodPillar50" count="10"/>
+    <block id="297" name="rock01" count="1"/>
+    <block id="13" name="sandStone" count="72264"/>
+    <block id="631" name="secureDoorWooden" count="7"/>
+    <block id="513" name="signNationalPark" count="1"/>
+    <block id="602" name="tanBrickDecayedBroke1" count="138"/>
+    <block id="603" name="tanBrickDecayedBroke2" count="36"/>
+    <block id="604" name="tanBrickDecayedBroke3" count="4"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="148"/>
+    <block id="578" name="treeBurntPine02" count="1"/>
+    <block id="670" name="treeCactus03" count="1"/>
+    <block id="871" name="treeDeadPineLeaf" count="11"/>
+    <block id="591" name="treeDesertShrub" count="31"/>
+    <block id="351" name="wallTorch" count="7"/>
+    <block id="1271" name="woodCatwalk" count="361"/>
+    <block id="1272" name="woodCatwalkRailing" count="8"/>
+    <block id="1274" name="woodCatwalkRailingCNR" count="5"/>
+    <block id="894" name="woodFenceFarmSheet" count="54"/>
+    <block id="1251" name="woodHatch1_v1" count="3"/>
+    <block id="189" name="woodPillar100" count="431"/>
+    <block id="988" name="woodPole" count="129"/>
+    <block id="1575" name="woodPoleSupportCtr" count="4"/>
+    <block id="1273" name="woodRailing" count="80"/>
+    <block id="1275" name="woodStairsBoardRailing" count="15"/>
+    <block id="174" name="woodSupport" count="112"/>
+    <block id="1416" name="woodTable" count="10"/>
+    <block id="1563" name="workbench" count="1"/>
+  </blocks>
+</prefab>

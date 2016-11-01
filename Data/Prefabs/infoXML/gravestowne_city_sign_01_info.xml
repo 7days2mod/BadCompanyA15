@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="gravestowne_city_sign_01">
+  <size x="3" y="14" z="17"/>
+  <blocks>
+    <block id="0" name="air" count="592"/>
+    <block id="377" name="concretePillar100" count="4"/>
+    <block id="1548" name="metalPipeCorner" count="2"/>
+    <block id="1553" name="metalPipeFlange" count="2"/>
+    <block id="1549" name="metalPipeJoint" count="4"/>
+    <block id="1800" name="metalSignLetter_a" count="2"/>
+    <block id="1804" name="metalSignLetter_e" count="2"/>
+    <block id="1806" name="metalSignLetter_g" count="1"/>
+    <block id="1807" name="metalSignLetter_h" count="1"/>
+    <block id="1810" name="metalSignLetter_k" count="1"/>
+    <block id="1813" name="metalSignLetter_n" count="2"/>
+    <block id="1814" name="metalSignLetter_o" count="2"/>
+    <block id="1817" name="metalSignLetter_r" count="1"/>
+    <block id="1818" name="metalSignLetter_s" count="1"/>
+    <block id="1819" name="metalSignLetter_t" count="2"/>
+    <block id="1820" name="metalSignLetter_u" count="1"/>
+    <block id="1821" name="metalSignLetter_v" count="1"/>
+    <block id="1822" name="metalSignLetter_w" count="1"/>
+    <block id="1824" name="metalSignLetter_y" count="1"/>
+    <block id="922" name="rustyIronPillar50" count="46"/>
+    <block id="928" name="whiteMetalBlock" count="45"/>
+  </blocks>
+</prefab>

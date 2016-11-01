@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="oldwest_church">
+  <size x="12" y="18" z="16"/>
+  <blocks>
+    <block id="0" name="air" count="2622"/>
+    <block id="360" name="boardedWindowsSheet4" count="2"/>
+    <block id="1000" name="cabinOldWoodRamp" count="60"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="737" name="cntBookcase" count="1"/>
+    <block id="1468" name="cntCoffin" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="1388" name="cobweb" count="1"/>
+    <block id="968" name="dotsAsphaltShinglesRamp" count="167"/>
+    <block id="1086" name="dotsWoodBlock" count="3"/>
+    <block id="948" name="flagstoneBlock" count="40"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="1005" name="houseWoodWhiteRamp" count="17"/>
+    <block id="883" name="lootGarage" count="1"/>
+    <block id="328" name="pew_segment01" count="4"/>
+    <block id="329" name="pew_segment02" count="4"/>
+    <block id="330" name="pew_segment03" count="4"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="3"/>
+    <block id="1108" name="plywoodOsbCTRPlate" count="3"/>
+    <block id="316" name="porchLight01" count="5"/>
+    <block id="984" name="shinglesAsphaltCNRFull" count="12"/>
+    <block id="380" name="solidWoodFrameRamp" count="9"/>
+    <block id="831" name="tanStuccoBlock" count="50"/>
+    <block id="1066" name="tanStuccoOldWoodBlock" count="248"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="11"/>
+    <block id="871" name="treeDeadPineLeaf" count="9"/>
+    <block id="656" name="window02" count="6"/>
+    <block id="1196" name="window02Broken01CTRPlate" count="2"/>
+    <block id="1197" name="window02Broken02CTRPlate" count="2"/>
+    <block id="1199" name="window02Broken03CTRPlate" count="2"/>
+    <block id="1378" name="WindowPlug01" count="1"/>
+    <block id="993" name="woodAsphaltShinglesRampDuplicate" count="4"/>
+    <block id="1193" name="woodBarricadeCTRPlate" count="1"/>
+    <block id="220" name="woodBlock" count="116"/>
+    <block id="989" name="woodPainted1Pole" count="8"/>
+    <block id="990" name="woodPainted3Pole" count="10"/>
+    <block id="164" name="woodPlate" count="4"/>
+    <block id="988" name="woodPole" count="8"/>
+    <block id="222" name="woodRamp" count="2"/>
+    <block id="237" name="woodStairs25" count="8"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_sewer_01">
+  <size x="7" y="6" z="64"/>
+  <blocks>
+    <block id="0" name="air" count="1048"/>
+    <block id="319" name="ceilingLight01" count="2"/>
+    <block id="374" name="cinderBlocks01" count="2"/>
+    <block id="538" name="cinderBlocks03" count="2"/>
+    <block id="211" name="concreteBlock" count="549"/>
+    <block id="247" name="concreteRamp" count="301"/>
+    <block id="26" name="destroyedStone" count="564"/>
+    <block id="883" name="lootGarage" count="3"/>
+    <block id="1548" name="metalPipeCorner" count="12"/>
+    <block id="1549" name="metalPipeJoint" count="12"/>
+    <block id="1546" name="metalPipeStraight" count="42"/>
+    <block id="1552" name="metalPipeValve" count="12"/>
+    <block id="517" name="rebarDestroyed" count="4"/>
+    <block id="387" name="redMetalBlockDuplicate" count="110"/>
+    <block id="388" name="redMetalRamp" count="20"/>
+    <block id="384" name="scrapIronSheet" count="2"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="2"/>
+    <block id="768" name="treeTallGrassDiagonal" count="1"/>
+  </blocks>
+</prefab>

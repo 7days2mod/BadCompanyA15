@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="oldwest_sm_shop_01">
+  <size x="6" y="8" z="12"/>
+  <blocks>
+    <block id="0" name="air" count="304"/>
+    <block id="1141" name="barnMetalRoofRamp" count="38"/>
+    <block id="859" name="barnWoodBlock" count="69"/>
+    <block id="1075" name="cntCabinetOldTop" count="1"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="343" name="cntTrashPile04" count="1"/>
+    <block id="1388" name="cobweb" count="1"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="558" name="ironBars" count="1"/>
+    <block id="466" name="mattressFlat" count="1"/>
+    <block id="373" name="oilBarrel" count="1"/>
+    <block id="312" name="oldChair" count="1"/>
+    <block id="316" name="porchLight01" count="2"/>
+    <block id="631" name="secureDoorWooden" count="1"/>
+    <block id="380" name="solidWoodFrameRamp" count="4"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="4"/>
+    <block id="220" name="woodBlock" count="102"/>
+    <block id="164" name="woodPlate" count="18"/>
+    <block id="988" name="woodPole" count="21"/>
+    <block id="237" name="woodStairs25" count="2"/>
+  </blocks>
+</prefab>

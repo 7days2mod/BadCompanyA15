@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="cave_02">
+  <size x="33" y="14" z="54"/>
+  <blocks>
+    <block id="0" name="air" count="7427"/>
+    <block id="1562" name="bedroll" count="1"/>
+    <block id="360" name="boardedWindowsSheet4" count="1"/>
+    <block id="309" name="campfire" count="1"/>
+    <block id="1301" name="candleWall" count="2"/>
+    <block id="538" name="cinderBlocks03" count="1"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="628" name="cntGunSafe" count="1"/>
+    <block id="343" name="cntTrashPile04" count="1"/>
+    <block id="348" name="cntTrashPile09" count="1"/>
+    <block id="1388" name="cobweb" count="3"/>
+    <block id="1574" name="corrugatedMetalWall04Sheet2" count="3"/>
+    <block id="1602" name="greenMetalWall03Sheet2" count="1"/>
+    <block id="1566" name="greenRustyMetalWall04Sheet2" count="1"/>
+    <block id="1389" name="hangingMoss" count="7"/>
+    <block id="1382" name="mushroom01" count="4"/>
+    <block id="1383" name="mushroom02" count="4"/>
+    <block id="312" name="oldChair" count="1"/>
+    <block id="297" name="rock01" count="2"/>
+    <block id="298" name="rock02" count="1"/>
+    <block id="630" name="rockResource" count="4"/>
+    <block id="1418" name="rScrapIronTable" count="1"/>
+    <block id="1588" name="rustyIronWall01Sheet2" count="1"/>
+    <block id="1589" name="rustyIronWall02Sheet2" count="1"/>
+    <block id="1384" name="stalactite01" count="2"/>
+    <block id="1385" name="stalactite02" count="3"/>
+    <block id="1386" name="stalactite03" count="2"/>
+    <block id="1387" name="stalactite04" count="3"/>
+    <block id="1" name="stone" count="369"/>
+    <block id="28" name="terrainFiller" count="16990"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="41"/>
+    <block id="579" name="treeBurntPine03" count="1"/>
+    <block id="871" name="treeDeadPineLeaf" count="14"/>
+    <block id="569" name="treeDeadShrub" count="7"/>
+    <block id="582" name="treeDeadTree02" count="7"/>
+    <block id="351" name="wallTorch" count="1"/>
+    <block id="220" name="woodBlock" count="12"/>
+    <block id="770" name="woodLogPillar100" count="4"/>
+    <block id="988" name="woodPole" count="16"/>
+    <block id="1578" name="woodPoleSupport" count="2"/>
+    <block id="1586" name="woodPoleSupport2" count="2"/>
+    <block id="1563" name="workbench" count="1"/>
+  </blocks>
+</prefab>

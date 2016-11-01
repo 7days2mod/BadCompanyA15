@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_bldg_governer_08">
+  <size x="28" y="15" z="46"/>
+  <blocks>
+    <block id="0" name="air" count="14057"/>
+    <block id="978" name="asphaltBlock" count="308"/>
+    <block id="983" name="asphaltShinglesCNRFull" count="28"/>
+    <block id="360" name="boardedWindowsSheet4" count="8"/>
+    <block id="518" name="chair01" count="4"/>
+    <block id="374" name="cinderBlocks01" count="3"/>
+    <block id="416" name="cinderBlocks02" count="2"/>
+    <block id="538" name="cinderBlocks03" count="13"/>
+    <block id="737" name="cntBookcase" count="2"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="520" name="cntDesk02" count="4"/>
+    <block id="1481" name="cntDumpster" count="1"/>
+    <block id="623" name="cntFileCabinet" count="3"/>
+    <block id="343" name="cntTrashPile04" count="5"/>
+    <block id="347" name="cntTrashPile08" count="2"/>
+    <block id="367" name="cntWallSafe" count="2"/>
+    <block id="211" name="concreteBlock" count="1038"/>
+    <block id="377" name="concretePillar100" count="100"/>
+    <block id="1072" name="concreteStairs25" count="30"/>
+    <block id="981" name="concreteTileBrownBlock" count="390"/>
+    <block id="958" name="concreteTrim2Block" count="1050"/>
+    <block id="608" name="concreteTrim2Broke1" count="7"/>
+    <block id="609" name="concreteTrim2Broke2" count="6"/>
+    <block id="611" name="concreteTrim2Broke4" count="1"/>
+    <block id="959" name="concreteTrim3Block" count="69"/>
+    <block id="960" name="concreteTrimBlock" count="248"/>
+    <block id="394" name="concreteTrimCNRRamp" count="3"/>
+    <block id="393" name="concreteTrimRamp" count="97"/>
+    <block id="926" name="corrugatedMetalSheetDuplicate" count="7"/>
+    <block id="26" name="destroyedStone" count="219"/>
+    <block id="1052" name="dotsAsphaltShinglesCNRInside" count="22"/>
+    <block id="1003" name="dotsAsphaltShinglesRampDuplicate" count="318"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1483" name="garbage_decor2" count="2"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="558" name="ironBars" count="4"/>
+    <block id="883" name="lootGarage" count="1"/>
+    <block id="263" name="lootWasteland" count="7"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="24"/>
+    <block id="1108" name="plywoodOsbCTRPlate" count="18"/>
+    <block id="723" name="railingBlackSheet" count="94"/>
+    <block id="517" name="rebarDestroyed" count="3"/>
+    <block id="952" name="redWoodBlock" count="8"/>
+    <block id="630" name="rockResource" count="3"/>
+    <block id="640" name="rockResource02" count="2"/>
+    <block id="787" name="rustyIronPole" count="4"/>
+    <block id="956" name="tileIndustrialConcreteBlock" count="955"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="33"/>
+    <block id="768" name="treeTallGrassDiagonal" count="11"/>
+    <block id="1200" name="window03Broke1" count="51"/>
+    <block id="1201" name="window03Broke2" count="23"/>
+    <block id="1202" name="window03Broke3" count="20"/>
+    <block id="1193" name="woodBarricadeCTRPlate" count="7"/>
+  </blocks>
+</prefab>

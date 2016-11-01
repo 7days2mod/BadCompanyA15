@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="oldwest_md_shop_02">
+  <size x="8" y="9" z="16"/>
+  <blocks>
+    <block id="0" name="air" count="566"/>
+    <block id="360" name="boardedWindowsSheet4" count="2"/>
+    <block id="1075" name="cntCabinetOldTop" count="2"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="1388" name="cobweb" count="1"/>
+    <block id="1007" name="corrugatedMetalBlockDuplicate" count="62"/>
+    <block id="889" name="corrugatedMetalRamp" count="104"/>
+    <block id="396" name="corrugatedMetalSheet" count="13"/>
+    <block id="1009" name="curtain_bottom1Sheet3" count="2"/>
+    <block id="799" name="curtain_top1Sheet3" count="2"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="558" name="ironBars" count="2"/>
+    <block id="883" name="lootGarage" count="1"/>
+    <block id="643" name="metalReinforcedDoorWooden" count="1"/>
+    <block id="373" name="oilBarrel" count="2"/>
+    <block id="312" name="oldChair" count="3"/>
+    <block id="316" name="porchLight01" count="2"/>
+    <block id="631" name="secureDoorWooden" count="2"/>
+    <block id="1019" name="sidingWhiteBurntBlock" count="123"/>
+    <block id="380" name="solidWoodFrameRamp" count="5"/>
+    <block id="522" name="storeShelving01" count="6"/>
+    <block id="524" name="storeShelving01Top" count="6"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="3"/>
+    <block id="871" name="treeDeadPineLeaf" count="1"/>
+    <block id="613" name="whiteSidingWoodPanelBurnt2" count="3"/>
+    <block id="614" name="whiteSidingWoodPanelBurnt3" count="9"/>
+    <block id="615" name="whiteSidingWoodPanelBurnt4" count="2"/>
+    <block id="616" name="whiteSidingWoodPanelBurnt5" count="1"/>
+    <block id="617" name="whiteSidingWoodPanelBurnt6" count="1"/>
+    <block id="1413" name="window03Wood" count="1"/>
+    <block id="1409" name="window03WoodBroke1" count="2"/>
+    <block id="1410" name="window03WoodBroke2" count="2"/>
+    <block id="1414" name="window03WoodFrame" count="3"/>
+    <block id="220" name="woodBlock" count="187"/>
+    <block id="988" name="woodPole" count="22"/>
+    <block id="237" name="woodStairs25" count="4"/>
+  </blocks>
+</prefab>

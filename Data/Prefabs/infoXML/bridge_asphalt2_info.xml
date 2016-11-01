@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="bridge_asphalt2">
+  <size x="39" y="11" z="9"/>
+  <blocks>
+    <block id="0" name="air" count="3056"/>
+    <block id="1131" name="asphaltWedge" count="14"/>
+    <block id="1138" name="asphaltWedgeTip" count="14"/>
+    <block id="817" name="bridgeAsphaltBlock" count="245"/>
+    <block id="818" name="bridgeMetalRivetBlock" count="268"/>
+    <block id="798" name="metalRivetRamp" count="190"/>
+    <block id="1610" name="roadRailing" count="48"/>
+    <block id="1611" name="roadRailingPole" count="26"/>
+  </blocks>
+</prefab>

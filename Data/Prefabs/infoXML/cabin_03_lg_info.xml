@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="cabin_03_lg">
+  <size x="24" y="14" z="20"/>
+  <blocks>
+    <block id="0" name="air" count="4974"/>
+    <block id="978" name="asphaltBlock" count="1"/>
+    <block id="463" name="bed01" count="3"/>
+    <block id="360" name="boardedWindowsSheet4" count="2"/>
+    <block id="957" name="brickDecayedTanBlock" count="66"/>
+    <block id="820" name="bridgeWoodBlock" count="62"/>
+    <block id="1000" name="cabinOldWoodRamp" count="233"/>
+    <block id="326" name="ceilingLight07" count="3"/>
+    <block id="737" name="cntBookcase" count="1"/>
+    <block id="1074" name="cntCabinetOldBottom" count="5"/>
+    <block id="944" name="cntCabinetOldSink" count="2"/>
+    <block id="1075" name="cntCabinetOldTop" count="5"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="349" name="cntFridge" count="1"/>
+    <block id="628" name="cntGunSafe" count="1"/>
+    <block id="286" name="cntMedicineCabinet" count="1"/>
+    <block id="337" name="cntNightstand" count="1"/>
+    <block id="311" name="cntOven" count="1"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="1404" name="emberPile2" count="1"/>
+    <block id="621" name="faucetBrass02" count="2"/>
+    <block id="1353" name="furRugBlock" count="32"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="794" name="logCabinBlock" count="402"/>
+    <block id="874" name="lootHouse" count="3"/>
+    <block id="643" name="metalReinforcedDoorWooden" count="1"/>
+    <block id="312" name="oldChair" count="7"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="2"/>
+    <block id="1377" name="plainWoodWindowPlug" count="1"/>
+    <block id="1108" name="plywoodOsbCTRPlate" count="2"/>
+    <block id="318" name="porchLight04Brass" count="3"/>
+    <block id="1144" name="railingOldWoodSheet" count="24"/>
+    <block id="1418" name="rScrapIronTable" count="4"/>
+    <block id="315" name="sectionalArm" count="2"/>
+    <block id="313" name="sectionalMiddle" count="3"/>
+    <block id="642" name="secureReinforcedDoorWooden" count="1"/>
+    <block id="380" name="solidWoodFrameRamp" count="6"/>
+    <block id="602" name="tanBrickDecayedBroke1" count="21"/>
+    <block id="603" name="tanBrickDecayedBroke2" count="2"/>
+    <block id="604" name="tanBrickDecayedBroke3" count="1"/>
+    <block id="885" name="treePlant02" count="1"/>
+    <block id="617" name="whiteSidingWoodPanelBurnt6" count="5"/>
+    <block id="1413" name="window03Wood" count="1"/>
+    <block id="1409" name="window03WoodBroke1" count="11"/>
+    <block id="1410" name="window03WoodBroke2" count="2"/>
+    <block id="1411" name="window03WoodBroke3" count="4"/>
+    <block id="1414" name="window03WoodFrame" count="13"/>
+    <block id="1378" name="WindowPlug01" count="5"/>
+    <block id="1379" name="WindowPlug02" count="1"/>
+    <block id="1380" name="WindowPlug03" count="2"/>
+    <block id="220" name="woodBlock" count="313"/>
+    <block id="988" name="woodPole" count="38"/>
+    <block id="1054" name="woodShinglesCNRInside" count="8"/>
+    <block id="796" name="woodShinglesRamp" count="416"/>
+    <block id="237" name="woodStairs25" count="12"/>
+  </blocks>
+</prefab>

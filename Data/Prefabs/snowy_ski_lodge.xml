@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True"/>
+  <property name="AllowTopSoilDecorations" value="False"/>
+  <property name="TraderArea" value="False"/>
+  <property name="YOffset" value="0"/>
+  <property name="RotationToFaceNorth" value="2"/>
+  <property name="AllowedBiomes" value="snow"/>
+  <property name="AllowedTownships" value="town,rural,wilderness"/>
+  <property name="StaticSpawner.Class" value="SpawnSnowMedium"/>
+  <property name="StaticSpawner.Size" value="32,2,32"/>
+  <property name="StaticSpawner.Trigger" value="160"/>
+</prefab>

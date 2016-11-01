@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="ranger_station1">
+  <size x="19" y="14" z="19"/>
+  <blocks>
+    <block id="0" name="air" count="3677"/>
+    <block id="365" name="airConditioner" count="1"/>
+    <block id="1029" name="awningTanPyramid" count="2"/>
+    <block id="360" name="boardedWindowsSheet4" count="2"/>
+    <block id="322" name="ceilingLight04" count="4"/>
+    <block id="326" name="ceilingLight07" count="1"/>
+    <block id="336" name="cntBin" count="1"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="838" name="cntCabinet" count="2"/>
+    <block id="1077" name="cntCabinetTop" count="1"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="519" name="cntDesk01" count="1"/>
+    <block id="623" name="cntFileCabinet" count="2"/>
+    <block id="841" name="cntFridgeBottom" count="1"/>
+    <block id="840" name="cntFridgeTop" count="1"/>
+    <block id="629" name="cntGraniteSink" count="1"/>
+    <block id="628" name="cntGunSafe" count="1"/>
+    <block id="626" name="cntLockers" count="2"/>
+    <block id="286" name="cntMedicineCabinet" count="1"/>
+    <block id="434" name="cntToilet01" count="1"/>
+    <block id="343" name="cntTrashPile04" count="1"/>
+    <block id="347" name="cntTrashPile08" count="1"/>
+    <block id="1076" name="cntWallOven" count="1"/>
+    <block id="926" name="corrugatedMetalSheetDuplicate" count="3"/>
+    <block id="968" name="dotsAsphaltShinglesRamp" count="122"/>
+    <block id="619" name="faucet02" count="1"/>
+    <block id="948" name="flagstoneBlock" count="145"/>
+    <block id="1482" name="garbage_decor1" count="2"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="788" name="ladderWood" count="3"/>
+    <block id="643" name="metalReinforcedDoorWooden" count="1"/>
+    <block id="1210" name="miniblindBottomSheet" count="3"/>
+    <block id="1209" name="miniblindTopSheet" count="3"/>
+    <block id="521" name="officeChair01" count="1"/>
+    <block id="312" name="oldChair" count="12"/>
+    <block id="1377" name="plainWoodWindowPlug" count="3"/>
+    <block id="1144" name="railingOldWoodSheet" count="68"/>
+    <block id="1006" name="rustyIronBlock" count="2"/>
+    <block id="787" name="rustyIronPole" count="2"/>
+    <block id="549" name="sectionalArm2" count="2"/>
+    <block id="550" name="sectionalCorner2" count="2"/>
+    <block id="551" name="sectionalMiddle2" count="1"/>
+    <block id="631" name="secureDoorWooden" count="1"/>
+    <block id="642" name="secureReinforcedDoorWooden" count="2"/>
+    <block id="984" name="shinglesAsphaltCNRFull" count="16"/>
+    <block id="1106" name="shutters1Plate" count="12"/>
+    <block id="380" name="solidWoodFrameRamp" count="1"/>
+    <block id="325" name="wallLight01" count="6"/>
+    <block id="617" name="whiteSidingWoodPanelBurnt6" count="3"/>
+    <block id="1413" name="window03Wood" count="1"/>
+    <block id="1409" name="window03WoodBroke1" count="13"/>
+    <block id="1411" name="window03WoodBroke3" count="1"/>
+    <block id="1414" name="window03WoodFrame" count="29"/>
+    <block id="1378" name="WindowPlug01" count="3"/>
+    <block id="1379" name="WindowPlug02" count="3"/>
+    <block id="220" name="woodBlock" count="784"/>
+    <block id="988" name="woodPole" count="29"/>
+    <block id="222" name="woodRamp" count="4"/>
+    <block id="237" name="woodStairs25" count="29"/>
+    <block id="833" name="woodStairs50" count="32"/>
+    <block id="1416" name="woodTable" count="1"/>
+  </blocks>
+</prefab>

@@ -1547,6 +1547,9 @@
   <lootgroup name="banditsRocketLauncher" count="all">
     <item group="rocketLauncher+ammo"/>
   </lootgroup>
+  <lootgroup name="banditsSledgeHammer" count="all">
+    <item name="sledgehammer"/>
+  </lootgroup>
   
   <lootgroup name="banditsLeader+AK47" count="all">
     <item group="banditsGeneral" count="1,2"/>
@@ -1601,6 +1604,11 @@
     <item group="banditsRocketLauncher" count="1"/>
     <item group="banditsRare" count="0,2"/>
   </lootgroup>
+  <lootgroup name="banditsThug+SledgeHammer" count="all">
+    <item group="banditsGeneral" count="2,4"/>
+    <item group="banditsSledgeHammer" count="1"/>
+    <item group="banditsRare" count="0,2"/>
+  </lootgroup>
 
   <lootcontainer id="200" count="1" size="4,4" destroy_on_close="false" sound_open="UseActions/open_corpse" sound_close="UseActions/close_corpse" loot_quality_template="baseTemplate">
     <item group="banditsLeader+AK47" prob="1"/>
@@ -1631,5 +1639,8 @@
   </lootcontainer>
   <lootcontainer id="209" count="1" size="4,4" destroy_on_close="false" sound_open="UseActions/open_corpse" sound_close="UseActions/close_corpse" loot_quality_template="baseTemplate">
     <item group="banditsThug+RocketLauncher" prob="1"/>
+  </lootcontainer>
+  <lootcontainer id="210" count="1" size="4,4" destroy_on_close="false" sound_open="UseActions/open_corpse" sound_close="UseActions/close_corpse" loot_quality_template="baseTemplate">
+    <item group="banditsThug+SledgeHammer" prob="1"/>
   </lootcontainer>
 </lootcontainers>

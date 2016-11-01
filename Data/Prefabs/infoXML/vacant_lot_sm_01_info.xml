@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="vacant_lot_sm_01">
+  <size x="16" y="4" z="30"/>
+  <blocks>
+    <block id="0" name="air" count="1294"/>
+    <block id="24" name="burntForestGround" count="208"/>
+    <block id="374" name="cinderBlocks01" count="1"/>
+    <block id="416" name="cinderBlocks02" count="1"/>
+    <block id="538" name="cinderBlocks03" count="1"/>
+    <block id="1459" name="cntCar03YellowDamage1" count="1"/>
+    <block id="427" name="cntSportsBag01" count="1"/>
+    <block id="340" name="cntTrashPile01" count="1"/>
+    <block id="346" name="cntTrashPile07" count="1"/>
+    <block id="347" name="cntTrashPile08" count="1"/>
+    <block id="348" name="cntTrashPile09" count="2"/>
+    <block id="26" name="destroyedStone" count="28"/>
+    <block id="1482" name="garbage_decor1" count="2"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="1484" name="garbage_decor3" count="2"/>
+    <block id="297" name="rock01" count="1"/>
+    <block id="1092" name="scrapIronBlock" count="28"/>
+    <block id="384" name="scrapIronSheet" count="44"/>
+    <block id="417" name="scrapMetalPile" count="3"/>
+    <block id="28" name="terrainFiller" count="272"/>
+    <block id="898" name="tire" count="4"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="4"/>
+    <block id="871" name="treeDeadPineLeaf" count="7"/>
+    <block id="569" name="treeDeadShrub" count="2"/>
+    <block id="864" name="treeGreenBrownGrassDiagonal" count="10"/>
+  </blocks>
+</prefab>

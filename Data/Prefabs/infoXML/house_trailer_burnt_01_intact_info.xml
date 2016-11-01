@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="house_trailer_burnt_01_intact">
+  <size x="28" y="9" z="17"/>
+  <blocks>
+    <block id="0" name="air" count="2498"/>
+    <block id="365" name="airConditioner" count="1"/>
+    <block id="463" name="bed01" count="1"/>
+    <block id="24" name="burntForestGround" count="476"/>
+    <block id="1079" name="Carpet2WoodPainted2Block" count="122"/>
+    <block id="319" name="ceilingLight01" count="2"/>
+    <block id="324" name="ceilingLight05Brass" count="1"/>
+    <block id="518" name="chair01" count="1"/>
+    <block id="416" name="cinderBlocks02" count="3"/>
+    <block id="1074" name="cntCabinetOldBottom" count="8"/>
+    <block id="1075" name="cntCabinetOldTop" count="9"/>
+    <block id="349" name="cntFridge" count="1"/>
+    <block id="337" name="cntNightstand" count="1"/>
+    <block id="311" name="cntOven" count="1"/>
+    <block id="434" name="cntToilet01" count="1"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="779" name="concreteBricksBlock" count="66"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="874" name="lootHouse" count="2"/>
+    <block id="312" name="oldChair" count="5"/>
+    <block id="1083" name="OldWoodWoodPainted2Block" count="192"/>
+    <block id="814" name="panelingBurntBlock" count="48"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="2"/>
+    <block id="1108" name="plywoodOsbCTRPlate" count="1"/>
+    <block id="1144" name="railingOldWoodSheet" count="10"/>
+    <block id="1418" name="rScrapIronTable" count="4"/>
+    <block id="315" name="sectionalArm" count="4"/>
+    <block id="313" name="sectionalMiddle" count="8"/>
+    <block id="1037" name="shinglesAsphaltBurntWedge" count="166"/>
+    <block id="1050" name="shinglesAsphaltBurntWedgeDuplicate" count="166"/>
+    <block id="1106" name="shutters1Plate" count="30"/>
+    <block id="1019" name="sidingWhiteBurntBlock" count="287"/>
+    <block id="1089" name="tileFloor2WoodPainted2Block" count="72"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="12"/>
+    <block id="871" name="treeDeadPineLeaf" count="12"/>
+    <block id="656" name="window02" count="15"/>
+    <block id="1193" name="woodBarricadeCTRPlate" count="1"/>
+    <block id="220" name="woodBlock" count="16"/>
+    <block id="830" name="woodHalf" count="2"/>
+    <block id="990" name="woodPainted3Pole" count="20"/>
+    <block id="988" name="woodPole" count="12"/>
+    <block id="237" name="woodStairs25" count="2"/>
+  </blocks>
+</prefab>

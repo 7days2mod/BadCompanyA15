@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_bldg_ornate_01_intact">
+  <size x="20" y="13" z="22"/>
+  <blocks>
+    <block id="0" name="air" count="3584"/>
+    <block id="978" name="asphaltBlock" count="140"/>
+    <block id="983" name="asphaltShinglesCNRFull" count="12"/>
+    <block id="211" name="concreteBlock" count="481"/>
+    <block id="377" name="concretePillar100" count="32"/>
+    <block id="1072" name="concreteStairs25" count="10"/>
+    <block id="981" name="concreteTileBrownBlock" count="154"/>
+    <block id="958" name="concreteTrim2Block" count="503"/>
+    <block id="959" name="concreteTrim3Block" count="42"/>
+    <block id="960" name="concreteTrimBlock" count="64"/>
+    <block id="394" name="concreteTrimCNRRamp" count="4"/>
+    <block id="393" name="concreteTrimRamp" count="74"/>
+    <block id="1003" name="dotsAsphaltShinglesRampDuplicate" count="168"/>
+    <block id="723" name="railingBlackSheet" count="58"/>
+    <block id="787" name="rustyIronPole" count="8"/>
+    <block id="956" name="tileIndustrialConcreteBlock" count="254"/>
+    <block id="1200" name="window03Broke1" count="132"/>
+  </blocks>
+</prefab>

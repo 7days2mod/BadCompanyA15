@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="resource_nitrate_pile">
+  <size x="4" y="2" z="5"/>
+  <blocks>
+    <block id="0" name="air" count="33"/>
+    <block id="6" name="potassiumNitrate" count="7"/>
+  </blocks>
+</prefab>

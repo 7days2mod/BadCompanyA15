@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="oldwest_jail">
+  <size x="14" y="10" z="13"/>
+  <blocks>
+    <block id="0" name="air" count="1226"/>
+    <block id="463" name="bed01" count="2"/>
+    <block id="957" name="brickDecayedTanBlock" count="10"/>
+    <block id="1043" name="brickDecayedTanRamp" count="2"/>
+    <block id="542" name="cntBirdnest" count="2"/>
+    <block id="1074" name="cntCabinetOldBottom" count="1"/>
+    <block id="944" name="cntCabinetOldSink" count="1"/>
+    <block id="286" name="cntMedicineCabinet" count="1"/>
+    <block id="335" name="cntTrash_can01" count="1"/>
+    <block id="1388" name="cobweb" count="2"/>
+    <block id="468" name="driftwood" count="1"/>
+    <block id="1404" name="emberPile2" count="1"/>
+    <block id="621" name="faucetBrass02" count="1"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="558" name="ironBars" count="14"/>
+    <block id="373" name="oilBarrel" count="2"/>
+    <block id="312" name="oldChair" count="1"/>
+    <block id="910" name="oldStuccoWoodWedge" count="51"/>
+    <block id="912" name="oldStuccoWoodWedgeTip" count="52"/>
+    <block id="316" name="porchLight01" count="2"/>
+    <block id="1144" name="railingOldWoodSheet" count="8"/>
+    <block id="1418" name="rScrapIronTable" count="1"/>
+    <block id="631" name="secureDoorWooden" count="1"/>
+    <block id="642" name="secureReinforcedDoorWooden" count="1"/>
+    <block id="602" name="tanBrickDecayedBroke1" count="4"/>
+    <block id="603" name="tanBrickDecayedBroke2" count="1"/>
+    <block id="831" name="tanStuccoBlock" count="271"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="5"/>
+    <block id="871" name="treeDeadPineLeaf" count="5"/>
+    <block id="220" name="woodBlock" count="126"/>
+    <block id="988" name="woodPole" count="18"/>
+    <block id="237" name="woodStairs25" count="4"/>
+  </blocks>
+</prefab>

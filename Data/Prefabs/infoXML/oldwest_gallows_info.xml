@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="oldwest_gallows">
+  <size x="7" y="5" z="6"/>
+  <blocks>
+    <block id="0" name="air" count="136"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="1144" name="railingOldWoodSheet" count="14"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="5"/>
+    <block id="164" name="woodPlate" count="15"/>
+    <block id="988" name="woodPole" count="32"/>
+    <block id="222" name="woodRamp" count="2"/>
+    <block id="237" name="woodStairs25" count="4"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="tree_birch10m">
+  <size x="1" y="10" z="1"/>
+  <blocks>
+    <block id="0" name="air" count="9"/>
+    <block id="566" name="treeBirch10m" count="1"/>
+  </blocks>
+</prefab>

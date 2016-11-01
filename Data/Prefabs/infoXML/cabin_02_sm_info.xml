@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="cabin_02_sm">
+  <size x="11" y="12" z="14"/>
+  <blocks>
+    <block id="0" name="air" count="1250"/>
+    <block id="978" name="asphaltBlock" count="1"/>
+    <block id="463" name="bed01" count="1"/>
+    <block id="1001" name="cabinFlagstoneRamp" count="2"/>
+    <block id="1000" name="cabinOldWoodRamp" count="48"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="1074" name="cntCabinetOldBottom" count="2"/>
+    <block id="944" name="cntCabinetOldSink" count="1"/>
+    <block id="1075" name="cntCabinetOldTop" count="3"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="349" name="cntFridge" count="1"/>
+    <block id="286" name="cntMedicineCabinet" count="1"/>
+    <block id="311" name="cntOven" count="1"/>
+    <block id="310" name="cookingPot" count="1"/>
+    <block id="1404" name="emberPile2" count="1"/>
+    <block id="619" name="faucet02" count="1"/>
+    <block id="948" name="flagstoneBlock" count="54"/>
+    <block id="1353" name="furRugBlock" count="9"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="794" name="logCabinBlock" count="188"/>
+    <block id="874" name="lootHouse" count="1"/>
+    <block id="312" name="oldChair" count="1"/>
+    <block id="1377" name="plainWoodWindowPlug" count="1"/>
+    <block id="317" name="porchLight04" count="3"/>
+    <block id="1144" name="railingOldWoodSheet" count="6"/>
+    <block id="1418" name="rScrapIronTable" count="1"/>
+    <block id="642" name="secureReinforcedDoorWooden" count="1"/>
+    <block id="380" name="solidWoodFrameRamp" count="3"/>
+    <block id="617" name="whiteSidingWoodPanelBurnt6" count="4"/>
+    <block id="1413" name="window03Wood" count="1"/>
+    <block id="1409" name="window03WoodBroke1" count="3"/>
+    <block id="1410" name="window03WoodBroke2" count="1"/>
+    <block id="1414" name="window03WoodFrame" count="2"/>
+    <block id="1378" name="WindowPlug01" count="2"/>
+    <block id="220" name="woodBlock" count="57"/>
+    <block id="988" name="woodPole" count="31"/>
+    <block id="795" name="woodShinglesBlock" count="9"/>
+    <block id="1062" name="woodShinglesGable" count="11"/>
+    <block id="796" name="woodShinglesRamp" count="139"/>
+    <block id="237" name="woodStairs25" count="3"/>
+  </blocks>
+</prefab>

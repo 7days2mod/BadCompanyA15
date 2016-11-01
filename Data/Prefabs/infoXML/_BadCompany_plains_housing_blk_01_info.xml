@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="_BadCompany_plains_housing_blk_01">
+  <size x="103" y="13" z="103"/>
+  <blocks>
+    <block id="0" name="air" count="126208"/>
+    <block id="374" name="cinderBlocks01" count="3"/>
+    <block id="416" name="cinderBlocks02" count="1"/>
+    <block id="538" name="cinderBlocks03" count="1"/>
+    <block id="377" name="concretePillar100" count="16"/>
+    <block id="16" name="gravel" count="695"/>
+    <block id="961" name="gravelHalf" count="14"/>
+    <block id="1136" name="gravelWedgeTip" count="14"/>
+    <block id="263" name="lootWasteland" count="2"/>
+    <block id="1583" name="plainsCNRCurb" count="4"/>
+    <block id="1580" name="plainsCurb" count="382"/>
+    <block id="4" name="plainsGround" count="8971"/>
+    <block id="922" name="rustyIronPillar50" count="72"/>
+    <block id="384" name="scrapIronSheet" count="3"/>
+    <block id="417" name="scrapMetalPile" count="4"/>
+    <block id="1579" name="sidewalkCurb" count="8"/>
+    <block id="401" name="sidewalkHalf" count="386"/>
+    <block id="489" name="signRoadSpeed25" count="8"/>
+    <block id="495" name="signRoadStop" count="4"/>
+    <block id="1" name="stone" count="127"/>
+    <block id="364" name="streetLight01" count="8"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="964"/>
+    <block id="671" name="treeCactus04" count="1"/>
+    <block id="673" name="treeCactus06" count="14"/>
+    <block id="871" name="treeDeadPineLeaf" count="1"/>
+    <block id="569" name="treeDeadShrub" count="1"/>
+    <block id="816" name="treePlainsTree" count="4"/>
+    <block id="863" name="treePlainsTree2" count="1"/>
+  </blocks>
+</prefab>

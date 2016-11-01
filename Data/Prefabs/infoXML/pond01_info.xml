@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="pond01">
+  <size x="14" y="3" z="15"/>
+  <blocks>
+    <block id="0" name="air" count="205"/>
+    <block id="3" name="dirt" count="45"/>
+    <block id="25" name="forestGround" count="100"/>
+    <block id="630" name="rockResource" count="2"/>
+    <block id="28" name="terrainFiller" count="190"/>
+    <block id="768" name="treeTallGrassDiagonal" count="16"/>
+    <block id="1472" name="waterSource8" count="72"/>
+  </blocks>
+</prefab>

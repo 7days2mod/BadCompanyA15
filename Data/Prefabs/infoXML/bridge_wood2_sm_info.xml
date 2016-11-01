@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="bridge_wood2_sm">
+  <size x="8" y="3" z="7"/>
+  <blocks>
+    <block id="0" name="air" count="86"/>
+    <block id="820" name="bridgeWoodBlock" count="40"/>
+    <block id="1144" name="railingOldWoodSheet" count="16"/>
+    <block id="988" name="woodPole" count="26"/>
+  </blocks>
+</prefab>

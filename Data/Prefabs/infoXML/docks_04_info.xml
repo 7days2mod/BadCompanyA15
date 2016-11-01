@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="docks_04">
+  <size x="17" y="24" z="28"/>
+  <blocks>
+    <block id="0" name="air" count="10163"/>
+    <block id="1595" name="blueMetalWall01Sheet2" count="6"/>
+    <block id="820" name="bridgeWoodBlock" count="194"/>
+    <block id="892" name="cntCardboardBox" count="1"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="1245" name="cntSupplyCrateShotgunMessiah" count="2"/>
+    <block id="340" name="cntTrashPile01" count="1"/>
+    <block id="342" name="cntTrashPile03" count="1"/>
+    <block id="1165" name="commercialDoor1_v2" count="1"/>
+    <block id="1169" name="commercialDoor2_v3" count="1"/>
+    <block id="860" name="corrugatedMetalBlock" count="49"/>
+    <block id="926" name="corrugatedMetalSheetDuplicate" count="43"/>
+    <block id="1571" name="corrugatedMetalWall01Sheet2" count="12"/>
+    <block id="1482" name="garbage_decor1" count="5"/>
+    <block id="1601" name="greenMetalWall02Sheet2" count="6"/>
+    <block id="1617" name="greenRustyMetalWall03Sheet2" count="8"/>
+    <block id="389" name="ladderMetal" count="6"/>
+    <block id="1606" name="orangeMetalWall02Sheet2" count="3"/>
+    <block id="1633" name="redMetalWall02Sheet2" count="7"/>
+    <block id="1418" name="rScrapIronTable" count="10"/>
+    <block id="1589" name="rustyIronWall02Sheet2" count="8"/>
+    <block id="380" name="solidWoodFrameRamp" count="2"/>
+    <block id="898" name="tire" count="2"/>
+    <block id="1636" name="whiteMetalWall01Sheet2" count="9"/>
+    <block id="894" name="woodFenceFarmSheet" count="76"/>
+    <block id="988" name="woodPole" count="694"/>
+    <block id="795" name="woodShinglesBlock" count="35"/>
+    <block id="281" name="woodShinglesCNRFull" count="16"/>
+    <block id="796" name="woodShinglesRamp" count="62"/>
+  </blocks>
+</prefab>

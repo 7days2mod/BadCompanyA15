@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="plains_mainstreet_median_01">
+  <size x="103" y="12" z="5"/>
+  <blocks>
+    <block id="0" name="air" count="5595"/>
+    <block id="377" name="concretePillar100" count="8"/>
+    <block id="1583" name="plainsCNRCurb" count="8"/>
+    <block id="1580" name="plainsCurb" count="192"/>
+    <block id="4" name="plainsGround" count="266"/>
+    <block id="922" name="rustyIronPillar50" count="36"/>
+    <block id="364" name="streetLight01" count="4"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="36"/>
+    <block id="673" name="treeCactus06" count="3"/>
+    <block id="582" name="treeDeadTree02" count="8"/>
+    <block id="816" name="treePlainsTree" count="16"/>
+    <block id="863" name="treePlainsTree2" count="8"/>
+  </blocks>
+</prefab>

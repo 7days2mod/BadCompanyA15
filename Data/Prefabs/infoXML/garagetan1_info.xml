@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="garagetan1">
+  <size x="9" y="9" z="12"/>
+  <blocks>
+    <block id="0" name="air" count="510"/>
+    <block id="1000" name="cabinOldWoodRamp" count="32"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="1556" name="conduit01" count="2"/>
+    <block id="1558" name="conduit01End" count="1"/>
+    <block id="1086" name="dotsWoodBlock" count="2"/>
+    <block id="1061" name="dotsWoodShinglesGable" count="12"/>
+    <block id="991" name="dotsWoodShinglesRamp" count="96"/>
+    <block id="1419" name="dotsWoodTable" count="3"/>
+    <block id="786" name="garageDoor1CTRPlate" count="15"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="16" name="gravel" count="75"/>
+    <block id="1180" name="houseFrontDoor1_v2" count="1"/>
+    <block id="1005" name="houseWoodWhiteRamp" count="12"/>
+    <block id="883" name="lootGarage" count="1"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="2"/>
+    <block id="1108" name="plywoodOsbCTRPlate" count="1"/>
+    <block id="1107" name="plywoodOsbPlate" count="6"/>
+    <block id="1025" name="sidingTanOldWoodBlock" count="113"/>
+    <block id="28" name="terrainFiller" count="33"/>
+    <block id="898" name="tire" count="1"/>
+    <block id="325" name="wallLight01" count="2"/>
+    <block id="1196" name="window02Broken01CTRPlate" count="1"/>
+    <block id="1197" name="window02Broken02CTRPlate" count="2"/>
+    <block id="1199" name="window02Broken03CTRPlate" count="1"/>
+    <block id="1193" name="woodBarricadeCTRPlate" count="1"/>
+    <block id="220" name="woodBlock" count="8"/>
+    <block id="989" name="woodPainted1Pole" count="12"/>
+    <block id="988" name="woodPole" count="25"/>
+  </blocks>
+</prefab>

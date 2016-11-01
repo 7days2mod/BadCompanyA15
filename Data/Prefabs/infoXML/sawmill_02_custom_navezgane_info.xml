@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="sawmill_02_custom_navezgane">
+  <size x="88" y="88" z="128"/>
+  <blocks>
+    <block id="0" name="air" count="607912"/>
+    <block id="10" name="clay" count="3669"/>
+    <block id="542" name="cntBirdnest" count="10"/>
+    <block id="342" name="cntTrashPile03" count="1"/>
+    <block id="27" name="coalOre" count="710"/>
+    <block id="3" name="dirt" count="60257"/>
+    <block id="25" name="forestGround" count="9090"/>
+    <block id="16" name="gravel" count="27050"/>
+    <block id="7" name="ironOre" count="7561"/>
+    <block id="11" name="leadOre" count="222"/>
+    <block id="714" name="plantedCotton3Harvest" count="86"/>
+    <block id="764" name="plantedGoldenrod3Harvest" count="12"/>
+    <block id="6" name="potassiumNitrate" count="217"/>
+    <block id="297" name="rock01" count="27"/>
+    <block id="298" name="rock02" count="23"/>
+    <block id="300" name="rock04" count="16"/>
+    <block id="630" name="rockResource" count="4"/>
+    <block id="640" name="rockResource02" count="5"/>
+    <block id="857" name="snowberry3Harvest" count="3"/>
+    <block id="1" name="stone" count="270119"/>
+    <block id="569" name="treeDeadShrub" count="72"/>
+    <block id="559" name="treeJuniper6m" count="20"/>
+    <block id="561" name="treeMountainPine13m" count="2"/>
+    <block id="562" name="treeMountainPine16m" count="2"/>
+    <block id="563" name="treeMountainPine19m" count="2"/>
+    <block id="564" name="treeMountainPine20m" count="4"/>
+    <block id="565" name="treeMountainPineDry" count="6"/>
+    <block id="768" name="treeTallGrassDiagonal" count="4130"/>
+  </blocks>
+</prefab>

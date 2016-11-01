@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="lot_blk_full2">
+  <size x="135" y="3" z="115"/>
+  <blocks>
+    <block id="0" name="air" count="25250"/>
+    <block id="327" name="cntMailbox" count="2"/>
+    <block id="369" name="cntMailBox01" count="4"/>
+    <block id="370" name="cntMailBox02" count="2"/>
+    <block id="371" name="cntMailBox03" count="2"/>
+    <block id="335" name="cntTrash_can01" count="7"/>
+    <block id="1577" name="forestCNRCurb" count="4"/>
+    <block id="1576" name="forestCurb" count="454"/>
+    <block id="2" name="grass" count="12834"/>
+    <block id="16" name="gravel" count="1525"/>
+    <block id="961" name="gravelHalf" count="30"/>
+    <block id="1136" name="gravelWedgeTip" count="30"/>
+    <block id="876" name="lootYard" count="16"/>
+    <block id="872" name="sidewalkBlock" count="168"/>
+    <block id="1579" name="sidewalkCurb" count="8"/>
+    <block id="401" name="sidewalkHalf" count="458"/>
+    <block id="1129" name="sidewalkWedge" count="14"/>
+    <block id="768" name="treeTallGrassDiagonal" count="5765"/>
+    <block id="988" name="woodPole" count="2"/>
+  </blocks>
+</prefab>

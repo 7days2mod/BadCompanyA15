@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="installation_red_mesa_sign">
+  <size x="3" y="12" z="12"/>
+  <blocks>
+    <block id="0" name="air" count="339"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="377" name="concretePillar100" count="4"/>
+    <block id="1553" name="metalPipeFlange" count="4"/>
+    <block id="1800" name="metalSignLetter_a" count="1"/>
+    <block id="1802" name="metalSignLetter_c" count="1"/>
+    <block id="1803" name="metalSignLetter_d" count="2"/>
+    <block id="1804" name="metalSignLetter_e" count="4"/>
+    <block id="1808" name="metalSignLetter_i" count="1"/>
+    <block id="1812" name="metalSignLetter_m" count="1"/>
+    <block id="1817" name="metalSignLetter_r" count="3"/>
+    <block id="1818" name="metalSignLetter_s" count="2"/>
+    <block id="1819" name="metalSignLetter_t" count="2"/>
+    <block id="1630" name="redMetalBlock" count="32"/>
+    <block id="1631" name="redMetalCNRRound" count="4"/>
+    <block id="922" name="rustyIronPillar50" count="4"/>
+    <block id="325" name="wallLight01" count="2"/>
+    <block id="928" name="whiteMetalBlock" count="24"/>
+  </blocks>
+</prefab>

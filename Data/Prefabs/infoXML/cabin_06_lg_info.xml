@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="cabin_06_lg">
+  <size x="20" y="15" z="24"/>
+  <blocks>
+    <block id="0" name="air" count="5324"/>
+    <block id="1467" name="bed02" count="1"/>
+    <block id="1001" name="cabinFlagstoneRamp" count="5"/>
+    <block id="1301" name="candleWall" count="2"/>
+    <block id="1261" name="cntBeerCooler" count="1"/>
+    <block id="737" name="cntBookcase" count="1"/>
+    <block id="1074" name="cntCabinetOldBottom" count="6"/>
+    <block id="1075" name="cntCabinetOldTop" count="6"/>
+    <block id="519" name="cntDesk01" count="1"/>
+    <block id="349" name="cntFridge" count="1"/>
+    <block id="286" name="cntMedicineCabinet" count="1"/>
+    <block id="435" name="cntToilet02" count="1"/>
+    <block id="1009" name="curtain_bottom1Sheet3" count="5"/>
+    <block id="799" name="curtain_top1Sheet3" count="5"/>
+    <block id="1403" name="emberPile1" count="1"/>
+    <block id="547" name="endTable" count="1"/>
+    <block id="548" name="endTableLamp" count="1"/>
+    <block id="948" name="flagstoneBlock" count="274"/>
+    <block id="1352" name="flagstoneStairs25" count="10"/>
+    <block id="556" name="forge" count="1"/>
+    <block id="1353" name="furRugBlock" count="21"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="16" name="gravel" count="21"/>
+    <block id="1263" name="greenMetalBlock" count="58"/>
+    <block id="1358" name="greenMetalGable" count="16"/>
+    <block id="1262" name="greenMetalRamp" count="200"/>
+    <block id="270" name="greenMetalRoofCNRInside" count="6"/>
+    <block id="1356" name="greenMetalWedge" count="29"/>
+    <block id="1357" name="greenMetalWedgeTip" count="28"/>
+    <block id="794" name="logCabinBlock" count="261"/>
+    <block id="1354" name="logCabinRamp" count="77"/>
+    <block id="312" name="oldChair" count="2"/>
+    <block id="277" name="painting01" count="1"/>
+    <block id="907" name="painting02" count="1"/>
+    <block id="1377" name="plainWoodWindowPlug" count="2"/>
+    <block id="316" name="porchLight01" count="3"/>
+    <block id="918" name="powerPoleWoodPillar100" count="12"/>
+    <block id="1144" name="railingOldWoodSheet" count="36"/>
+    <block id="1418" name="rScrapIronTable" count="5"/>
+    <block id="631" name="secureDoorWooden" count="4"/>
+    <block id="1326" name="signShopColdBeer" count="1"/>
+    <block id="28" name="terrainFiller" count="459"/>
+    <block id="871" name="treeDeadPineLeaf" count="3"/>
+    <block id="885" name="treePlant02" count="1"/>
+    <block id="552" name="tv" count="1"/>
+    <block id="617" name="whiteSidingWoodPanelBurnt6" count="5"/>
+    <block id="1413" name="window03Wood" count="2"/>
+    <block id="1409" name="window03WoodBroke1" count="5"/>
+    <block id="1410" name="window03WoodBroke2" count="5"/>
+    <block id="1411" name="window03WoodBroke3" count="6"/>
+    <block id="1414" name="window03WoodFrame" count="17"/>
+    <block id="1378" name="WindowPlug01" count="2"/>
+    <block id="220" name="woodBlock" count="222"/>
+    <block id="988" name="woodPole" count="10"/>
+    <block id="237" name="woodStairs25" count="12"/>
+    <block id="174" name="woodSupport" count="16"/>
+  </blocks>
+</prefab>

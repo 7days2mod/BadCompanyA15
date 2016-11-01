@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="oldwest_md_shop_03">
+  <size x="13" y="12" z="13"/>
+  <blocks>
+    <block id="0" name="air" count="1301"/>
+    <block id="463" name="bed01" count="2"/>
+    <block id="360" name="boardedWindowsSheet4" count="2"/>
+    <block id="709" name="cabinetOldFillerBlock" count="5"/>
+    <block id="1074" name="cntCabinetOldBottom" count="1"/>
+    <block id="944" name="cntCabinetOldSink" count="1"/>
+    <block id="286" name="cntMedicineCabinet" count="1"/>
+    <block id="343" name="cntTrashPile04" count="1"/>
+    <block id="348" name="cntTrashPile09" count="1"/>
+    <block id="1388" name="cobweb" count="1"/>
+    <block id="926" name="corrugatedMetalSheetDuplicate" count="1"/>
+    <block id="1009" name="curtain_bottom1Sheet3" count="1"/>
+    <block id="799" name="curtain_top1Sheet3" count="1"/>
+    <block id="622" name="faucetBrass04" count="1"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="373" name="oilBarrel" count="2"/>
+    <block id="312" name="oldChair" count="5"/>
+    <block id="910" name="oldStuccoWoodWedge" count="28"/>
+    <block id="912" name="oldStuccoWoodWedgeTip" count="28"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="1"/>
+    <block id="1108" name="plywoodOsbCTRPlate" count="2"/>
+    <block id="316" name="porchLight01" count="2"/>
+    <block id="1144" name="railingOldWoodSheet" count="20"/>
+    <block id="1418" name="rScrapIronTable" count="1"/>
+    <block id="631" name="secureDoorWooden" count="3"/>
+    <block id="831" name="tanStuccoBlock" count="275"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="4"/>
+    <block id="871" name="treeDeadPineLeaf" count="4"/>
+    <block id="1413" name="window03Wood" count="1"/>
+    <block id="1409" name="window03WoodBroke1" count="4"/>
+    <block id="1410" name="window03WoodBroke2" count="2"/>
+    <block id="1411" name="window03WoodBroke3" count="1"/>
+    <block id="1414" name="window03WoodFrame" count="6"/>
+    <block id="1378" name="WindowPlug01" count="4"/>
+    <block id="220" name="woodBlock" count="213"/>
+    <block id="988" name="woodPole" count="77"/>
+    <block id="222" name="woodRamp" count="8"/>
+    <block id="237" name="woodStairs25" count="13"/>
+    <block id="1416" name="woodTable" count="2"/>
+  </blocks>
+</prefab>

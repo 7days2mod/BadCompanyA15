@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="waste_rubble_highway_01">
+  <size x="17" y="12" z="11"/>
+  <blocks>
+    <block id="0" name="air" count="1762"/>
+    <block id="1039" name="asphaltRamp" count="6"/>
+    <block id="817" name="bridgeAsphaltBlock" count="73"/>
+    <block id="819" name="bridgeConcreteBlock" count="59"/>
+    <block id="1775" name="burningBarrel" count="1"/>
+    <block id="374" name="cinderBlocks01" count="1"/>
+    <block id="538" name="cinderBlocks03" count="1"/>
+    <block id="1461" name="cntCar03WhiteDamage1" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="1245" name="cntSupplyCrateShotgunMessiah" count="1"/>
+    <block id="211" name="concreteBlock" count="16"/>
+    <block id="593" name="concreteDestroyed1" count="6"/>
+    <block id="598" name="concreteDestroyed6" count="3"/>
+    <block id="377" name="concretePillar100" count="19"/>
+    <block id="783" name="concretePlate" count="32"/>
+    <block id="247" name="concreteRamp" count="22"/>
+    <block id="1551" name="industrialLight01" count="2"/>
+    <block id="402" name="metalTrussingSheet" count="27"/>
+    <block id="404" name="orangeConcretePillar100" count="5"/>
+    <block id="4" name="plainsGround" count="159"/>
+    <block id="517" name="rebarDestroyed" count="1"/>
+    <block id="1612" name="roadRailingEnd" count="4"/>
+    <block id="1611" name="roadRailingPole" count="26"/>
+    <block id="417" name="scrapMetalPile" count="3"/>
+    <block id="1346" name="shoppingCartEmpty" count="2"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="7"/>
+    <block id="871" name="treeDeadPineLeaf" count="2"/>
+    <block id="582" name="treeDeadTree02" count="2"/>
+  </blocks>
+</prefab>

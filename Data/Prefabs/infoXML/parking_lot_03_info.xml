@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="parking_lot_03">
+  <size x="35" y="11" z="35"/>
+  <blocks>
+    <block id="0" name="air" count="11662"/>
+    <block id="15" name="asphalt" count="1224"/>
+    <block id="403" name="blueConcretePillar100" count="5"/>
+    <block id="633" name="blueMetalBlock" count="20"/>
+    <block id="632" name="blueMetalRamp1" count="5"/>
+    <block id="360" name="boardedWindowsSheet4" count="12"/>
+    <block id="954" name="brickDecayedBlock" count="165"/>
+    <block id="583" name="brickDecayedBroke1Block" count="1"/>
+    <block id="712" name="cabinetTopPlate" count="1"/>
+    <block id="1339" name="cashRegisterEmpty" count="1"/>
+    <block id="1439" name="chainLinkCornerBottom" count="1"/>
+    <block id="1435" name="chainLinkFenceTop" count="144"/>
+    <block id="1436" name="chainLinkFenceTopPole" count="68"/>
+    <block id="518" name="chair01" count="1"/>
+    <block id="1454" name="cntCar03BlueDamage1" count="2"/>
+    <block id="1455" name="cntCar03Damage2" count="1"/>
+    <block id="1456" name="cntCar03Red" count="1"/>
+    <block id="1460" name="cntCar03White" count="1"/>
+    <block id="1461" name="cntCar03WhiteDamage1" count="1"/>
+    <block id="1458" name="cntCar03Yellow" count="1"/>
+    <block id="1481" name="cntDumpster" count="1"/>
+    <block id="626" name="cntLockers" count="2"/>
+    <block id="335" name="cntTrash_can01" count="2"/>
+    <block id="345" name="cntTrashPile06" count="1"/>
+    <block id="347" name="cntTrashPile08" count="1"/>
+    <block id="1175" name="commercialDoor4_v3" count="1"/>
+    <block id="775" name="concreteHalf" count="8"/>
+    <block id="377" name="concretePillar100" count="5"/>
+    <block id="396" name="corrugatedMetalSheet" count="18"/>
+    <block id="926" name="corrugatedMetalSheetDuplicate" count="5"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1483" name="garbage_decor2" count="1"/>
+    <block id="1484" name="garbage_decor3" count="1"/>
+    <block id="558" name="ironBars" count="45"/>
+    <block id="466" name="mattressFlat" count="1"/>
+    <block id="316" name="porchLight01" count="1"/>
+    <block id="922" name="rustyIronPillar50" count="35"/>
+    <block id="384" name="scrapIronSheet" count="14"/>
+    <block id="417" name="scrapMetalPile" count="2"/>
+    <block id="1927" name="signShopOpen" count="1"/>
+    <block id="364" name="streetLight01" count="5"/>
+    <block id="391" name="tileIndustrialDecayedBrickBlock" count="1"/>
+    <block id="898" name="tire" count="3"/>
+    <block id="569" name="treeDeadShrub" count="3"/>
+  </blocks>
+</prefab>

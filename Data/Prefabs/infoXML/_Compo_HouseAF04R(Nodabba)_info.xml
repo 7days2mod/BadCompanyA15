@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="_Compo_HouseAF04R(Nodabba)">
+  <size x="15" y="13" z="15"/>
+  <blocks>
+    <block id="0" name="air" count="1578"/>
+    <block id="365" name="airConditioner" count="2"/>
+    <block id="463" name="bed01" count="1"/>
+    <block id="360" name="boardedWindowsSheet4" count="23"/>
+    <block id="275" name="brickpaintedBlock" count="208"/>
+    <block id="820" name="bridgeWoodBlock" count="39"/>
+    <block id="1001" name="cabinFlagstoneRamp" count="7"/>
+    <block id="843" name="Carpet1Block" count="41"/>
+    <block id="320" name="ceilingLight02" count="3"/>
+    <block id="323" name="ceilingLight05" count="2"/>
+    <block id="542" name="cntBirdnest" count="2"/>
+    <block id="725" name="cntBookStoreBookcase" count="2"/>
+    <block id="1074" name="cntCabinetOldBottom" count="1"/>
+    <block id="944" name="cntCabinetOldSink" count="2"/>
+    <block id="624" name="cntCooler" count="1"/>
+    <block id="361" name="cntCorpseLoot01" count="2"/>
+    <block id="368" name="cntCorpseLoot02" count="2"/>
+    <block id="349" name="cntFridge" count="1"/>
+    <block id="286" name="cntMedicineCabinet" count="1"/>
+    <block id="337" name="cntNightstand" count="3"/>
+    <block id="311" name="cntOven" count="1"/>
+    <block id="434" name="cntToilet01" count="1"/>
+    <block id="340" name="cntTrashPile01" count="1"/>
+    <block id="342" name="cntTrashPile03" count="1"/>
+    <block id="343" name="cntTrashPile04" count="1"/>
+    <block id="344" name="cntTrashPile05" count="1"/>
+    <block id="345" name="cntTrashPile06" count="1"/>
+    <block id="346" name="cntTrashPile07" count="1"/>
+    <block id="347" name="cntTrashPile08" count="1"/>
+    <block id="348" name="cntTrashPile09" count="1"/>
+    <block id="211" name="concreteBlock" count="135"/>
+    <block id="1404" name="emberPile2" count="1"/>
+    <block id="548" name="endTableLamp" count="2"/>
+    <block id="620" name="faucet04" count="2"/>
+    <block id="948" name="flagstoneBlock" count="31"/>
+    <block id="786" name="garageDoor1CTRPlate" count="9"/>
+    <block id="1160" name="glassBusinessBlock" count="45"/>
+    <block id="1181" name="houseFrontDoor1_v3" count="2"/>
+    <block id="1226" name="houseFrontDoor2_v1" count="3"/>
+    <block id="1552" name="metalPipeValve" count="2"/>
+    <block id="1383" name="mushroom02" count="4"/>
+    <block id="312" name="oldChair" count="5"/>
+    <block id="4" name="plainsGround" count="175"/>
+    <block id="1194" name="plainWoodBarricade02Plate" count="10"/>
+    <block id="317" name="porchLight04" count="1"/>
+    <block id="1143" name="railingWoodWhiteSheet" count="12"/>
+    <block id="1145" name="railingWroughtIronSheet" count="2"/>
+    <block id="919" name="rustyIronPillar100" count="1"/>
+    <block id="705" name="rWoodPillar100" count="13"/>
+    <block id="313" name="sectionalMiddle" count="3"/>
+    <block id="591" name="treeDesertShrub" count="2"/>
+    <block id="772" name="treePlainsGrassDiagonal" count="28"/>
+    <block id="885" name="treePlant02" count="7"/>
+    <block id="656" name="window02" count="3"/>
+    <block id="1192" name="woodBarricadePlate" count="18"/>
+    <block id="220" name="woodBlock" count="19"/>
+    <block id="942" name="woodGreenShinglesRamp" count="266"/>
+    <block id="164" name="woodPlate" count="2"/>
+    <block id="222" name="woodRamp" count="167"/>
+    <block id="1062" name="woodShinglesGable" count="17"/>
+    <block id="237" name="woodStairs25" count="7"/>
+  </blocks>
+</prefab>

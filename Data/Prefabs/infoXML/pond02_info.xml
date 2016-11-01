@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="pond02">
+  <size x="33" y="13" z="31"/>
+  <blocks>
+    <block id="0" name="air" count="2813"/>
+    <block id="424" name="cntBackpack02" count="1"/>
+    <block id="3" name="dirt" count="8091"/>
+    <block id="297" name="rock01" count="1"/>
+    <block id="298" name="rock02" count="1"/>
+    <block id="630" name="rockResource" count="2"/>
+    <block id="640" name="rockResource02" count="1"/>
+    <block id="644" name="rockResourceBroke1" count="1"/>
+    <block id="1" name="stone" count="207"/>
+    <block id="28" name="terrainFiller" count="642"/>
+    <block id="898" name="tire" count="1"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="9"/>
+    <block id="577" name="treeBurntPine01" count="2"/>
+    <block id="578" name="treeBurntPine02" count="2"/>
+    <block id="579" name="treeBurntPine03" count="1"/>
+    <block id="871" name="treeDeadPineLeaf" count="8"/>
+    <block id="569" name="treeDeadShrub" count="4"/>
+    <block id="864" name="treeGreenBrownGrassDiagonal" count="5"/>
+    <block id="772" name="treePlainsGrassDiagonal" count="9"/>
+    <block id="768" name="treeTallGrassDiagonal" count="10"/>
+    <block id="1472" name="waterSource8" count="1488"/>
+  </blocks>
+</prefab>

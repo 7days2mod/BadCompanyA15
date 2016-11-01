@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_hole_asphalt_01">
+  <size x="9" y="5" z="9"/>
+  <blocks>
+    <block id="0" name="air" count="127"/>
+    <block id="15" name="asphalt" count="60"/>
+    <block id="374" name="cinderBlocks01" count="3"/>
+    <block id="538" name="cinderBlocks03" count="1"/>
+    <block id="26" name="destroyedStone" count="205"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="7"/>
+    <block id="768" name="treeTallGrassDiagonal" count="2"/>
+  </blocks>
+</prefab>

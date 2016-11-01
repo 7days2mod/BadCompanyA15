@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="_Compo_House3(Curbolt)">
+  <size x="26" y="17" z="18"/>
+  <blocks>
+    <block id="694" name="adobePeachDrywallBlock" count="93"/>
+    <block id="0" name="air" count="5057"/>
+    <block id="463" name="bed01" count="1"/>
+    <block id="1562" name="bedroll" count="2"/>
+    <block id="1079" name="Carpet2WoodPainted2Block" count="204"/>
+    <block id="319" name="ceilingLight01" count="1"/>
+    <block id="320" name="ceilingLight02" count="6"/>
+    <block id="737" name="cntBookcase" count="1"/>
+    <block id="519" name="cntDesk01" count="1"/>
+    <block id="369" name="cntMailBox01" count="1"/>
+    <block id="286" name="cntMedicineCabinet" count="1"/>
+    <block id="337" name="cntNightstand" count="1"/>
+    <block id="434" name="cntToilet01" count="1"/>
+    <block id="1053" name="dotsWoodShinglesCNRInside" count="8"/>
+    <block id="861" name="hayBaleBlock" count="30"/>
+    <block id="1176" name="houseFrontDoor1_v1" count="1"/>
+    <block id="1180" name="houseFrontDoor1_v2" count="1"/>
+    <block id="1228" name="houseFrontDoor2_v3" count="2"/>
+    <block id="788" name="ladderWood" count="8"/>
+    <block id="874" name="lootHouse" count="12"/>
+    <block id="643" name="metalReinforcedDoorWooden" count="12"/>
+    <block id="1382" name="mushroom01" count="2"/>
+    <block id="312" name="oldChair" count="1"/>
+    <block id="277" name="painting01" count="5"/>
+    <block id="907" name="painting02" count="1"/>
+    <block id="1377" name="plainWoodWindowPlug" count="10"/>
+    <block id="293" name="rWoodBlock" count="698"/>
+    <block id="233" name="rWoodCNRFull" count="6"/>
+    <block id="228" name="rWoodCNRInside" count="2"/>
+    <block id="315" name="sectionalArm" count="4"/>
+    <block id="314" name="sectionalCorner" count="2"/>
+    <block id="313" name="sectionalMiddle" count="8"/>
+    <block id="1106" name="shutters1Plate" count="72"/>
+    <block id="1022" name="sidingYellowOldWoodBlock" count="60"/>
+    <block id="803" name="sidingYellowPlasterBaseboardBlock" count="41"/>
+    <block id="1020" name="sidingYellowPlasterMiddleBlock" count="37"/>
+    <block id="1021" name="sidingYellowPlasterTopBlock" count="48"/>
+    <block id="885" name="treePlant02" count="2"/>
+    <block id="553" name="tv_fallen" count="1"/>
+    <block id="715" name="wallPlasterBaseboard2Block" count="15"/>
+    <block id="716" name="wallPlasterMiddle2Block" count="15"/>
+    <block id="717" name="wallPlasterTop2Block" count="17"/>
+    <block id="656" name="window02" count="25"/>
+    <block id="1196" name="window02Broken01CTRPlate" count="10"/>
+    <block id="1197" name="window02Broken02CTRPlate" count="12"/>
+    <block id="1199" name="window02Broken03CTRPlate" count="1"/>
+    <block id="1378" name="WindowPlug01" count="8"/>
+    <block id="1379" name="WindowPlug02" count="15"/>
+    <block id="1380" name="WindowPlug03" count="14"/>
+    <block id="1381" name="WindowPlug04" count="3"/>
+    <block id="220" name="woodBlock" count="385"/>
+    <block id="894" name="woodFenceFarmSheet" count="94"/>
+    <block id="1252" name="woodHatch1_v2" count="1"/>
+    <block id="1253" name="woodHatch1_v3" count="1"/>
+    <block id="988" name="woodPole" count="87"/>
+    <block id="222" name="woodRamp" count="198"/>
+    <block id="795" name="woodShinglesBlock" count="14"/>
+    <block id="796" name="woodShinglesRamp" count="580"/>
+    <block id="237" name="woodStairs25" count="15"/>
+    <block id="1416" name="woodTable" count="2"/>
+  </blocks>
+</prefab>

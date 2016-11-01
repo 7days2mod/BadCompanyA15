@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="blueberryfield_sm">
+  <size x="12" y="2" z="12"/>
+  <blocks>
+    <block id="0" name="air" count="72"/>
+    <block id="3" name="dirt" count="144"/>
+    <block id="258" name="plantedBlueberry3Harvest" count="72"/>
+  </blocks>
+</prefab>

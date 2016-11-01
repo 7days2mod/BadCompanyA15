@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="canyon_gift_shop_sign">
+  <size x="3" y="12" z="14"/>
+  <blocks>
+    <block id="0" name="air" count="371"/>
+    <block id="361" name="cntCorpseLoot01" count="1"/>
+    <block id="368" name="cntCorpseLoot02" count="1"/>
+    <block id="377" name="concretePillar100" count="4"/>
+    <block id="1548" name="metalPipeCorner" count="2"/>
+    <block id="1553" name="metalPipeFlange" count="2"/>
+    <block id="1549" name="metalPipeJoint" count="4"/>
+    <block id="1800" name="metalSignLetter_a" count="3"/>
+    <block id="1801" name="metalSignLetter_b" count="1"/>
+    <block id="1802" name="metalSignLetter_c" count="3"/>
+    <block id="1803" name="metalSignLetter_d" count="3"/>
+    <block id="1804" name="metalSignLetter_e" count="3"/>
+    <block id="1805" name="metalSignLetter_f" count="1"/>
+    <block id="1806" name="metalSignLetter_g" count="1"/>
+    <block id="1807" name="metalSignLetter_h" count="1"/>
+    <block id="1808" name="metalSignLetter_i" count="1"/>
+    <block id="1810" name="metalSignLetter_k" count="1"/>
+    <block id="1811" name="metalSignLetter_l" count="1"/>
+    <block id="1812" name="metalSignLetter_m" count="2"/>
+    <block id="1813" name="metalSignLetter_n" count="2"/>
+    <block id="1814" name="metalSignLetter_o" count="2"/>
+    <block id="1817" name="metalSignLetter_r" count="2"/>
+    <block id="1818" name="metalSignLetter_s" count="1"/>
+    <block id="1819" name="metalSignLetter_t" count="1"/>
+    <block id="1820" name="metalSignLetter_u" count="2"/>
+    <block id="922" name="rustyIronPillar50" count="36"/>
+    <block id="325" name="wallLight01" count="4"/>
+    <block id="928" name="whiteMetalBlock" count="48"/>
+  </blocks>
+</prefab>

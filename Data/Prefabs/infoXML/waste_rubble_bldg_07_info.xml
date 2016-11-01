@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="waste_rubble_bldg_07">
+  <size x="16" y="19" z="14"/>
+  <blocks>
+    <block id="0" name="air" count="3682"/>
+    <block id="954" name="brickDecayedBlock" count="206"/>
+    <block id="583" name="brickDecayedBroke1Block" count="2"/>
+    <block id="584" name="brickDecayedBroke2Block" count="10"/>
+    <block id="585" name="brickDecayedBroke3Block" count="1"/>
+    <block id="1041" name="brickDecayedRamp" count="3"/>
+    <block id="374" name="cinderBlocks01" count="2"/>
+    <block id="416" name="cinderBlocks02" count="2"/>
+    <block id="538" name="cinderBlocks03" count="1"/>
+    <block id="423" name="cntBackpack01" count="1"/>
+    <block id="520" name="cntDesk02" count="1"/>
+    <block id="1481" name="cntDumpster" count="1"/>
+    <block id="628" name="cntGunSafe" count="1"/>
+    <block id="1246" name="cntLootCrateShotgunMessiah" count="1"/>
+    <block id="211" name="concreteBlock" count="29"/>
+    <block id="594" name="concreteDestroyed2" count="3"/>
+    <block id="980" name="concreteTileGreenBlock" count="89"/>
+    <block id="26" name="destroyedStone" count="190"/>
+    <block id="1215" name="doorFrameMetal1" count="2"/>
+    <block id="1216" name="doorFrameMetal2" count="2"/>
+    <block id="1219" name="doorFrameMetalBoarded1" count="1"/>
+    <block id="1220" name="doorFrameMetalBoarded2" count="1"/>
+    <block id="1482" name="garbage_decor1" count="1"/>
+    <block id="1207" name="glassIndustrial02Broken01CTRPlate" count="4"/>
+    <block id="1208" name="glassIndustrial02Broken02CTRPlate" count="1"/>
+    <block id="1206" name="glassIndustrial02CTRPlate" count="5"/>
+    <block id="263" name="lootWasteland" count="1"/>
+    <block id="1195" name="plainWoodBarricade02CTRPlate" count="3"/>
+    <block id="1108" name="plywoodOsbCTRPlate" count="1"/>
+    <block id="1107" name="plywoodOsbPlate" count="3"/>
+    <block id="517" name="rebarDestroyed" count="3"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="1"/>
+    <block id="871" name="treeDeadPineLeaf" count="1"/>
+    <block id="1193" name="woodBarricadeCTRPlate" count="1"/>
+  </blocks>
+</prefab>

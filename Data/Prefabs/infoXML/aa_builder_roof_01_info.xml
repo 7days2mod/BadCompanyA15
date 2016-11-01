@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="aa_builder_roof_01">
+  <size x="7" y="7" z="7"/>
+  <blocks>
+    <block id="0" name="air" count="219"/>
+    <block id="1019" name="sidingWhiteBurntBlock" count="41"/>
+    <block id="281" name="woodShinglesCNRFull" count="5"/>
+    <block id="1054" name="woodShinglesCNRInside" count="6"/>
+    <block id="796" name="woodShinglesRamp" count="72"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="rg_bridge_45_01">
+  <size x="48" y="11" z="48"/>
+  <blocks>
+    <block id="0" name="air" count="23418"/>
+    <block id="15" name="asphalt" count="745"/>
+    <block id="818" name="bridgeMetalRivetBlock" count="881"/>
+    <block id="798" name="metalRivetRamp" count="300"/>
+  </blocks>
+</prefab>

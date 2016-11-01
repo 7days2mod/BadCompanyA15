@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="tree_bruntpine_cluster_01">
+  <size x="6" y="11" z="4"/>
+  <blocks>
+    <block id="0" name="air" count="258"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="4"/>
+    <block id="577" name="treeBurntPine01" count="1"/>
+    <block id="578" name="treeBurntPine02" count="1"/>
+  </blocks>
+</prefab>

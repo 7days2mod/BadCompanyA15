@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="water_tower_01">
+  <size x="9" y="13" z="10"/>
+  <blocks>
+    <block id="0" name="air" count="935"/>
+    <block id="860" name="corrugatedMetalBlock" count="10"/>
+    <block id="415" name="corrugatedMetalCNRFull" count="8"/>
+    <block id="889" name="corrugatedMetalRamp" count="16"/>
+    <block id="389" name="ladderMetal" count="10"/>
+    <block id="1548" name="metalPipeCorner" count="1"/>
+    <block id="1553" name="metalPipeFlange" count="11"/>
+    <block id="1546" name="metalPipeStraight" count="1"/>
+    <block id="921" name="powerPoleWoodPillar50" count="20"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="2"/>
+    <block id="871" name="treeDeadPineLeaf" count="3"/>
+    <block id="569" name="treeDeadShrub" count="1"/>
+    <block id="1472" name="waterSource8" count="30"/>
+    <block id="928" name="whiteMetalBlock" count="57"/>
+    <block id="929" name="whiteMetalRamp" count="16"/>
+    <block id="220" name="woodBlock" count="49"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="cemetery_01">
+  <size x="44" y="20" z="44"/>
+  <blocks>
+    <block id="0" name="air" count="33306"/>
+    <block id="954" name="brickDecayedBlock" count="220"/>
+    <block id="275" name="brickpaintedBlock" count="322"/>
+    <block id="1000" name="cabinOldWoodRamp" count="86"/>
+    <block id="542" name="cntBirdnest" count="1"/>
+    <block id="1468" name="cntCoffin" count="49"/>
+    <block id="361" name="cntCorpseLoot01" count="2"/>
+    <block id="368" name="cntCorpseLoot02" count="2"/>
+    <block id="367" name="cntWallSafe" count="1"/>
+    <block id="1072" name="concreteStairs25" count="2"/>
+    <block id="959" name="concreteTrim3Block" count="8"/>
+    <block id="960" name="concreteTrimBlock" count="70"/>
+    <block id="3" name="dirt" count="97"/>
+    <block id="982" name="dotsGreenShinglesCNRFull" count="4"/>
+    <block id="966" name="dotsGreenShinglesRampDuplicate1" count="192"/>
+    <block id="1086" name="dotsWoodBlock" count="1"/>
+    <block id="786" name="garageDoor1CTRPlate" count="4"/>
+    <block id="1207" name="glassIndustrial02Broken01CTRPlate" count="7"/>
+    <block id="1208" name="glassIndustrial02Broken02CTRPlate" count="6"/>
+    <block id="1206" name="glassIndustrial02CTRPlate" count="11"/>
+    <block id="16" name="gravel" count="378"/>
+    <block id="352" name="graveStone01" count="13"/>
+    <block id="353" name="graveStone02" count="11"/>
+    <block id="354" name="graveStone03" count="18"/>
+    <block id="356" name="graveStone05" count="3"/>
+    <block id="357" name="graveStone06" count="4"/>
+    <block id="358" name="graveStone07" count="5"/>
+    <block id="359" name="graveStone08" count="2"/>
+    <block id="962" name="graveStone1Half" count="6"/>
+    <block id="1005" name="houseWoodWhiteRamp" count="27"/>
+    <block id="558" name="ironBars" count="272"/>
+    <block id="328" name="pew_segment01" count="8"/>
+    <block id="329" name="pew_segment02" count="8"/>
+    <block id="330" name="pew_segment03" count="8"/>
+    <block id="316" name="porchLight01" count="2"/>
+    <block id="1106" name="shutters1Plate" count="4"/>
+    <block id="28" name="terrainFiller" count="3300"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="33"/>
+    <block id="577" name="treeBurntPine01" count="3"/>
+    <block id="578" name="treeBurntPine02" count="2"/>
+    <block id="871" name="treeDeadPineLeaf" count="24"/>
+    <block id="569" name="treeDeadShrub" count="6"/>
+    <block id="581" name="treeDeadTree01" count="3"/>
+    <block id="582" name="treeDeadTree02" count="1"/>
+    <block id="864" name="treeGreenBrownGrassDiagonal" count="30"/>
+    <block id="220" name="woodBlock" count="105"/>
+    <block id="990" name="woodPainted3Pole" count="52"/>
+    <block id="237" name="woodStairs25" count="1"/>
+  </blocks>
+</prefab>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="mp_waste_sewer_hole_1">
+  <size x="33" y="13" z="31"/>
+  <blocks>
+    <block id="0" name="air" count="3355"/>
+    <block id="374" name="cinderBlocks01" count="3"/>
+    <block id="416" name="cinderBlocks02" count="4"/>
+    <block id="538" name="cinderBlocks03" count="10"/>
+    <block id="628" name="cntGunSafe" count="1"/>
+    <block id="343" name="cntTrashPile04" count="1"/>
+    <block id="347" name="cntTrashPile08" count="1"/>
+    <block id="26" name="destroyedStone" count="8954"/>
+    <block id="417" name="scrapMetalPile" count="11"/>
+    <block id="767" name="treeBrownGrassDiagonal" count="8"/>
+    <block id="577" name="treeBurntPine01" count="1"/>
+    <block id="578" name="treeBurntPine02" count="1"/>
+    <block id="579" name="treeBurntPine03" count="1"/>
+    <block id="871" name="treeDeadPineLeaf" count="7"/>
+    <block id="569" name="treeDeadShrub" count="3"/>
+    <block id="565" name="treeMountainPineDry" count="1"/>
+    <block id="768" name="treeTallGrassDiagonal" count="2"/>
+    <block id="1472" name="waterSource8" count="935"/>
+  </blocks>
+</prefab>

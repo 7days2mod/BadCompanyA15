@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="perishton_city_sign_01">
+  <size x="3" y="15" z="13"/>
+  <blocks>
+    <block id="0" name="air" count="486"/>
+    <block id="377" name="concretePillar100" count="4"/>
+    <block id="1548" name="metalPipeCorner" count="2"/>
+    <block id="1553" name="metalPipeFlange" count="2"/>
+    <block id="1549" name="metalPipeJoint" count="4"/>
+    <block id="1801" name="metalSignLetter_b" count="1"/>
+    <block id="1803" name="metalSignLetter_d" count="1"/>
+    <block id="1804" name="metalSignLetter_e" count="2"/>
+    <block id="1806" name="metalSignLetter_g" count="1"/>
+    <block id="1807" name="metalSignLetter_h" count="1"/>
+    <block id="1808" name="metalSignLetter_i" count="1"/>
+    <block id="1813" name="metalSignLetter_n" count="1"/>
+    <block id="1814" name="metalSignLetter_o" count="3"/>
+    <block id="1815" name="metalSignLetter_p" count="1"/>
+    <block id="1817" name="metalSignLetter_r" count="1"/>
+    <block id="1818" name="metalSignLetter_s" count="1"/>
+    <block id="1819" name="metalSignLetter_t" count="1"/>
+    <block id="1824" name="metalSignLetter_y" count="1"/>
+    <block id="922" name="rustyIronPillar50" count="38"/>
+    <block id="928" name="whiteMetalBlock" count="33"/>
+  </blocks>
+</prefab>

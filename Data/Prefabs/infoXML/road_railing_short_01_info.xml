@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab name="road_railing_short_01">
+  <size x="12" y="1" z="1"/>
+  <blocks>
+    <block id="1610" name="roadRailing" count="6"/>
+    <block id="1612" name="roadRailingEnd" count="1"/>
+    <block id="1613" name="roadRailingEnd2" count="1"/>
+    <block id="1611" name="roadRailingPole" count="4"/>
+  </blocks>
+</prefab>
