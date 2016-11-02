@@ -8520,7 +8520,7 @@
     </property>
     <property class="Attributes">
       <property name="FalloffRange" value="50,50"/>
-      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="Accuracy" value="0.05,0.05"/>
       <property name="EntityDamage" value="15,15"/>
       <property name="BlockDamage" value="5,5"/>
     </property>
@@ -8559,7 +8559,7 @@
     </property>
     <property class="Attributes">
       <property name="FalloffRange" value="50,50"/>
-      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="Accuracy" value="0.05,0.05"/>
       <property name="EntityDamage" value="35,35"/>
       <property name="BlockDamage" value="10,10"/>
     </property>
@@ -8602,7 +8602,7 @@
     </property>
     <property class="Attributes">
       <property name="FalloffRange" value="66,66"/>
-      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="Accuracy" value="0.05,0.05"/>
       <property name="EntityDamage" value="8,8"/>
       <property name="BlockDamage" value="5,5"/>
     </property>
@@ -8645,7 +8645,7 @@
     </property>
     <property class="Attributes">
       <property name="FalloffRange" value="66,66"/>
-      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="Accuracy" value="0.05,0.05"/>
       <property name="EntityDamage" value="8,8"/>
       <property name="BlockDamage" value="5,5"/>
     </property>
@@ -8692,7 +8692,7 @@
     </property>
     <property class="Attributes">
       <property name="FalloffRange" value="72,72"/>
-      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="Accuracy" value="0.05,0.05"/>
       <property name="EntityDamage" value="25,25"/>
       <property name="BlockDamage" value="5,5"/>
     </property>
@@ -8739,7 +8739,7 @@
     </property>
     <property class="Attributes">
       <property name="FalloffRange" value="90,90"/>
-      <property name="Accuracy" value="0.1,0.1"/>
+      <property name="Accuracy" value="0.05,0.05"/>
       <property name="EntityDamage" value="35,35"/>
       <property name="BlockDamage" value="5,5"/>
     </property>
@@ -8782,7 +8782,7 @@
       <property name="DismembermentBaseChance" value="0.25,0.25"/>
       <property name="DismembermentBonus" value="0.00045,0.00045"/>
       <property name="FalloffRange" value="160,160"/>
-      <property name="Accuracy" value="0.05,0.05"/>
+      <property name="Accuracy" value="0.03,0.03"/>
       <property name="EntityDamage" value="65,65"/>
       <property name="BlockDamage" value="5,5"/>
     </property>
